@@ -137,10 +137,13 @@ function parseSections(text) {
 }
 
 /**
- * Strip the 「」 brackets from a Japanese speech content line.
+ * Strip the 「」 or （） brackets from a Japanese speech content line.
  */
 function stripBracketsJP(line) {
-  if (line.startsWith("「") && line.endsWith("」")) {
+  if (
+    (line.startsWith("「") && line.endsWith("」")) ||
+    (line.startsWith("（") && line.endsWith("）"))
+  ) {
     return line.slice(1, -1);
   }
   return line;

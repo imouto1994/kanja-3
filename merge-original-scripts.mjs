@@ -48,13 +48,17 @@ async function main() {
     const entries = JSON.parse(raw);
 
     // Step 3: Convert each JSON entry to text lines.
-    // Dialogue entries (with `name`) become ＃{name} + 「{message}」.
+    // Dialogue entries (with `name`) become ＃{name} + speech content.
+    // If the message already has its own brackets (（）), use it as-is;
+    // otherwise wrap in 「」.
     // Narration entries (no `name`) become a plain {message} line.
     const lines = [];
     for (const entry of entries) {
       if (entry.name) {
         lines.push(`＃${entry.name}`);
-        lines.push(`「${entry.message}」`);
+        const alreadyBracketed =
+          entry.message.startsWith("（") && entry.message.endsWith("）");
+        lines.push(alreadyBracketed ? entry.message : `「${entry.message}」`);
       } else {
         lines.push(entry.message);
       }

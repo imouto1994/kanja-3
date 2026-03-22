@@ -30,16 +30,17 @@ const HEADER_SEPARATOR = "********************";
 const isSpeechSourceJP = (line) => line.startsWith("＃");
 const isSpeechSourceEN = (line) => line.startsWith("#");
 
-// Original uses 「」, translated uses \u201C\u201D.
+// Original uses 「」 or （）, translated uses \u201C\u201D.
 const isSpeechContentJP = (line) =>
-  line.startsWith("「") && line.endsWith("」");
+  (line.startsWith("「") && line.endsWith("」")) ||
+  (line.startsWith("（") && line.endsWith("）"));
 const isSpeechContentEN = (line) =>
   line.startsWith("\u201C") && line.endsWith("\u201D");
 
 /**
  * Classify a line into one of three structural types:
  *   "source"  — speaker name (＃ in original, # in translated)
- *   "speech"  — speech content (「…」 in original, \u201C…\u201D in translated)
+ *   "speech"  — speech content (「…」/（…） in original, \u201C…\u201D in translated)
  *   "normal"  — narration / everything else
  */
 function lineType(line, isTranslated) {
