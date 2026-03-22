@@ -1,0 +1,261 @@
+/**
+ * Validate Translations
+ *
+ * Compares `merged-translated.txt` against `merged-original.txt` to ensure
+ * structural consistency across all file sections.
+ *
+ * Checks performed per section:
+ *   1. Every original section has a matching translated section (by filename).
+ *   2. Non-empty line counts match.
+ *   3. Line types match (source / speech / normal).
+ *   4. Speech source names match via SPEAKER_MAP (JP → EN).
+ *
+ * Original lines use full-width ＃ for speech source and 「」 for speech
+ * content. Translated lines use half-width # for speech source and \u201C\u201D
+ * for speech content.
+ *
+ * Usage:
+ *   node validate-translations.mjs
+ */
+
+import { readFile } from "fs/promises";
+
+const ORIGINAL_FILE = "merged-original.txt";
+const TRANSLATED_FILE = "merged-translated.txt";
+
+const SECTION_SEPARATOR = "--------------------";
+const HEADER_SEPARATOR = "********************";
+
+// Original uses full-width ＃, translated uses half-width #.
+const isSpeechSourceJP = (line) => line.startsWith("＃");
+const isSpeechSourceEN = (line) => line.startsWith("#");
+
+// Original uses 「」, translated uses \u201C\u201D.
+const isSpeechContentJP = (line) =>
+  line.startsWith("「") && line.endsWith("」");
+const isSpeechContentEN = (line) =>
+  line.startsWith("\u201C") && line.endsWith("\u201D");
+
+/**
+ * Classify a line into one of three structural types:
+ *   "source"  — speaker name (＃ in original, # in translated)
+ *   "speech"  — speech content (「…」 in original, \u201C…\u201D in translated)
+ *   "normal"  — narration / everything else
+ */
+function lineType(line, isTranslated) {
+  if (isTranslated ? isSpeechSourceEN(line) : isSpeechSourceJP(line))
+    return "source";
+  if (isTranslated ? isSpeechContentEN(line) : isSpeechContentJP(line))
+    return "speech";
+  return "normal";
+}
+
+const SPEAKER_MAP = new Map([
+  ["咲美", "Saki"],
+  ["彦麻呂", "Hikomaro"],
+  ["横山", "Yokoyama"],
+  ["友子", "Tomoko"],
+  ["雪菜", "Yukina"],
+  ["会田", "Aida"],
+  ["雅史", "Masashi"],
+  ["布施", "Fuse"],
+  ["珍念", "Chinnen"],
+  ["黒川", "Kurokawa"],
+  ["コック１", "Cook 1"],
+  ["ウマ男１", "Horse Man 1"],
+  ["ブタ男２", "Pig Man 2"],
+  ["彼女", "Girlfriend"],
+  ["慎吾", "Shingo"],
+  ["鈴木", "Suzuki"],
+  ["ブタ男１", "Pig Man 1"],
+  ["ウマ男２", "Horse Man 2"],
+  ["女店員", "Female Clerk"],
+  ["兄貴", "Aniki"],
+  ["ブタ男Ｘ", "Pig Man X"],
+  ["ブタ男３", "Pig Man 3"],
+  ["母ちゃん", "Mom"],
+  ["店の人", "Shop Person"],
+  ["ブタ男４", "Pig Man 4"],
+  ["ブタ男５", "Pig Man 5"],
+  ["見知らぬ少女", "Unknown Girl"],
+  ["ブタ男６", "Pig Man 6"],
+  ["エロ男Ｈ", "Perv H"],
+  ["竹麻呂", "Takemaro"],
+  ["コック２", "Cook 2"],
+  ["化粧濃女", "Heavy Makeup Woman"],
+  ["エロ男Ｅ", "Perv E"],
+  ["エロ男Ｉ", "Perv I"],
+  ["エロ男全員", "All Pervs"],
+  ["女の子", "Girl"],
+  ["エロ男Ａ", "Perv A"],
+  ["エロ男Ｂ", "Perv B"],
+  ["エロ男Ｃ", "Perv C"],
+  ["エロ男Ｄ", "Perv D"],
+  ["エロ男Ｆ", "Perv F"],
+  ["エロ男Ｇ", "Perv G"],
+  ["エロ男Ｊ", "Perv J"],
+  ["若者", "Young Man"],
+  ["受付の女性", "Receptionist"],
+  ["店員", "Clerk"],
+  ["男店員", "Male Clerk"],
+  ["エロ男Ｋ", "Perv K"],
+  ["エロ男Ｌ", "Perv L"],
+  ["エロ男Ｍ", "Perv M"],
+  ["エロ男Ｎ", "Perv N"],
+  ["エロ男Ｏ", "Perv O"],
+  ["エロ男Ｐ", "Perv P"],
+  ["エロ男Ｒ", "Perv R"],
+  ["エロ男Ｓ", "Perv S"],
+  ["エロ男Ｔ", "Perv T"],
+  ["エロ男Ｕ", "Perv U"],
+  ["エロ男Ｖ", "Perv V"],
+  ["エロ男Ｗ", "Perv W"],
+  ["エロ男Ｘ", "Perv X"],
+  ["エロ男Ｙ", "Perv Y"],
+  ["エロ男Ｚ", "Perv Z"],
+  ["コック３", "Cook 3"],
+  ["ウマ男３", "Horse Man 3"],
+  ["ウマ男４", "Horse Man 4"],
+  ["男の声", "Man's Voice"],
+  ["ウマ男５", "Horse Man 5"],
+  ["ウマ男６", "Horse Man 6"],
+  ["女性の声", "Woman's Voice"],
+  ["エロ男Ｑ", "Perv Q"],
+  ["女の声", "Female Voice"],
+  ["運ちゃん", "Driver"],
+  ["運転手", "Chauffeur"],
+  ["お姉さん", "Young Lady"],
+]);
+
+/**
+ * Parse a merged text file into a Map of { fileName → nonEmptyLines[] }.
+ */
+function parseSections(text) {
+  // Step 1: Split file into raw blocks by the section separator.
+  const raw = text.split(`\n${SECTION_SEPARATOR}\n`);
+  const sections = new Map();
+
+  for (const block of raw) {
+    // Step 2: Locate the header separator to split filename from body.
+    const headerEnd = block.indexOf(`\n${HEADER_SEPARATOR}\n`);
+    if (headerEnd === -1) continue;
+
+    const fileName = block.slice(0, headerEnd).trim();
+    const body = block.slice(headerEnd + HEADER_SEPARATOR.length + 2);
+
+    // Step 3: Keep only non-empty lines (empty lines are ignored per spec).
+    const lines = body.split("\n").filter((l) => l.length > 0);
+    sections.set(fileName, lines);
+  }
+
+  return sections;
+}
+
+async function main() {
+  // Step 1: Read both merged files.
+  const originalText = await readFile(ORIGINAL_FILE, "utf-8");
+  const translatedText = await readFile(TRANSLATED_FILE, "utf-8");
+
+  // Step 2: Parse into section maps keyed by filename.
+  const origSections = parseSections(originalText);
+  const transSections = parseSections(translatedText);
+
+  let checked = 0;
+  let mismatched = 0;
+
+  // Step 3: Validate each original section against its translated counterpart.
+  for (const [fileName, origLines] of origSections) {
+    // Step 3a: Check that the translated file has a matching section.
+    if (!transSections.has(fileName)) {
+      console.log(`\n✗  ${fileName}`);
+      console.log("   Missing from translated file");
+      mismatched++;
+      continue;
+    }
+
+    checked++;
+    const transLines = transSections.get(fileName);
+    const sectionErrors = [];
+
+    if (origLines.length !== transLines.length) {
+      // Step 3b: Non-empty line counts must match.
+      sectionErrors.push(
+        `Line count mismatch: original has ${origLines.length} lines, translated has ${transLines.length} lines`,
+      );
+
+      // Report the first line where the type diverges to aid debugging.
+      const minLen = Math.min(origLines.length, transLines.length);
+      for (let i = 0; i < minLen; i++) {
+        const origType = lineType(origLines[i], false);
+        const transType = lineType(transLines[i], true);
+        if (origType !== transType) {
+          sectionErrors.push(
+            `First type mismatch at line ${i + 1} (${origType} vs. ${transType}):\n     original:   ${origLines[i]}\n     translated: ${transLines[i]}`,
+          );
+          break;
+        }
+      }
+    } else {
+      // Step 3c: Line-by-line structural comparison.
+      for (let i = 0; i < origLines.length; i++) {
+        const origLine = origLines[i];
+        const transLine = transLines[i];
+        const origType = lineType(origLine, false);
+        const transType = lineType(transLine, true);
+
+        if (origType !== transType) {
+          // Line type mismatch (e.g. source vs. normal, speech vs. normal).
+          sectionErrors.push(
+            `Line ${i + 1}: type mismatch (${origType} vs. ${transType})\n     original:   ${origLine}\n     translated: ${transLine}`,
+          );
+        } else if (origType === "source") {
+          // Step 3d: For speech source lines, verify the speaker name
+          // maps correctly via SPEAKER_MAP (JP ＃ → EN #).
+          const origName = origLine.slice(1); // strip full-width ＃
+          const transName = transLine.slice(1); // strip half-width #
+          const expectedEN = SPEAKER_MAP.get(origName);
+
+          if (!expectedEN) {
+            sectionErrors.push(
+              `Line ${i + 1}: unknown speaker "${origName}" — add to SPEAKER_MAP`,
+            );
+          } else if (transName !== expectedEN) {
+            sectionErrors.push(
+              `Line ${i + 1}: speaker name mismatch\n     expected: #${expectedEN}\n     got:      ${transLine}`,
+            );
+          }
+        }
+      }
+    }
+
+    if (sectionErrors.length > 0) {
+      mismatched++;
+      console.log(`\n✗  ${fileName}`);
+      for (const err of sectionErrors) {
+        console.log(`   ${err}`);
+      }
+    }
+  }
+
+  // Step 4: Warn about extra sections in translated that have no original.
+  const extraInTranslated = [...transSections.keys()].filter(
+    (f) => !origSections.has(f),
+  );
+  if (extraInTranslated.length > 0) {
+    console.log(`\n⚠  Extra sections in translated file not in original:`);
+    for (const f of extraInTranslated) {
+      console.log(`   ${f}`);
+    }
+  }
+
+  // Step 5: Print summary.
+  console.log("\n— Summary —");
+  console.log(`  Sections checked: ${checked}`);
+  console.log(`  Mismatched:       ${mismatched}`);
+
+  if (mismatched > 0) {
+    process.exit(1);
+  }
+}
+
+main().catch(console.error);
