@@ -1,0 +1,845 @@
+--------------------
+stage58
+********************
+...And then, the following afternoon...
+$Sakimi
+“...We finally made it.”
+$Hikomaro
+“Glad to have you back.”
+$Sakimi
+“That trip turned into a total disaster.”
+$Hikomaro
+“Let's just be grateful for the luck of being safe now.”
+$Sakimi
+“...I guess.”
+After reporting everything to the police and dealing with this and that...
+The five of them stayed at the inn.
+Last night, they stayed at a business hotel in a local city.
+Departing on the first train this morning, they were finally able to make their way home.
+Seven hours and thirty minutes spent swaying on the train.
+Concerned for Yukina, who was severely exhausted.
+Before the second transfer, Yokoyama-san split off with her.
+They’d grab a taxi in front of the station.
+And head straight to the dormitory to drop her off.
+$Sakimi
+“It’s as hot as ever over here.”
+$Hikomaro
+“Just endure it until you get home.”
+$Sakimi
+“When I get back, I’m cranking the AC to the max.”
+$Hikomaro
+“And downing a ice-cold drink in one go.”
+$Sakimi
+“It’s a beer-starting-from-noon kind of day for me.”
+$Hikomaro
+“You’re really going for it, aren’t you?”
+$Sakimi
+“So Sensei, come home with us.”
+$Hikomaro
+“Ho?”
+$Sakimi
+“A little celebration for the three of us being safe, for the time being.”
+$Hikomaro
+“...Now, what should I do.”
+$Masashi
+“Fuaaa... ah.”
+Ma-kun, having cut his business trip short.
+He didn't seem particularly distracted by the conversation.
+He stood a little distance away, staring blankly.
+And in his hand was that thing wrapped in newspaper.
+The pickaxe that had saved them from their predicament.
+To avoid getting stopped by the station staff, it was wrapped over and over.
+He and his wife were taking turns diligently carrying it.
+$Hikomaro
+“What exactly are you going to do with that when you get it home?”
+$Sakimi
+“Clean off the rust and display it in the breakroom.”
+$Hikomaro
+“I think that technically counts as found property, but.”
+$Sakimi
+“I got proper permission from the police.”
+$Hikomaro
+“...So it's a memento, then?”
+$Sakimi
+“It’s the lucky pickaxe, so it’ll double as a prayer for safety.”
+$Hikomaro
+“A lucky charm for the worksite, is it?”
+$Masashi
+“...Hey, Sakimi.”
+$Sakimi
+“Hmm?”
+$Masashi
+“Let’s eat out for once.”
+$Sakimi
+“...Eh?”
+$Masashi
+“I suddenly feel like eating a lot of meat.”
+$Sakimi
+“...That’s rare for you.”
+$Masashi
+“Sensei, would you like to join us?”
+$Sakimi
+“Let’s go, let’s go.”
+$Hikomaro
+“... .”
+$Sakimi
+“Let's all go.”
+$Hikomaro
+“I'll head back to my own place today.”
+$Sakimi
+“Why?”
+$Hikomaro
+“I have to unpack and organize my things.”
+$Sakimi
+“I told you, we won't stay out that long.”
+$Hikomaro
+“Sometimes a husband and wife need time alone together.”
+$Sakimi
+“Hmm.”
+$Hikomaro
+“I’m sure you have plenty to talk about.”
+$Sakimi
+“... .”
+$Sakimi
+“...Alright.”
+A shared understanding.
+Sakimi nodded slightly.
+She accepted Maro’s true intentions.
+$Sakimi
+“What’s your schedule for tomorrow?”
+$Hikomaro
+“Nothing in particular.”
+$Sakimi
+“Then I’ll drop by during my lunch break.”
+$Hikomaro
+“I’ll be looking forward to it.”
+Maro said his goodbyes with a smile.
+After walking for a while, he turned back.
+He watched the two of them for just a moment.
+They weren't holding hands, but they looked harmonious.
+Ma-kun leaned his shoulder in toward her.
+They were talking about something that seemed pleasant.
+Everyone is safe.
+I’m truly glad.
+If Ma-kun hadn't come, what would have happened to the four of them by now?
+The mere thought is enough to give one the chills.
+Ma-kun, having received the call from his wife.
+While looking into things, he found it suspicious enough to drop his business trip.
+He abandoned his work and followed after her.
+Truly a husband who loves his wife.
+Including the fact that he picked up a pickaxe out of sheer anxiety.
+It was a truly magnificent victory.
+Thinking of such things.
+Just as the sweat began to pour from his forehead like a waterfall.
+Maro finally arrived in front of the clinic.
+He looked up at the second-floor window peeking over the roof.
+$Hikomaro
+“...Safe return home.”
+He opened the door.
+For now, he left his luggage in the entryway.
+He tossed his travel clothes into the laundry basket.
+And quickly changed into his familiar white medical coat.
+This is the one, after all.
+The sense of calm is different.
+All that was left was to breathe a sigh of relief.
+The shower and drinks could wait.
+Anyway, Maro headed to the second floor where the electric fan was.
+$Hikomaro
+“...Phew.”
+This feeling of relaxation.
+It's unparalleled.
+The coolness of the fan is irreplaceable.
+Once again, he realized how comfortable his own home felt.
+$Unknown Girl
+“...Welcome back.”
+$Hikomaro
+“I'm home.”
+$Unknown Girl
+“It's hot today, too.”
+$Hikomaro
+“It certainly is.”
+$Unknown Girl
+“Where did you go?”
+$Hikomaro
+“A hot spring trip.”
+$Unknown Girl
+“Must be nice.”
+$Hikomaro
+“... .”
+$Unknown Girl
+“I've never been on a trip before.”
+$Hikomaro
+“Um.”
+$Unknown Girl
+“What is it?”
+$Hikomaro
+“Who might you be?”
+$Tomoko
+“Miura Tomoko. 'Tomo' as in friend, 'ko' as in child.”
+$Hikomaro
+“Tomoko-chan, is it?”
+$Tomoko
+“Yeah.”
+$Hikomaro
+“That’s a lovely name.”
+$Tomoko
+“My mom gave it to me so I'd be able to make lots of friends.”
+$Hikomaro
+“What a wonderful mother.”
+$Tomoko
+“...Not really.”
+$Hikomaro
+“And?”
+$Tomoko
+“And?”
+$Hikomaro
+“Do you have some business with me?”
+$Tomoko
+“Lots.”
+$Hikomaro
+“'Lots,' you say?”
+$Tomoko
+“If I explain in detail, it’ll be a long story.”
+$Hikomaro
+“That’s a bit of a problem.”
+$Tomoko
+“Why?”
+$Hikomaro
+“I just got back, so I'm quite busy today.”
+$Tomoko
+“...I see.”
+$Hikomaro
+“If tonight is alright, I can make some time.”
+$Tomoko
+“Old men sure are busy people.”
+$Hikomaro
+“I’m usually very free.”
+$Tomoko
+“Then maybe I’ll come back another day.”
+$Hikomaro
+“Shall we do that?”
+$Tomoko
+“I’m used to waiting.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...Things have taken a bit of a strange turn.”
+...And then, noon the following day...
+$Hikomaro
+“... .”
+$Hikomaro
+“...Fua.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...It's already lunchtime.”
+Tap, tap...
+$Sakimi
+“...Hello there.”
+$Hikomaro
+“Hello.”
+$Sakimi
+“I’m coming in.”
+Slide...
+$Sakimi
+“Heave-ho.”
+$Hikomaro
+“I appreciate the food you dropped off yesterday.”
+$Sakimi
+“The yakiniku bento?”
+$Hikomaro
+“There was a note left, so when I peeked in the fridge...”
+$Sakimi
+“I really wanted you to eat it while it was warm, but you weren't home so I had no choice.”
+$Hikomaro
+“That was probably when I went shopping.”
+$Sakimi
+“I had Ma-kun waiting, so I couldn't stay long. Did you heat it up in the microwave?”
+$Hikomaro
+“I enjoyed it thoroughly for dinner.”
+$Sakimi
+“Eating meat really gives you energy, doesn't it?”
+$Hikomaro
+“It certainly does.”
+$Sakimi
+“Did it get you horny enough to make your little buddy stand up?”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Just asking for reference.”
+$Hikomaro
+“It didn't quite go that far.”
+$Sakimi
+“I guess there’s no one here to get horny with anyway.”
+$Hikomaro
+“As you can see, I live alone.”
+$Sakimi
+“That's lonely.”
+$Hikomaro
+“A bit late for that, ho-ho.”
+$Sakimi
+“That’s why you should have just come to our place.”
+$Hikomaro
+“And gotten horny with you, Ma'am?”
+$Sakimi
+“Yep, yep.”
+Whether she was joking or serious, it was hard to tell.
+Sakimi was nodding to herself.
+$Sakimi
+“By the way, what about lunch?”
+$Hikomaro
+“I'm just about to have it.”
+$Sakimi
+“Good.”
+Sakimi smiled brightly.
+She pulled a stick-shaped item out of a convenience store bag.
+She held it out to Maro with a proud look on her face.
+$Sakimi
+“Tada!”
+$Hikomaro
+“Is that somen?”
+$Sakimi
+“The day after yakiniku has to be this. I’m boiling it, so let's eat together.”
+Patter, patter, patter.
+Just like that, Sakimi headed downstairs.
+The sound of her energetic footsteps was soothing.
+Maro felt grateful for the return to their usual daily life.
+Sakimi and Maro.
+No matter what happens from here on out.
+He hoped this relationship would continue.
+...Forty minutes later...
+$Sakimi
+“...I ate too much again.”
+$Hikomaro
+“That's because you boiled five bundles.”
+$Sakimi
+“...I thought it was the right amount.”
+$Hikomaro
+“You ate three bundles by yourself.”
+$Sakimi
+“Well, they just slide right down.”
+$Hikomaro
+“I’m surprised you don't get fat.”
+$Sakimi
+“I have my job to thank for that.”
+$Tomoko
+“...Fua.”
+$Hikomaro
+“...Huh?”
+$Sakimi
+“What?”
+$Hikomaro
+“No... nothing...”
+$Sakimi
+“...I should probably get back to the site soon.”
+$Hikomaro
+“Is it that time already?”
+Spin.
+$Sakimi
+“Sensei.”
+$Hikomaro
+“Yes.”
+$Sakimi
+“An important report before I leave.”
+$Hikomaro
+“So formal, what is it?”
+$Sakimi
+“Ma-kun and I had sex last night.”
+$Hikomaro
+“Eh...”
+$Sakimi
+“We shared our love for the first time in a long while.”
+$Hikomaro
+“Congratulations.”
+$Sakimi
+“Such a weak reaction.”
+$Hikomaro
+“What else should I say?”
+Spin.
+$Sakimi
+“...I guess so.”
+$Hikomaro
+“There is no doubt that it's a cause for celebration.”
+$Sakimi
+“But you see, Sensei.”
+Sakimi let out a sigh.
+$Sakimi
+“I was so worried about our lack of sex, but now that we had it, it feels kind of strange.”
+$Hikomaro
+“It's because it's been a while.”
+$Sakimi
+“...I feel like it's more than just that.”
+$Hikomaro
+“Did it not feel good?”
+$Sakimi
+“...You’re a bit too direct.”
+$Hikomaro
+“Because it’s important.”
+$Sakimi
+“Actually, I was so nervous I don't really remember it well.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“Before I knew it, it was over.”
+$Hikomaro
+“...I see.”
+$Sakimi
+“And Ma-kun fell asleep right after we finished.”
+$Hikomaro
+“A lot has happened, so perhaps he was exhausted.”
+$Sakimi
+“Anyway, just reporting.”
+$Hikomaro
+“You don't need to feel that down about it.”
+$Sakimi
+“...Really?”
+$Hikomaro
+“It's a great step forward for you as a couple.”
+$Sakimi
+“...Yeah.”
+$Hikomaro
+“That sense of mismatch will soon disappear.”
+$Sakimi
+“...I hope so.”
+$Hikomaro
+“That lingerie might even come in handy.”
+$Sakimi
+“I did have something like that, didn't I?”
+$Hikomaro
+“You certainly did.”
+$Sakimi
+“Anyway, the opportunity has been created, so next time I’ll be the one to make a move.”
+Sakimi stood up holding her teacup.
+She stretched as if to fire herself up.
+Her firm breasts pushed forward.
+They bounced with just the movement of her chest arching.
+$Sakimi
+“Should I go pour some more tea?”
+$Hikomaro
+“I’ve had enough.”
+$Sakimi
+“Then, I'm off.”
+$Hikomaro
+“Thanks for the somen.”
+$Sakimi
+“Thank you for everything. I'll be back tomorrow, so be prepared.”
+Slide...
+$Hikomaro
+“... .”
+$Tomoko
+“...I thought she was your wife.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“The woman who was with you when I called out in front of the shrine, right?”
+$Hikomaro
+“...So you really were that girl from back then.”
+$Tomoko
+“The person from just now is the one who heard my voice.”
+$Hikomaro
+“I believe that was the case.”
+$Tomoko
+“But the one who had the same scent was you, Old Man.”
+$Hikomaro
+“... .”
+$Tomoko
+“So I tuned my wavelength to yours.”
+$Hikomaro
+“That's a very interesting story.”
+$Tomoko
+“...Is somen tasty?”
+$Hikomaro
+“Huh?”
+$Tomoko
+“...Somen, must be nice.”
+$Hikomaro
+“Are you hungry?”
+$Tomoko
+“I don't really know myself.”
+$Hikomaro
+“That's a bit of a problem.”
+$Tomoko
+“I just want to know what it tastes like.”
+$Hikomaro
+“You've never eaten it?”
+$Tomoko
+“I've had hiyamugi.”
+$Hikomaro
+“They're basically the same thing.”
+$Tomoko
+“But they're a little different, aren't they?”
+$Hikomaro
+“Just the thickness, I suppose.”
+$Tomoko
+“Is somen thinner?”
+$Hikomaro
+“So the way it goes down the throat is different.”
+$Tomoko
+“...What's 'goes down the throat'?”
+$Hikomaro
+“The sensation of it sliding down smoothly when you swallow.”
+$Tomoko
+“I don't know it, so I want to experience it.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...Please wait a moment.”
+Now it was Maro's turn to head downstairs.
+He opened the refrigerator in the kitchen with a soft sound.
+He took out the somen remaining in the glass bowl.
+And some orange juice as well.
+Since she came to his room, she was his guest.
+It was only right to offer some hospitality.
+$Hikomaro
+“If you don't mind leftovers.”
+Tap.
+$Tomoko
+“Th-This scent is.”
+Sniff, sniff, sniff.
+$Tomoko
+“Real orange juice?”
+$Hikomaro
+“Ugh...”
+$Tomoko
+“I-Is it okay?”
+$Hikomaro
+“Y-Yes?”
+$Tomoko
+“Is it okay to drink it? Is it okay to eat it?”
+$Hikomaro
+“Ngh, I brought it for that purpose.”
+$Tomoko
+“Is this 100% juice?”
+$Hikomaro
+“I-I believe so.”
+$Tomoko
+“I've never drunk anything like that before. We were poor, so at most it was powdered juice.”
+$Hikomaro
+“Then please, don't hesitate.”
+$Tomoko
+“Yeah, yeah, thank you!”
+$Tomoko
+“Suuuu, suuuu.”
+She can't drink it.
+$Hikomaro
+“... .”
+$Tomoko
+“Suuuuuu, suuuuu, suuuuu.”
+She really can't drink it.
+$Hikomaro
+“Um...”
+$Tomoko
+“...Dammit.”
+$Hikomaro
+“Ngh, try putting your mouth directly to the glass.”
+$Tomoko
+“Suuuu, suuuu.”
+$Hikomaro
+“I-It's spilling all over.”
+$Tomoko
+“My big chance is... !”
+$Tomoko
+“...Funya.”
+$Hikomaro
+“...It must be difficult for you.”
+$Tomoko
+“It can't be helped since I'm not a living being.”
+$Hikomaro
+“Is drinking and eating no good?”
+$Tomoko
+“...Both seem impossible.”
+$Hikomaro
+“Cheer up.”
+$Tomoko
+“I'm sorry, even though you prepared it for me.”
+$Hikomaro
+“I wish there was some way.”
+$Tomoko
+“There is a way, but...”
+Plop.
+$Hikomaro
+“What is this?”
+$Tomoko
+“The bead that makes any wish come true.”
+$Hikomaro
+“Huh?”
+$Tomoko
+“An old man with a white beard gave me five.”
+$Hikomaro
+“...There are only four here.”
+$Tomoko
+“I used one when I tuned my wavelength.”
+$Hikomaro
+“Oh my.”
+$Tomoko
+“It was so pretty when I wished and it broke. Sparkling stardust came fluttering down, an angel came out from inside the bead, and she even kissed my forehead.”
+$Hikomaro
+“...It's a precious item, then.”
+$Tomoko
+“Apparently, people who are doing their best to live normally have hundreds of millions of them inside their bodies. The old man with the white beard called it 'infinite possibility.'”
+$Hikomaro
+“It's amazing that you were given even five.”
+$Tomoko
+“He told me that since I'm a child caught in between, I should go and clear up any lingering regrets.”
+$Hikomaro
+“Do you have some strong attachment to this world?”
+$Tomoko
+“No, no.”
+$Hikomaro
+“Are you sure?”
+$Tomoko
+“I'm more like relieved to be free from poverty.”
+$Hikomaro
+“Then why are you in a state of being caught in between?”
+$Tomoko
+“I didn't know, so I relied on you, Old Man. If I make a guess and use a bead, and it's wrong, there's no going back... fua.”
+$Hikomaro
+“...Are you tired?”
+$Tomoko
+“Talking to a living person takes quite a lot of physical strength... fua.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...She vanished.”
+...And that night...
+$Hikomaro
+“Next person, please.”
+$Sakimi
+“Hello.”
+$Hikomaro
+“...Is that you, Ma'am?”
+$Masashi
+“Thank you for always taking care of my wife.”
+$Hikomaro
+“So Ma-kun is with you today.”
+$Masashi
+“May I sit?”
+$Hikomaro
+“Of course.”
+$Masashi
+“Thank you for always taking care of my wife.”
+$Hikomaro
+“I should be the one thanking you for everything.”
+$Masashi
+“Thank you for always taking care of my wife.”
+$Hikomaro
+“... .”
+$Masashi
+“Thank you for always taking care of my wife.”
+$Hikomaro
+“Why do you keep repeating the same thing?”
+$Masashi
+“...Because you've been taking *too* much care of her.”
+$Hikomaro
+“Eh?”
+$Sakimi
+“M-Ma-kun.”
+$Masashi
+“Nipples 100 yen, pussy 200 yen.”
+$Hikomaro
+“P-Pardon?”
+$Masashi
+“Please pay up right now.”
+$Sakimi
+“It's rude to say that to Sensei. Also, I just happened to think that’s a bit too cheap.”
+Grip!
+$Masashi
+“Sakimi!”
+$Sakimi
+“Ma-kun!?”
+$Masashi
+“I love you, I love you!”
+Kiss...
+$Sakimi
+“Ngh... wait a... ngh... ngh...”
+$Masashi
+“Nipples 100 yen, pussy 200 yen.”
+$Sakimi
+“I-I told you, that’s too cheap...”
+Whack!
+$Sakimi
+“I'm telling you!”
+$Masashi
+“Guh... !”
+$Sakimi
+“Haa... haa...”
+$Hikomaro
+“Y-You shouldn't be violent.”
+$Sakimi
+“Are you complaining to me?”
+$Hikomaro
+“N-No... not particularly... I just...”
+$Sakimi
+“Then you try naming a price too, Sensei.”
+$Hikomaro
+“Ngh, even if you ask for a price.”
+$Sakimi
+“How much for nipples? How much for pussy?”
+$Hikomaro
+“E-Er.”
+$Sakimi
+“Make sure you say an amount you can actually pay.”
+$Hikomaro
+“Nipples...”
+$Sakimi
+“Nipples?”
+$Hikomaro
+“50 yen.”
+$Sakimi
+“The price went down?!”
+Swish!
+$Hikomaro
+“Wa-wa-wa.”
+The punch cut through the air...
+The pressure brushing against his cheek.
+$Hikomaro
+“Ngh, I was just kidding!”
+$Sakimi
+“When I'm not wearing a bra, I don't take jokes!”
+$Hikomaro
+“I-I didn't know that!”
+Patter, patter, patter.
+$Sakimi
+“Wait up!”
+$Hikomaro
+“I-It's scary!”
+$Sakimi
+“I’m gonna bite off your 10-yen dick!”
+$Hikomaro
+“Ngh, please spare me from that!”
+Patter, patter, patter.
+$Hikomaro
+“Haa... phew... haa...”
+$Yukina
+“Stop running away.”
+$Hikomaro
+“Yukina... san?”
+$Yukina
+“I have Yokoyama backing me up.”
+$Hikomaro
+“I-I'm aware that you two are close.”
+$Yukina
+“You're aware?”
+$Sakimi
+“...What an annoying way for an old man to talk.”
+$Yukina
+“Shall we hunt him down?”
+$Sakimi
+“Let's hunt him.”
+$Yukina
+“With our two pairs of big breasts.”
+$Sakimi
+“And our two big asses.”
+Squeeze!
+$Hikomaro
+“Fugya!”
+$Yukina
+“Let's crush this guy!”
+$Sakimi
+“Crush him flat!”
+$Yukina
+“Hold him down, hold him down.”
+$Sakimi
+“Suffer, suffer, suffer!”
+$Hikomaro
+“I-It hurts... I'm being crushed... ugh.”
+$Hikomaro
+“Hah...”
+$Tomoko
+“...Hot.”
+$Hikomaro
+“... .”
+$Tomoko
+“...Old Man.”
+$Hikomaro
+“Yes.”
+$Tomoko
+“...Buy an air conditioner.”
+$Hikomaro
+“We have an electric fan.”
+$Tomoko
+“Are you poor too, Old Man?”
+$Hikomaro
+“It's not exactly like that.”
+$Tomoko
+“Then are you just stingy?”
+$Hikomaro
+“I'd feel bad for the electric fan if it were no longer needed.”
+$Tomoko
+“...You're strange, Old Man.”
+$Hikomaro
+“More importantly, um.”
+$Tomoko
+“What?”
+$Hikomaro
+“Why are you on top of me?”
+$Tomoko
+“This is the standard spot.”
+$Hikomaro
+“...I see.”
+$Tomoko
+“Were you having a nightmare?”
+$Hikomaro
+“A little bit.”
+$Tomoko
+“Being like this makes me feel calm. I can hear the heartbeat thumping.”
+$Hikomaro
+“...Then I suppose it can't be helped.”
+$Tomoko
+“But if I'm in the way, I'll vanish.”
+$Hikomaro
+“It's fine for a little while.”
+$Tomoko
+“...Really?”
+$Hikomaro
+“You were chosen using a precious wish bead, after all.”
+$Tomoko
+“...Then just five more minutes.”
+$Hikomaro
+“Understood.”
+$Tomoko
+“...Fua.”
+$Hikomaro
+“... .”
+$Tomoko
+“...I'll talk tomorrow.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“I've made a list, just in case.”
+$Hikomaro
+“Of things you've left undone, Tomoko-chan?”
+$Tomoko
+“I don't really have any, but I forced myself to choose some.”
+$Hikomaro
+“If you're in a hurry, I can listen right away.”
+$Tomoko
+“...I want to keep feeling calm for a while longer.”
+$Hikomaro
+“If you say so.”
+$Tomoko
+“They're all things that can only be done during the day, anyway.”
+$Hikomaro
+“Understood.”
+$Tomoko
+“Goodnight, Old Man.”
+$Hikomaro
+“Goodnight.”
+$Tomoko
+“...And finally, say my name.”
+$Hikomaro
+“Huh?”
+$Tomoko
+“Say, 'Goodnight, Tomo-chan.'”
+$Hikomaro
+“Goodnight, Tomo-chan.”
+$Tomoko
+“Goodnight, Mom... fua.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...I'm not your mother.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...I wonder if that's what she always used to say.”

@@ -1,0 +1,239 @@
+--------------------
+stage44
+********************
+...3 weeks until the hot spring trip...
+$Sakimi
+“Alright, that’s 5,000 yen for the participation fee, safely received.”
+$Hikomaro
+“I’ll leave it in your capable hands.”
+$Sakimi
+“Do you need a receipt?”
+$Hikomaro
+“No, that won’t be necessary.”
+$Sakimi
+“Gotcha.”
+$Hikomaro
+“Are you really planning to bring fireworks?”
+$Sakimi
+“It’s the very end of summer, so it’ll be fine, right? I heard there’s a beach nearby, too.”
+$Hikomaro
+“Well, you’re the organizer, Madame, so I’ll leave the basics to you.”
+$Sakimi
+“I’ll make sure to settle the accounts properly later.”
+$Hikomaro
+“If there’s any left over, please use it for something.”
+$Sakimi
+“Well, aren’t you generous?”
+$Hikomaro
+“Truth be told, I’d even like to cover Yukina-chan’s portion myself.”
+$Sakimi
+“See, that’s why I said no. Mar-kun, Yukina-chan, Sensei, and I—it’s better if everyone just puts in 5,000 yen each.”
+$Hikomaro
+“...I understand your point.”
+$Sakimi
+“I’ll get everything ready so we can all have a great time.”
+$Hikomaro
+“I’m looking forward to it.”
+$Sakimi
+“Sensei, you’re getting up there in years, so take care of your health.”
+$Hikomaro
+“...I’m well aware.”
+$Sakimi
+“If even one person is missing, it’ll ruin the whole plan. It would be a hassle for the inn, and it would look bad to the neighborhood association that let us win the tickets.”
+$Hikomaro
+“I’ll be careful not to let the summer heat get to me.”
+$Sakimi
+“Good. Alright, back to work for me!”
+Rattle, rattle, rattle.
+$Hikomaro
+“....”
+$Hikomaro
+“...She’s especially fired up this time, isn’t she?”
+...2 weeks until the hot spring trip...
+$Sakimi
+“....”
+$Hikomaro
+“....”
+$Sakimi
+“...What should I do?”
+$Hikomaro
+“What shall we do, indeed?”
+$Sakimi
+“For Mar-kun to have a conflict like this... *sigh*.”
+$Hikomaro
+“The dates for his business trip shifted, so there’s really nothing that can be done.”
+$Sakimi
+“...And to make matters worse, his business trip is right near the inn.”
+$Hikomaro
+“Is that so?”
+$Sakimi
+“I wonder if he can join us for even a little bit.”
+$Hikomaro
+“Even if that happens, we’ll basically be a group of three, won’t we?”
+$Sakimi
+“I have to return the 5,000 yen to Mar-kun.”
+$Hikomaro
+“That’s just the sort of dutiful words I’d expect from you, Madame.”
+$Sakimi
+“Even if we’re husband and wife, I have to keep that sort of thing proper.”
+$Hikomaro
+“You truly are a capable organizer.”
+Spin.
+$Sakimi
+“Actually, you see...”
+$Hikomaro
+“Yes?”
+$Sakimi
+“Mar-kun made a suggestion to this ‘capable organizer.’”
+$Hikomaro
+“And what would that be?”
+$Sakimi
+“He said I should invite someone else in his place.”
+$Hikomaro
+“On the trip?”
+$Sakimi
+“So, after discussing it with Mar-kun, we’ve decided on one candidate.”
+$Hikomaro
+“And who exactly might that be?”
+$Sakimi
+“Someone you know, Sensei.”
+$Hikomaro
+“I haven’t the faintest idea.”
+$Sakimi
+“Yokoyama-san.”
+$Hikomaro
+“...Oh?”
+$Sakimi
+“Are you surprised?”
+$Hikomaro
+“I certainly am.”
+$Sakimi
+“...Is that no good?”
+$Hikomaro
+“Are you okay with it, Madame?”
+$Sakimi
+“I don’t really have any weird awkwardness left. Now it just feels like we’re acquaintances.”
+$Hikomaro
+“What about Yukina-chan?”
+$Sakimi
+“...Actually, I asked her before I asked you, Sensei.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“She said she’d leave it up to the organizer.”
+$Hikomaro
+“So you’re saying I’m the one with the deciding vote?”
+$Sakimi
+“Well, you’d be the one sharing a room with him at the inn.”
+$Hikomaro
+“Guh...!”
+$Sakimi
+“What do you think, Sensei-sama?”
+$Hikomaro
+“W-Well, what should I do...?”
+$Sakimi
+“Is it at least worth considering?”
+$Hikomaro
+“....”
+It’s fine
+It’s no good
+$Hikomaro
+“It’s fine.”
+$Sakimi
+“Seriously?”
+$Hikomaro
+“If everyone else is okay with it, I don’t mind at all. The more the merrier, after all.”
+$Sakimi
+“You’ll be staying in the same room, you know?”
+$Hikomaro
+“I’m looking forward to seeing what kind of things we can talk about.”
+$Sakimi
+“...I’m falling for you.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Sensei, you really are the best.”
+$Hikomaro
+“I’m honored to receive such praise.”
+$Sakimi
+“Both your heart and your cock are huge.”
+$Hikomaro
+“Does the cock really have anything to do with this?”
+$Sakimi
+“Doesn't it?”
+Spin.
+$Sakimi
+“...And with that, we’re back to four people again.”
+$Hikomaro
+“So there’s no change to the head count for the inn, then.”
+$Sakimi
+“And if Mar-kun shows his face, that makes five.”
+$Hikomaro
+“Will the inn be okay with that, I wonder?”
+$Sakimi
+“I’ll find a way to make it work, even if I have to pay an extra fee.”
+$Hikomaro
+“Things are starting to get exciting.”
+$Sakimi
+“Let’s all have fun with the fireworks, okay?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Let’s soak in the hot springs and take it easy.”
+$Hikomaro
+“Let’s do that.”
+$Sakimi
+“Let’s enjoy the end of summer to the fullest!”
+$Hikomaro
+“I hope it becomes a wonderful memory for you too, Madame.”
+$Sakimi
+“...Thanks.”
+$Hikomaro
+“It’s no good.”
+$Sakimi
+“...I figured.”
+Spin.
+$Sakimi
+“...So it’s a no?”
+$Hikomaro
+“I may not look it, but I’m actually quite shy around strangers.”
+$Sakimi
+“...Yeah.”
+$Hikomaro
+“And we’d be sharing a room.”
+$Sakimi
+“Well, it’s two to a room, so naturally...”
+$Hikomaro
+“Yukina-chan and I, and you and Yokoyama-san?”
+$Sakimi
+“...That’s a different combination than the one I just mentioned.”
+$Hikomaro
+“Was it?”
+$Sakimi
+“Let’s just pretend you didn't hear what I just said.”
+$Hikomaro
+“I’m sorry for being selfish.”
+$Sakimi
+“I can understand how you feel, Sensei.”
+$Hikomaro
+“Thank you very much.”
+$Sakimi
+“Then, let’s go with just the three of us, okay?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“I’m sure it’ll still be fun in its own way.”
+$Hikomaro
+“Let’s do fireworks on the beach.”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“We can soak in the hot springs and just relax.”
+$Sakimi
+“And eat lots of delicious food.”
+$Hikomaro
+“Let’s enjoy the end of summer to our hearts’ content.”
+$Sakimi
+“I hope it becomes a wonderful memory for everyone.”
+$Hikomaro
+“There’s no way it won't be, hoho.”

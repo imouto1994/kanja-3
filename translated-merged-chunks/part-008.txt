@@ -1,0 +1,878 @@
+--------------------
+sento08
+********************
+Even more Horse-Men 3 appeared!
+Even more Horse-Men 4 appeared!
+$Sakimi
+“Ugh, I didn't hear anything about fighting back-to-back.”
+$Yokoyama
+“Urgh...”
+$Yukina
+“Ngh...”
+The fallen Yokoyama returned to the battle!
+The fallen Yukina also returned to the battle!
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Reselect
+Normal Attack
+Persuasion Attack
+Reselect
+$Yokoyama
+“Why don't we try talking this out for a moment?”
+$Horse Man 3
+“...”
+Complete silence.
+Persuasion Attack has no effect on Horse-Man 3.
+$Horse Man 4
+“...”
+Complete silence.
+Persuasion Attack has no effect on Horse-Man 4.
+Persuasion Attack has no effect on Horse-Man 4 either.
+Normal Attack
+Adrenaline Strength
+Reselect
+$Sakimi
+“Uwooooh!”
+Sakimi used Adrenaline Strength!
+*CRACK!*
+Sakimi punched Horse-Man 3!
+Dealt 50 damage to Horse-Man 3!
+*CRACK!*
+Sakimi punched Horse-Man 4 too!
+Dealt 50 damage to Horse-Man 4!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+*THWACK!*
+Sakimi landed a critical hit on Horse-Man 3!
+Horse-Man 3 took 100 damage!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+*THWACK!*
+Sakimi landed a critical hit on Horse-Man 4!
+Horse-Man 4 took 100 damage!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+Normal Attack
+Numb the Heart
+Reselect
+Yukina numbed her heart!
+$Yukina
+“Ngh...”
+Yukina tried to strike a sexy pose!
+Horse-Man 3 doesn't like that pose!
+Horse-Man 4 doesn't like that pose either!
+Horse-Man 4 doesn't like that pose!
+Horse-Man 3 made Yukina numb her heart even more!
+Horse-Man 4 made Yukina numb her heart even more!
+$Yukina
+“Noooooooo!!”
+Yukina's crotch was spread wide in a vulgar display!
+It's so indecent that Yukina can't keep her heart numb!
+A critical blow to Yukina's crotch!
+Yukina took 100 damage!
+Yukina was incapacitated!
+Maro and the others have been wiped out!
+$Yokoyama
+“I... I won't forgive you!”
+Horse-Man 3's counterattack!
+*THUD!*
+$Yokoyama
+“Guh!”
+Horse-Man 3 punched Yokoyama!
+Yokoyama took 30 damage!
+Yokoyama was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 4's counterattack!
+*WHACK!*
+$Yokoyama
+“Guh!”
+Horse-Man 4 punched Yokoyama!
+Yokoyama took 30 damage!
+Yokoyama was incapacitated.
+$Sakimi
+“Ngh... these guys are strong.”
+Maro and the others have been wiped out!
+Horse-Man 3's counterattack!
+*BAM!*
+$Hikomaro
+“Fugya!”
+Horse-Man 3 punched Maro!
+Maro took 25 damage!
+Maro was incapacitated.
+$Sakimi
+“A-Are you serious?!”
+Maro and the others have been wiped out!
+Horse-Man 4's counterattack!
+*SMACK!*
+$Hikomaro
+“Hau!”
+Horse-Man 4 punched Maro!
+Maro took 25 damage!
+Maro was incapacitated.
+$Sakimi
+“A-Are you serious...”
+Maro and the others have been wiped out!
+Horse-Man 3's counterattack!
+*POW!*
+$Sakimi
+“Ugh...”
+Horse-Man 3 punched Sakimi in the stomach!
+Sakimi took 25 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 4's counterattack!
+*THUD!*
+$Sakimi
+“Ugh... ngh!!”
+Horse-Man 4 punched Sakimi in the stomach!
+Sakimi took 25 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 3's counterattack!
+*THUD!*
+$Yukina
+“Kya!”
+Horse-Man 3 punched Yukina in the stomach!
+Yukina took 35 damage!
+Yukina was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 4's counterattack!
+*WHAM!*
+$Yukina
+“Hinn!”
+Horse-Man 4 punched Yukina in the stomach!
+Yukina took 35 damage!
+Yukina was incapacitated.
+Maro and the others have been wiped out!
+$Yokoyama
+“Uguu...”
+$Yukina
+“A-Are you okay?”
+Yukina rushed to Yokoyama-san's side.
+She hugged her tightly from behind.
+$Yukina
+“Ngh, you can't lose.”
+$Yokoyama
+“O-Of course not.”
+Healed by Yukina.
+Yokoyama's HP recovered by 40.
+Yokoyama's remaining HP is
+.
+$Yokoyama
+“Uguu...”
+$Yukina
+“L-Leave it to me!”
+Yukina tried to rush to Yokoyama-san's side again.
+But a Horse-Man blocked her path.
+She cannot heal Yokoyama-san.
+$Hikomaro
+“M-My head is spinning... ngh.”
+$Yukina
+“Ngh... Professor.”
+Yukina rushed to Maro's side.
+She held his hands tightly to encourage him.
+$Yukina
+“Ngh, stay conscious.”
+$Hikomaro
+“I-I'll do my best somehow.”
+Encouraged by Yukina.
+Maro's HP recovered by 40.
+Maro's remaining HP is
+.
+$Hikomaro
+“Hinn...”
+$Yukina
+“Professor?”
+Yukina tried to rush to Maro's side again.
+But a Horse-Man blocked her path.
+She cannot encourage Maro.
+$Sakimi
+“T-This might be bad...”
+$Yukina
+“Ngh... don't worry.”
+Yukina rushed to Sakimi's side.
+She held her hands tightly to encourage her.
+$Yukina
+“Ngh, Ayase-san is a strong person.”
+$Sakimi
+“Y-Yeah... I'll try my best...”
+Encouraged by Yukina.
+Sakimi's HP recovered by 40.
+Sakimi's remaining HP is
+.
+$Sakimi
+“Ugh...”
+$Yukina
+“A-Ayase-san?”
+Yukina tried to rush to Sakimi's side again.
+But a Horse-Man blocked her path.
+She cannot encourage Sakimi.
+Who will attack?
+--------------------
+sento08maro
+********************
+Horse-Man 3
+Horse-Man 4
+Reselect
+*CRACK!*
+Maro unleashed a Courtier Punch on Horse-Man 3!
+Dealt 25 damage to Horse-Man 3!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+*THUD!*
+Maro delivered a Kemari Kick to Horse-Man 4!
+Dealt 30 damage to Horse-Man 4!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+--------------------
+sento08saki
+********************
+Horse-Man 3
+Horse-Man 4
+Reselect
+*CRACK!*
+Sakimi punched Horse-Man 3!
+Dealt 30 damage to Horse-Man 3!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+*THUD!*
+Sakimi punched Horse-Man 4!
+Dealt 30 damage to Horse-Man 4!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+--------------------
+sento08yoko
+********************
+Horse-Man 3
+Horse-Man 4
+Reselect
+*THUD!*
+Yokoyama punched Horse-Man 3!
+Dealt 20 damage to Horse-Man 3!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+*WHAM!*
+Yokoyama punched Horse-Man 4!
+Dealt 20 damage to Horse-Man 4!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+--------------------
+sento08yuki
+********************
+Horse-Man 3
+Horse-Man 4
+Reselect
+$Yukina
+“E-Ei!”
+*CLANG!*
+Yukina hit Horse-Man 3 with a frying pan!
+Dealt 20 damage to Horse-Man 3!
+Horse-Man 3's remaining HP is
+.
+Horse-Man 3 was incapacitated!
+$Yukina
+“E-Ei!”
+*CLANG!*
+Yukina hit Horse-Man 4 with a frying pan!
+Dealt 20 damage to Horse-Man 4!
+Horse-Man 4's remaining HP is
+.
+Horse-Man 4 was incapacitated!
+--------------------
+sento09
+********************
+$Sakimi
+“*Huff*... *huff*...”
+$Yukina
+“A-Are you okay?”
+$Yokoyama
+“Ngh... my joints... my muscles... ah.”
+$Hikomaro
+“I-I'm already at my limit.”
+$Sakimi
+“Hey, about that...”
+$Hikomaro
+“Y-Yes.”
+$Sakimi
+“That syringe set you used earlier.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“The one you stuck into the head clerk.”
+$Hikomaro
+“What about it?”
+$Sakimi
+“Did you have that from the beginning?”
+$Hikomaro
+“It seems so.”
+$Sakimi
+“Then use it sooner next time.”
+$Hikomaro
+“I forgot it was in my pocket.”
+$Sakimi
+“Ngh, you really are a playful one.”
+$Yukina
+“But if it wasn't for that quick thinking...”
+$Yokoyama
+“...We would likely have had to deal with the head clerk and three Horse-Men simultaneously.”
+$Sakimi
+“...True.”
+$Yokoyama
+“Ngh, it's undeniable that we would have fallen into a dire situation.”
+$Hikomaro
+“...Was I able to be of some use, then?”
+$Yukina
+“O-Of course.”
+$Yokoyama
+“Ngh, it really was a lifesaver.”
+$Hikomaro
+“What about you, Ma'am?”
+$Sakimi
+“...I'm not going to praise you because you'll just get carried away.”
+$Hikomaro
+“...”
+$Sakimi
+“...But I'm always counting on you.”
+$Hikomaro
+“That was the best praise of all.”
+Maro was delighted!
+Maro's level increased!
+The delighted Maro learned “Secret Injection”!
+$Hikomaro
+“...What should we do now?”
+$Sakimi
+“We don't have our clothes or luggage...”
+$Yokoyama
+“We have no choice but to escape with just the clothes on our backs.”
+$Sakimi
+“...So it's come to that after all?”
+$Yokoyama
+“I don't think we have the luxury of worrying about appearances.”
+$Sakimi
+“What about you, Yukina-chan?”
+$Yukina
+“Ngh, I've already numbed my heart about it.”
+$Sakimi
+“What's the Professor's opinion?”
+$Hikomaro
+“I thought of it while we were being guided along the route. What those guys hate most is reckless behavior.”
+$Sakimi
+“...That's settled then.”
+$Yokoyama
+“If we cut through the courtyard, it's not far to the lobby.”
+$Sakimi
+“Then we've got no time to relax.”
+$Yukina
+“Ngh, our goal is the exit of the inn.”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Then let's be off immediately.”
+United in purpose.
+Without anyone leading the way.
+Everyone became a single mass.
+Creeping forward with stealthy steps.
+The corridor adjacent to the courtyard was right there.
+The four reached their destination in less than a minute.
+$Sakimi
+“From here, it's about being reckless.”
+$Hikomaro
+“Indeed.”
+$Sakimi
+“...Everyone is barefoot, is that okay?”
+$Yokoyama
+“Ngh, let's just be careful not to get injured.”
+$Yukina
+“Y-Yes.”
+$Sakimi
+“I'll go first and make a path.”
+Sakimi took the lead.
+Just as she was about to climb over the railing.
+The sliding door of the adjacent room opened softly.
+Suddenly, a familiar voice could be heard.
+$Man's Voice
+“Yokoyama-chan, it's been a while.”
+$Yokoyama
+“!?”
+$Yukina
+“V-Vice Manager?!”
+$Sakimi
+“...Eh?”
+$Hikomaro
+“Vice Manager?”
+$Fuse
+“There are so many nostalgic faces.”
+$Yokoyama
+“F-Fuse...-san...?”
+$Fuse
+“I am Fuse, the Vice Manager of Super Miyake.”
+Having said that, he gave a polite nod.
+Of course, it wasn't out of respect.
+His expression was filled with the superiority of the one who deceives.
+$Fuse
+“You were surprised, weren't you?”
+$Yokoyama
+“O-Of course I'm surprised.”
+$Fuse
+“I'm happy to see the expected reaction.”
+$Yokoyama
+“Ngh, why is Fuse-san here?”
+$Fuse
+“Because I'm her boss, of course.”
+Fuse pointed at the frozen Yukina.
+He was smirking with an expression full of ulterior motives.
+$Fuse
+“I'm the one who set my sights on her first.”
+$Yukina
+“Eh?”
+$Fuse
+“I fell in love at first sight on her first day at work. She's a Japanese-style beauty, her breasts are huge, and she's a housewife with circumstances...”
+$Yukina
+“W-Were you looking at me with those eyes?”
+$Fuse
+“Because there were so many openings to step in, right?”
+$Yukina
+“Urgh...”
+He looked at Yukina, who was speechless, as if licking her over.
+Then he smoothly moved those disgusting eyes toward Sakimi.
+$Fuse
+“It's been a while for the Ma'am too.”
+$Sakimi
+“...Hey.”
+$Fuse
+“Since you were kicked out of that apartment?”
+$Sakimi
+“...I guess so.”
+$Fuse
+“My heart was pounding when we talked on the phone.”
+$Sakimi
+“Eh?”
+$Fuse
+“I didn't think you'd be the one to answer. I changed my voice on the spot, but I was on pins and needles until the end.”
+$Sakimi
+“...”
+That's certainly true.
+I talked to the Vice Manager on my mobile.
+Blaming herself for not noticing then.
+Sakimi bit her lip in frustration.
+$Sakimi
+“S-So?”
+$Fuse
+“Yes?”
+$Sakimi
+“Are you a member of the secret club too?”
+$Fuse
+“There's no way I'd have that kind of money.”
+Fuse laughed with a shrill cackle.
+His face became as servile as could be.
+It suited him so much it was sickening.
+Everyone thought his personality was showing right through.
+$Fuse
+“I'm only allowed to participate as payment for information. The initial target was only Yukina-chan, but what do you know, she says she's also an acquaintance of the Ma'am.”
+$Fuse
+“I felt it was destiny when I learned that. I thought I might also be able to achieve the goal that was thwarted because of that white-painted guy over there.”
+$Sakimi
+“In other words, if you weren't here, this wouldn't have happened?”
+$Fuse
+“If the Ma'am hadn't gone on a test of courage, this wouldn't have happened, right?”
+$Sakimi
+“Ngh...”
+$Fuse
+“I'm an officer of the neighborhood association. I was surprised when I found the name, but a white-painted guy and a wife is a bit much, don't you think?”
+$Sakimi
+“Urgh...”
+$Fuse
+“I let you win as a punishment.”
+$Sakimi
+“Ngh, were you the one who cancelled that reservation too?”
+$Fuse
+“That too is the reward for cheating.”
+$Yokoyama
+“...Did you come out just to say such nasty things?”
+$Fuse
+“Hardly.”
+$Yokoyama
+“Then please get to the point already. It's about time to head home, so please make it brief.”
+$Fuse
+“My position is different from before, you know.”
+$Yokoyama
+“Pardon?”
+$Fuse
+“Don't treat me like an underling forever.”
+$Yokoyama
+“I used proper honorifics, though.”
+$Fuse
+“Only you and the white-painted guy are going home.”
+$Hikomaro
+“...That's a request I can't agree to.”
+$Fuse
+“You're at an age where you don't want to get injured, right?”
+$Hikomaro
+“I don't wish for it, but it depends on the situation.”
+$Fuse
+“It's just a matter of giving up on a woman who isn't even your wife. Nothing happened, you don't remember anything, leave the rest to me... wouldn't that be fine?”
+$Yokoyama
+“...”
+$Fuse
+“It seems like you'll be paid money too, just as Yokoyama-san wanted. It would leave evidence if it went into an account, so it'll be in cash under the table.”
+$Yokoyama
+“Do you think they are women who can be replaced by money?”
+$Fuse
+“Well, I'll admit they're top-tier.”
+$Hikomaro
+“Please go stick your dick in a gutter instead.”
+$Fuse
+“...If you're going to go that far, then there's no helping it.”
+Fuse pretended to be a tough guy.
+He raised one hand coolly.
+$Fuse
+“Come forth, Horse-Men!”
+Horse-Man 5 appeared!
+Horse-Man 6 appeared!
+$Fuse
+“I'll take the women by force.”
+$Hikomaro
+“I'll protect them with my life.”
+$Fuse
+“One of them is already gone, though.”
+$Sakimi
+“Eh?”
+Maro, Sakimi, and Yokoyama panicked!
+To their surprise, they realized Yukina was missing!
+Two Pig-Men were abducting her and cutting through the courtyard!
+Fuse was more of a tactician than they thought!
+$Fuse
+“If you want to chase after her, you'll have to beat the Horse-Men.”
+$Sakimi
+“Y-You bastard...”
+$Fuse
+“...Ma'am, you're the next one to be abducted.”
+$Sakimi
+“Ngh...”
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Secret Injection
+Reselect
+Maro tried to give Fuse an injection!
+The swift Fuse dodged quickly!
+But Maro chased Fuse even further!
+*PRICK.*
+Maro pricked Fuse with the needle!
+*SLUUUUUURP.*
+$Fuse
+“Funya... ngh.”
+Due to the effect of the drug, Fuse has no strength in his body!
+$Fuse
+“N-No more... ngh.”
+$Fuse
+“I-I'll leave the rest to you...”
+Fuse withdrew from the battle!
+Fuse crawled away as he escaped!
+Normal Attack
+Persuasion Attack
+Reselect
+$Yokoyama
+“If you don't return her right now, I'll call the police!”
+$Fuse
+“Hmph...”
+He snorted with a sneer.
+Persuasion Attack has no effect on Fuse.
+$Horse Man 5
+“...”
+Complete silence.
+Persuasion Attack has no effect on Horse-Man 5.
+$Horse Man 6
+“...”
+Complete silence.
+Persuasion Attack has no effect on Horse-Man 6.
+Persuasion Attack has no effect on Horse-Man 6 either.
+$Fuse
+“...That would be bad, wouldn't it.”
+Only Fuse reacted to Yokoyama's words!
+Pretending to do so, he approached Sakimi and groped both her breasts!
+$Sakimi
+“Waaaaah!!”
+Sakimi's nipples are being rubbed through her yukata!
+Sakimi took 40 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Normal Attack
+Adrenaline Strength
+Reselect
+$Sakimi
+“Uwooooh!”
+Sakimi used Adrenaline Strength!
+*CRACK!*
+Sakimi punched Horse-Man 5!
+Dealt 50 damage to Horse-Man 5!
+*CRACK!*
+Sakimi punched Horse-Man 6 too!
+Dealt 50 damage to Horse-Man 6!
+Horse-Man 5's remaining HP is
+.
+Horse-Man 5 was incapacitated!
+Horse-Man 6's remaining HP is
+.
+Horse-Man 6 was incapacitated!
+*THWACK!*
+Sakimi landed a critical hit on Horse-Man 5!
+Horse-Man 5 took 100 damage!
+Horse-Man 5's remaining HP is
+.
+Horse-Man 5 was incapacitated!
+*THWACK!*
+Sakimi landed a critical hit on Horse-Man 6!
+Horse-Man 6 took 100 damage!
+Horse-Man 6's remaining HP is
+.
+Horse-Man 6 was incapacitated!
+Fuse dodged the Adrenaline Strength!
+Taking the chance while dodging, he approached Sakimi.
+He touched her breasts through her yukata!
+$Sakimi
+“S-Stop it!”
+The blood is draining from Sakimi's face!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 5's counterattack!
+*THUD!*
+$Yokoyama
+“Guh!”
+Horse-Man 5 kicked Yokoyama!
+Yokoyama took 35 damage!
+Yokoyama was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 6's counterattack!
+*WHACK!*
+$Yokoyama
+“Guh!”
+Horse-Man 6 kicked Yokoyama!
+Yokoyama took 35 damage!
+Yokoyama was incapacitated.
+$Sakimi
+“Y-Yokoyama-san...”
+Maro and the others have been wiped out!
+Horse-Man 5's counterattack!
+*WHAM!*
+$Hikomaro
+“Fugya!”
+Horse-Man 5 kicked Maro!
+Maro took 25 damage!
+Maro was incapacitated.
+$Sakimi
+“Pr-Professor!”
+Maro and the others have been wiped out!
+Horse-Man 6's counterattack!
+*WHACK!*
+$Hikomaro
+“Hau!”
+Horse-Man 6 kicked Maro!
+Maro took 25 damage!
+Maro was incapacitated.
+$Sakimi
+“Pr-Professor!”
+Maro and the others have been wiped out!
+Horse-Man 5's counterattack!
+*WHACK!*
+$Sakimi
+“Ugh...”
+Horse-Man 5 kicked Sakimi in the stomach!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Horse-Man 6's counterattack!
+*WHAM!*
+$Sakimi
+“Ugh... ngh!!”
+Horse-Man 6 kicked Sakimi in the stomach!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Fuse's counterattack!
+Fuse pinched her nipples through the yukata!
+$Sakimi
+“No, no!”
+Sakimi is so disgusted she feels like she's going to faint!
+Sakimi took 35 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+$Yokoyama
+“If I take one more hit, it might be over...”
+$Hikomaro
+“Please leave it to me.”
+Maro rushed to Yokoyama-san's side.
+He gave her an injection of energy-boosting medicine.
+$Hikomaro
+“Ngh, let's do our best together.”
+$Yokoyama
+“Y-You saved me.”
+Examined by Maro.
+Yokoyama's HP recovered by 40.
+Yokoyama's remaining HP is
+.
+$Yokoyama
+“Uguu...”
+$Hikomaro
+“L-Let me give you one more injection!”
+Maro tried to rush to Yokoyama-san's side again.
+But a Horse-Man blocked his path.
+Maro cannot energize Yokoyama-san.
+$Hikomaro
+“T-This is bad.”
+Maro took out an ampoule.
+He gave himself an injection of energy-boosting medicine.
+$Hikomaro
+“Ngh, I still have to do my best.”
+Maro encouraged himself.
+Recovered 40 HP.
+Maro's remaining HP is
+.
+$Hikomaro
+“Hinn...”
+Maro immediately took out an ampoule.
+He tried to give himself an injection of energy-boosting medicine.
+$Hikomaro
+“Ah...”
+But the Horse-Man broke the ampoule.
+Maro cannot encourage himself.
+$Sakimi
+“I-I might not... make it...”
+$Hikomaro
+“Leave it to me!”
+Maro rushed to Sakimi's side.
+He quickly rolled up her yukata sleeve.
+$Sakimi
+“I-I hate injections.”
+$Hikomaro
+“Don't be so childish!”
+*PRICK.*
+$Sakimi
+“Yan...”
+Maro gave her an energy-boosting injection.
+Sakimi's HP recovered by 40.
+Sakimi's remaining HP is
+.
+$Sakimi
+“Ugh...”
+$Hikomaro
+“A-Are you okay?”
+Maro tried to rush to Sakimi's side again.
+But a Horse-Man blocked his path.
+Maro cannot energize Sakimi.
+Who will attack?
+--------------------
+sento09maro
+********************
+Fuse
+Horse-Man 5
+Horse-Man 6
+Reselect
+Fuse dodged Maro's attack!
+Taking the chance while dodging, he approached Sakimi.
+He touched her breasts through her yukata!
+Fuse dodged Maro's attack again!
+Taking the chance while dodging, he approached Sakimi.
+He touched her breasts through her yukata once more!
+$Sakimi
+“!?”
+Sakimi got goosebumps!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Fuse dodged Maro's attack!
+*CRACK!*
+Maro unleashed a Courtier Punch on Horse-Man 5!
+Dealt 30 damage to Horse-Man 5!
+Horse-Man 5's remaining HP is
+.
+Horse-Man 5 was incapacitated!
+*THUD!*
+Maro delivered a Kemari Kick to Horse-Man 6!
+Dealt 35 damage to Horse-Man 6!
+Horse-Man 6's remaining HP is
+.
+Horse-Man 6 was incapacitated!
+--------------------
+sento09saki
+********************
+Fuse
+Horse-Man 5
+Horse-Man 6
+Reselect
+Fuse dodged Sakimi's attack!
+Taking the chance while dodging, he approached Sakimi.
+He touched her breasts through her yukata!
+Fuse dodged Sakimi's attack again!
+Taking the chance while dodging, he approached Sakimi.
+He touched her breasts through her yukata once more!
+$Sakimi
+“Y-You bastard!”
+It's too late to be angry now!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+*CRACK!*
+Sakimi punched Horse-Man 5!
+Dealt 30 damage to Horse-Man 5!
+Horse-Man 5's remaining HP is
+.
+Horse-Man 5 was incapacitated!
+*THUD!*
+Sakimi punched Horse-Man 6!
+Dealt 30 damage to Horse-Man 6!
+Horse-Man 6's remaining HP is
+.
+Horse-Man 6 was incapacitated!
+--------------------
+sento09yoko
+********************
+Fuse
+Horse-Man 5
+Horse-Man 6
+Reselect
+Fuse dodged Yokoyama's attack!
+Taking the chance while dodging, he approached Sakimi.
+He stroked her buttocks through her yukata!
+Fuse dodged Yokoyama's attack again!
+Taking the chance while dodging, he approached Sakimi.
+He stroked her buttocks through her yukata once more!
+$Sakimi
+“!?”
+Sakimi is feeling nauseous!
+Sakimi took 30 damage!
+Sakimi was incapacitated.
+Maro and the others have been wiped out!
+Fuse dodged Yokoyama's attack!
+*THUD!*
+Yokoyama punched Horse-Man 5!
+Dealt 20 damage to Horse-Man 5!
+Horse-Man 5's remaining HP is
+.
+Horse-Man 5 was incapacitated!
+*WHAM!*
+Yokoyama punched Horse-Man 6!
+Dealt 20 damage to Horse-Man 6!
+Horse-Man 6's remaining HP is
+.
+Horse-Man 6 was incapacitated!

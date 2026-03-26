@@ -1,0 +1,723 @@
+--------------------
+sento06
+********************
+$Sakimi
+“...”
+$Hikomaro
+“...”
+$Yokoyama
+“Ngh...”
+$Yukina
+“U-Um...”
+$Sakimi
+“I’m not going to harp on the details, but...”
+$Yukina
+“Y-Yes.”
+$Sakimi
+“Could you all just get your acts together already?”
+$Yokoyama
+“M-My sincerest apologies.”
+$Yukina
+“Ngh... I’m sorry.”
+$Sakimi
+“Especially you, you spineless coward.”
+$Hikomaro
+“Ugh...”
+$Sakimi
+“Pull yourself together, for goodness' sake.”
+$Hikomaro
+“...I’ll pull myself together.”
+$Sakimi
+“You’re an adult, aren't you?”
+$Hikomaro
+“I-I am an adult.”
+$Sakimi
+“...Well, as long as you understand.”
+$Hikomaro
+“Ngh, I am sorry for causing such trouble.”
+$Sakimi
+“Everyone wants to get the hell out of here, right?”
+$Yokoyama
+“O-Of course.”
+$Sakimi
+“Cooperation is vital for that. Acting on your own will be the death of us.”
+$Yokoyama
+“Ngh, you're exactly right.”
+$Sakimi
+“From now on, it’s all about teamwork.”
+$Yukina
+“T-Teamwork, right.”
+$Yokoyama
+“Let’s all help each other out.”
+$Hikomaro
+“I-I won’t mope around anymore.”
+$Sakimi
+“...”
+$Sakimi
+“...*Sigh*.”
+Sakimi did her best!
+Sakimi’s level has increased!
+The strong Sakimi learned “Adrenaline Surge”!
+$Sakimi
+“Alright, let’s move.”
+Sakimi took the lead.
+She hurried toward the kitchen exit with light, quick steps.
+$Hikomaro
+“...”
+$Yokoyama
+“Ngh, that final blow was something else, wasn't it?”
+$Hikomaro
+“I-It was terrifying.”
+$Sakimi
+“...I said hurry up!”
+$Yokoyama
+“Y-Yes, ma’am.”
+$Sakimi
+“...”
+Leaving the kitchen.
+Before they had even gone a few meters down the hallway.
+A familiar sight appeared before them.
+Sakimi placed her hands on her hips.
+She stared up at the trash dangling from the barricade.
+$Sakimi
+“Again.”
+$Hikomaro
+“...A blockade, I see.”
+$Sakimi
+“Do they really not want us to get our luggage that badly?”
+$Yokoyama
+“No.”
+Yokoyama closed his eyes.
+Running his internal GPS at full capacity.
+$Yokoyama
+“...Based on the direction, left should be fine.”
+$Yukina
+“Is that so?”
+$Yokoyama
+“There’s no mistake.”
+$Sakimi
+“...Did they stop trying to get in our way?”
+$Hikomaro
+“Did they stop, or are they luring us...?”
+$Yokoyama
+“...”
+$Yokoyama
+“...Footsteps are approaching.”
+$Sakimi
+“H-He's right.”
+$Yokoyama
+“Ngh, those sound damn heavy.”
+Cook 2 appeared!
+Cook 3 appeared!
+$Yukina
+“Ngh...”
+The fear of a kiss struck Yukina!
+But the strong Yukina will not run away!
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Yukina
+Normal Attack
+Select again
+Normal Attack
+Silver Tongue Attack
+Select again
+$Yokoyama
+“I can see you’re a highly skilled chef. It’s a real waste for you to be wasting away in an inn like this.”
+Yokoyama used flattery!
+$Yokoyama
+“If you like, I can introduce you to a first-class restaurant.”
+And Yokoyama even offered an attractive job referral!
+$Cook 2
+“...”
+But Cook 2 is ignoring him!
+Cook 2 has eyes only for Yukina!
+$Cook 3
+“...Really?”
+But Cook 3 is very interested!
+Yokoyama handed over a random address and a letter of recommendation!
+Cook 3 set off on a journey, overjoyed!
+$Sakimi
+“Wh-that’s amazing, Yokoyama-san!”
+$Yokoyama
+“Ngh, I made the most of my talents!”
+Normal Attack
+Adrenaline Surge
+Select again
+$Sakimi
+“Uooohh!”
+Sakimi used Adrenaline Surge!
+*Crack!*
+Sakimi punched Cook 2!
+Dealt 50 damage to Cook 2!
+*Crack!*
+Sakimi punched Cook 3 as well!
+Dealt 50 damage to Cook 3!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+*Thwack!*
+Sakimi landed a critical hit on Cook 2!
+Cook 2 took 100 damage!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+*Thwack!*
+Sakimi landed a critical hit on Cook 3!
+Cook 3 took 100 damage!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+Normal Attack
+Resilience
+Select again
+Yukina prioritized her resilience!
+$Yukina
+“Ngh...”
+Yukina tried striking a sexy pose!
+Cook 2 was charmed by Yukina!
+Cook 3 is ignoring Yukina!
+Yukina is in the middle of her sexy pose!
+$Cook 2
+“!?”
+Cook 2 snapped out of Yukina’s charm!
+$Cook 2
+“...”
+Cook 2 is charmed by Yukina and cannot counterattack!
+Cook 2’s counterattack!
+*Clang!*
+$Yokoyama
+“Guhah!”
+Cook 2 hit Yokoyama with a frying pan!
+Yokoyama took 55 damage!
+Yokoyama has been incapacitated.
+Maro’s party has been wiped out!
+Cook 3’s counterattack!
+*Clang!*
+$Yokoyama
+“Dowaah?!”
+Cook 3 hit Yokoyama with a frying pan!
+Yokoyama took 55 damage!
+Yokoyama has been incapacitated.
+$Sakimi
+“Ngh... these guys are strong.”
+Maro’s party has been wiped out!
+Cook 2’s counterattack!
+*Clang!*
+$Hikomaro
+“Fugyaa!”
+Cook 2 hit Maro with a frying pan!
+Maro took 50 damage!
+Maro has been incapacitated.
+$Sakimi
+“Th-this might be bad...”
+Maro’s party has been wiped out!
+Cook 3’s counterattack!
+*Clang!*
+$Hikomaro
+“Atatata!”
+Cook 3 hit Maro with a frying pan!
+Maro took 50 damage!
+Maro has been incapacitated.
+$Sakimi
+“Th-this might be bad...”
+Maro’s party has been wiped out!
+Cook 2’s counterattack!
+*Clang!*
+$Sakimi
+“O-Ouch!”
+Cook 2 hit Sakimi with a frying pan!
+Sakimi took 50 damage!
+$Sakimi
+“Th-this guy’s tough.”
+Sakimi has been incapacitated.
+$Yukina
+“A-Am I all alone?”
+Yukina stopped her sexy pose!
+Maro’s party has been wiped out!
+Cook 3’s counterattack!
+*Clang!*
+$Sakimi
+“U-Uwaah!”
+Cook 3 hit Sakimi with a frying pan!
+Sakimi took 50 damage!
+$Sakimi
+“Ngh... this guy’s tough.”
+Sakimi has been incapacitated.
+$Yukina
+“A-Am I all alone?”
+Yukina stopped her sexy pose!
+Maro’s party has been wiped out!
+Cook 2’s counterattack!
+*Clang!*
+$Yukina
+“Kyaa!”
+Cook 2 hit Yukina with a frying pan!
+Yukina took 60 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+Cook 3’s counterattack!
+*Clang!*
+$Yukina
+“I-It hurts!”
+Cook 3 hit Yukina with a frying pan!
+Yukina took 60 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+$Yokoyama
+“Uguu...”
+$Yukina
+“A-Are you alright?”
+Yukina rushed to Yokoyama-san’s side.
+And hugged him tightly from behind.
+$Yukina
+“Ngh, don’t give up.”
+$Yokoyama
+“O-Of course not.”
+Healed by Yukina.
+Yokoyama’s stamina was restored by 40.
+Yokoyama’s remaining stamina is
+.
+$Yokoyama
+“Uguu...”
+$Yukina
+“P-Please leave it to me.”
+Yukina tries to rush to Yokoyama-san’s side again.
+However, a Cook blocks her path.
+She cannot heal Yokoyama-san.
+$Hikomaro
+“M-My head is spinning...!”
+$Yukina
+“Ngh... Sensei.”
+Yukina rushed to Maro’s side.
+And tightly gripped his hands to encourage him.
+$Yukina
+“Ngh, stay with me!”
+$Hikomaro
+“I-I’ll do my best to hang on.”
+Encouraged by Yukina.
+Maro’s stamina was restored by 40.
+Maro’s remaining stamina is
+.
+$Hikomaro
+“Hiin...!”
+$Yukina
+“Sensei?!”
+Yukina tries to rush to Maro’s side again.
+However, a Cook blocks her path.
+She cannot encourage Maro.
+$Sakimi
+“I-I think I’m gonna pass out.”
+$Yukina
+“Ngh... are you okay?”
+Yukina rushed to Sakimi’s side.
+And tightly gripped her hands to encourage her.
+$Yukina
+“Ngh, stay with me!”
+$Sakimi
+“Th-thank you.”
+Encouraged by Yukina.
+Sakimi’s stamina was restored by 40.
+Sakimi’s remaining stamina is
+.
+$Sakimi
+“Ugh...”
+$Yukina
+“M-Mrs. Ayase?!”
+Yukina tries to rush to Sakimi’s side again.
+However, a Cook blocks her path.
+She cannot encourage Sakimi.
+Yukina is striking a defenseless sexy pose.
+$Cook 2
+“...”
+Cook 2 is charmed by Yukina and cannot counterattack!
+Cook 2’s counterattack!
+*Clang!*
+$Yukina
+“Kyaa!”
+Cook 2 hit Yukina with a frying pan!
+Yukina took 60 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+Cook 3’s counterattack!
+*Clang!*
+$Yukina
+“I-It hurts!”
+Cook 3 hit Yukina with a frying pan!
+Yukina took 60 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+Who will attack?
+--------------------
+sento06maro
+********************
+Cook 2
+Cook 3
+Select again
+*Crack!*
+Maro unleashed a Courtier Punch on Cook 2!
+Dealt 25 damage to Cook 2!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+*Wham!*
+Maro unleashed a Courtier Punch on Cook 3!
+Dealt 25 damage to Cook 3!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+--------------------
+sento06saki
+********************
+Cook 2
+Cook 3
+Select again
+*Crack!*
+Sakimi punched Cook 2!
+Dealt 30 damage to Cook 2!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+*Wham!*
+Sakimi punched Cook 3!
+Dealt 30 damage to Cook 3!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+--------------------
+sento06yoko
+********************
+Cook 2
+Cook 3
+Select again
+*Wham!*
+Yokoyama punched Cook 2!
+Dealt 20 damage to Cook 2!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+*Biff!*
+Yokoyama punched Cook 3!
+Dealt 20 damage to Cook 3!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+--------------------
+sento06yuki
+********************
+Cook 2
+Cook 3
+Select again
+$Yukina
+“H-Hah!”
+*Clang!*
+Yukina hit Cook 2 with her frying pan!
+Dealt 20 damage to Cook 2!
+Cook 2’s remaining stamina is
+.
+Cook 2 has been incapacitated!
+$Yukina
+“H-Hah!”
+*Clang!*
+Yukina hit Cook 3 with her frying pan!
+Dealt 20 damage to Cook 3!
+Cook 3’s remaining stamina is
+.
+Cook 3 has been incapacitated!
+--------------------
+sento07
+********************
+$Yukina
+“W-We won...”
+$Hikomaro
+“Ngh, that was incredibly tough.”
+$Sakimi
+“I-Is this going to keep going on forever?”
+$Yokoyama
+“We should reach the room in just a little more. We have to proceed cautiously while praying we don't run into anyone else.”
+Yukina-chan gave a firm nod.
+It’s not visible, but...
+A special bond of trust has been born between these two.
+Maro is a bit envious.
+But since he is an adult.
+He just watches them closely.
+$Sakimi
+“Alright, let’s go on tiptoe.”
+$Yokoyama
+“...Right.”
+Yokoyama-san was in the lead.
+Followed by Yukina-chan...
+$Sakimi
+“Aren't you going?”
+$Hikomaro
+“If Yokoyama-san is guarding the front, I’ll be in charge of the rear.”
+$Sakimi
+“...For now, just cheer up.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“I know a lot is going on, but...”
+$Hikomaro
+“...”
+$Sakimi
+“Once we escape safely, let’s go to a cat cafe again.”
+$Hikomaro
+“...”
+There are certainly a lot of things on his mind.
+But for now, he only prays for everyone's safety.
+And so, and so.
+Maro will do his best to do what Maro can do.
+$Yokoyama
+“...It’s quiet.”
+$Yukina
+“Y-Yes.”
+$Sakimi
+“It’s so quiet it’s actually creeping me out.”
+Moving with stealthy, silent steps.
+First, they turned left at the end.
+There were no branch-offs in the hallway.
+The four of them walked slowly along the path.
+They always stopped at every corner.
+Yokoyama-san, pressed against the wall, would peek around.
+$Yokoyama
+“...No one’s there.”
+Their shoulders were stiff with tension.
+After wiping their sweaty palms about three times.
+While suppressing the urge to speed up out of haste.
+The four of them managed to reach their destination.
+$Yokoyama
+“...”
+$Yukina
+“Ngh... where’s our luggage?”
+$Yokoyama
+“...I don't see it.”
+$Hikomaro
+“Where did you leave it?”
+$Sakimi
+“...By the table, I think.”
+$Yukina
+“I left mine on top of the chair...”
+$Kurokawa
+“...Are you looking for something?”
+$Yukina
+“Ah...”
+$Kurokawa
+“If you can’t find it, I can help you out.”
+$Sakimi
+“Ngh, what the hell are you talking about now?”
+$Kurokawa
+“It’s the clerk’s duty to help the guests.”
+$Sakimi
+“Enough of that, give us back our luggage!”
+$Yokoyama
+“...Mrs. Ayase.”
+Yokoyama-san extended his arm.
+Restraining Sakimi as she tried to snap at him.
+$Yokoyama
+“Please, leave this to me.”
+Having said that, Yokoyama-san...
+Took a step forward.
+And stood tall, directly in front of Kurokawa.
+$Yokoyama
+“Greetings.”
+First, he gave a polite nod.
+$Kurokawa
+“Greetings.”
+Kurokawa gave a polite nod in return.
+$Yokoyama
+“...”
+Not expecting a greeting back.
+Yokoyama-san’s expression was a bit bewildered.
+$Yokoyama
+“Y-You seem like a sensible person.”
+$Kurokawa
+“...You think so?”
+*Thwack!*
+A critical hit on the careless Yokoyama!
+Yokoyama took 100 damage!
+Yokoyama has been incapacitated!
+$Yukina
+“W-What are you doing?!”
+*Wham!*
+$Yukina
+“Ah...”
+A fist buried itself in Yukina’s solar plexus!
+Yukina is gasping for air, writhing in agony!
+Yukina has also been incapacitated!
+$Sakimi
+“Y-You...!”
+$Kurokawa
+“...No matter how many times I see you, you're a fine woman.”
+$Sakimi
+“Sh-shut up!”
+$Kurokawa
+“You want to experience some pain too?”
+$Sakimi
+“Ngh, I'm ready for a fight.”
+$Kurokawa
+“Sorry, but I don't hold back even against women. A bruise or two will disappear after three days anyway.”
+*Prick.*
+$Kurokawa
+“Eh...?”
+$Hikomaro
+“...Surely three days is impossible.”
+Chuuuu.
+$Kurokawa
+“Aah... aa...”
+$Hikomaro
+“I can't say I approve of punching a woman for real.”
+$Kurokawa
+“Wh-what the hell did you do?!”
+$Hikomaro
+“An injection through your clothes.”
+$Kurokawa
+“A-An injection?!”
+$Hikomaro
+“Do you feel it starting to work?”
+$Kurokawa
+“Ah...”
+$Hikomaro
+“Where is the luggage?”
+$Kurokawa
+“Wh-what the... h-huh?”
+$Hikomaro
+“It seems your speech is becoming slurred.”
+$Kurokawa
+“Wha... wha’s ‘appening...!”
+$Hikomaro
+“If you don’t confess, I’ll give you another one.”
+$Kurokawa
+“Stop... heh... funya...”
+$Hikomaro
+“Return at least the women's luggage.”
+$Kurokawa
+“You guys!”
+$Sakimi
+“Y-You guys?”
+$Kurokawa
+“Get ‘em!”
+$Hikomaro
+“...Something’s coming.”
+Horse Man 1 appeared!
+Horse Man 2 appeared!
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Select again
+Normal Attack
+Silver Tongue Attack
+Select again
+Normal Attack
+Adrenaline Surge
+Select again
+$Sakimi
+“Uooohh!”
+Sakimi used Adrenaline Surge!
+*Crack!*
+Sakimi punched Horse Man 1!
+Dealt 50 damage to Horse Man 1!
+*Crack!*
+Sakimi punched Horse Man 2 as well!
+Dealt 50 damage to Horse Man 2!
+Horse Man 1’s remaining stamina is
+.
+Horse Man 1 has been incapacitated!
+Horse Man 2’s remaining stamina is
+.
+Horse Man 2 has been incapacitated!
+*Thwack!*
+Sakimi landed a critical hit on Horse Man 1!
+Horse Man 1 took 100 damage!
+Horse Man 1’s remaining stamina is
+.
+Horse Man 1 has been incapacitated!
+*Thwack!*
+Sakimi landed a critical hit on Horse Man 2!
+Horse Man 2 took 100 damage!
+Horse Man 2’s remaining stamina is
+.
+Horse Man 2 has been incapacitated!
+Normal Attack
+Resilience
+Select again
+Horse Man 1’s counterattack!
+*Wham!*
+$Hikomaro
+“Fugyaa!”
+Horse Man 1 punched Maro!
+Maro took 25 damage!
+Maro has been incapacitated.
+$Sakimi
+“A-Are you serious?!”
+Maro’s party has been wiped out!
+Horse Man 2’s counterattack!
+*Wham!*
+$Hikomaro
+“Haugh!”
+Horse Man 2 kicked Maro!
+Maro took 30 damage!
+Maro has been incapacitated.
+$Sakimi
+“A-Are you serious...”
+Maro’s party has been wiped out!
+Horse Man 1’s counterattack!
+*Wham!*
+$Sakimi
+“Ugh...”
+Horse Man 1 punched Sakimi in the stomach!
+Sakimi took 25 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+Horse Man 2’s counterattack!
+*Wham!*
+$Sakimi
+“Ugh...!”
+Horse Man 2 kicked Sakimi in the stomach!
+Sakimi took 30 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+Who will attack?
+--------------------
+sento07maro
+********************
+Horse Man 1
+Horse Man 2
+Select again
+*Crack!*
+Maro unleashed a Courtier Punch on Horse Man 1!
+Dealt 25 damage to Horse Man 1!
+Horse Man 1’s remaining stamina is
+.
+Horse Man 1 has been incapacitated!
+*Wham!*
+Maro delivered a Kemari Kick to Horse Man 2!
+Dealt 30 damage to Horse Man 2!
+Horse Man 2’s remaining stamina is
+.
+Horse Man 2 has been incapacitated!
+--------------------
+sento07saki
+********************
+Horse Man 1
+Horse Man 2
+Select again
+*Crack!*
+Sakimi punched Horse Man 1!
+Dealt 30 damage to Horse Man 1!
+Horse Man 1’s remaining stamina is
+.
+Horse Man 1 has been incapacitated!
+*Wham!*
+Sakimi punched Horse Man 2!
+Dealt 30 damage to Horse Man 2!
+Horse Man 2’s remaining stamina is
+.
+Horse Man 2 has been incapacitated!

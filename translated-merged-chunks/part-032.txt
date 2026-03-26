@@ -1,0 +1,1906 @@
+--------------------
+stage53
+********************
+$Sakimi
+“…Where are Yukina-chan and Yokoyama-san?”
+$Aida
+“They’re being treated with the utmost courtesy.”
+$Sakimi
+“Tch, you’d better set them free, just like you promised.”
+$Aida
+“Once your side of the bargain has been fulfilled.”
+$Sakimi
+“I’m going through with the matches, so isn't it already a done deal?”
+$Aida
+“A deal isn't 'done' until it’s finished.”
+$Sakimi
+“Then let's just get this over with already!”
+$Aida
+“I’ve got plenty of preparations to make on my end, too.”
+$Sakimi
+“…Fine, then take me to see him in the meantime.”
+$Aida
+“Huh?”
+$Sakimi
+“Take me to see Sensei right now!”
+$Aida
+“And why would I do that?”
+$Sakimi
+“Tch, I need to make sure he’s actually being treated.”
+$Aida
+“His treatment starts after the matches begin.”
+$Sakimi
+“Tch, how can you be so damn leisurely about this…!”
+$Aida
+“I’ll at least have them stop the bleeding for now.”
+$Sakimi
+“I-If anything happens to him, there’ll be hell to pay. I’ll drag every last one of you down to hell with me!”
+$Aida
+“I’ll make sure he gets first aid so it doesn't come to that.”
+$Sakimi
+“Tch, you’re not lying to me, are you?”
+$Aida
+“Want to make a pinky swear on it?”
+$Sakimi
+“Tch, I wouldn't touch you even if it was just a finger.”
+$Aida
+“My, you certainly do hate me.”
+$Sakimi
+“I loathe you with every fiber of my being.”
+$Aida
+“Even though we might become colleagues soon?”
+$Sakimi
+“Not a chance.”
+$Aida
+“…You really are confident about winning, aren't you?”
+$Sakimi
+“When I have to explain everything later, I want to be able to hold my head high.”
+$Aida
+“…Huh?”
+$Sakimi
+“I’ll probably end up divorced, and I know nothing good is waiting for me. But even so, whether or not I still have my pride makes a world of difference.”
+$Aida
+“You’ve really braced yourself for this, haven't you?”
+$Sakimi
+“You’re the one who backed me into this corner!”
+$Aida
+“…True enough.”
+Aida let out a wry chuckle.
+Then, he pulled the tie of his hanten tight with a sharp snap.
+He glanced over at the clock behind the front desk.
+$Aida
+“Time to go.”
+$Sakimi
+“…Eh?”
+$Aida
+“To the arena.”
+$Sakimi
+“B-But you just said the preparations would take time…”
+$Aida
+“Getting cold feet?”
+$Sakimi
+“Tch, like hell I am.”
+$Aida
+“You feel like a convict waiting for execution, don't you?”
+$Sakimi
+“Tch, don't use such disgusting metaphors.”
+$Aida
+“Relax, the match won't start immediately.”
+$Sakimi
+“T-Then why are we going now?”
+$Aida
+“I figured it’d be better than being bored to death while watched over by Pig-man and Horse-man.”
+$Sakimi
+“…I have no idea what you’re talking about.”
+$Aida
+“You’ll understand once we get there.”
+$Sakimi
+“W-Wait…!”
+He suddenly grabbed her by the wrist.
+Sakimi was dragged along as he pulled her forcefully.
+Of course, she tried to shake him off.
+But Aida’s grip was unexpectedly strong.
+$Sakimi
+“L-Let go of me!”
+$Aida
+“A woman who’s about to have a stranger’s cock shoved inside her shouldn't be making such a fuss over someone grabbing her wrist.”
+$Sakimi
+“Urgh…!”
+That wasn't it.
+That was different.
+This and that are two separate things.
+She thought this to herself but couldn't find the words to strike back.
+She allowed herself to be dragged along as things spiraled out of her control.
+$Aida
+“This is the arena.”
+$Sakimi
+“…Huh?”
+$Aida
+“What’s wrong?”
+$Sakimi
+“What the hell is this?”
+$Aida
+“I have to take care of my precious employees, after all.”
+$Sakimi
+“A-A banquet at a time like this?!”
+$Aida
+“It’s the perfect entertainment before the main event, wouldn't you say?”
+$Sakimi
+“Tch, I’m in a desperate situation here, and you’re…”
+$Aida
+“Those guys are exhausted from fighting you and the others, too.”
+$Sakimi
+“That goes for both sides!”
+$Aida
+“The damage is different for the ones who lost.”
+$Sakimi
+“So what?”
+$Aida
+“I'm saying you should at least pour them a drink.”
+$Sakimi
+“D-Don't screw with me!”
+$Aida
+“Hospitality is part of our line of work.”
+$Sakimi
+“I told you, I have no intention of working for you!”
+$Aida
+“Think of it as practice for when you lose.”
+$Sakimi
+“Tch, I don't need practice, so no.”
+$Aida
+“‘…I’ll do as I’m told, but I’m not selling my soul.’”
+$Sakimi
+“Ugh…!”
+$Aida
+“Now, whose words were those, I wonder?”
+$Sakimi
+“Tch, your memory is the only good thing about you.”
+$Aida
+“Was that a lie, then?”
+$Sakimi
+“F-Fine, I get it!”
+$Aida
+“You should do your best to deepen your bond with them while you still can. Who knows, they might even take a liking to you and go easy on you later.”
+$Sakimi
+“S-Shut up, you bastard!”
+$Aida
+“Wait a second.”
+$Sakimi
+“I-Is there something else now?!”
+$Aida
+“I’m going to go sit in the seat of honor over there.”
+$Sakimi
+“Tch, do whatever you damn well please.”
+$Aida
+“You’ll pour for everyone in turn, right?”
+$Sakimi
+“It’s a pain, but I don't have a choice.”
+$Aida
+“When it’s my turn…”
+$Sakimi
+“Tch, even if I hate you, I won't ignore you.”
+$Aida
+“It’s the opposite.”
+$Sakimi
+“H-Huh?”
+$Aida
+“Skip me when it’s my turn to be served.”
+$Sakimi
+“…”
+$Aida
+“Understood?”
+$Sakimi
+“Y-You’re just going to try and find some weird fault with me later…”
+$Aida
+“It’s not like that.”
+$Sakimi
+“Tch, you’re such a baffling person.”
+$Aida
+“…”
+$Aida
+“…Alright.”
+Now I can enjoy this too.
+Three years ago.
+That timid, miserable excuse for a husband.
+I wonder how he felt back then.
+I want to have everything.
+I want to know everything.
+Even if it’s something trivial.
+If I don't see it for myself, I won't be satisfied.
+$Pig Man 1
+“Ooh…!”
+$Horse Man 2
+“You’re going to pour for us?!”
+The banquet hall was buzzing with excitement.
+It was something they hadn't even dreamed of.
+I could feel their spirits rising.
+So as not to ruin the mood.
+I quietly slipped through the sliding doors.
+And took a seat in the back where I wouldn't stand out.
+$Aida
+“…”
+Good grief.
+What’s with that sour look on your face?
+Since you’re already pouring drinks for them.
+Why don't you try smiling a little?
+$Aida
+“But, well…”
+I suppose that’s just like her.
+There’s definitely a demand for a woman like that.
+There’s no doubt she’s a rare find.
+The members of our club are true connoisseurs, after all.
+There are many professional customers who won't fall for a cheap act.
+They can easily see through a fake who’s just putting on an appearance.
+Pretending to be a queen or a total masochist.
+All that stuff is out.
+A strong-willed woman has to be that way to her core.
+That’s exactly why our club can charge such ridiculously high fees.
+Understanding that, I can say this with certainty.
+You’re going to be popular.
+Unbelievably popular.
+Being booked a month in advance will be the norm.
+For a while, your pussy might not even have time to dry.
+$Pig Man 1
+“U-Um…”
+$Sakimi
+“What?”
+$Pig Man 1
+“How old are you?”
+$Sakimi
+“I have no reason to tell the likes of you.”
+$Pig Man 1
+“Tch, you’re right.”
+$Sakimi
+“I'm going to pour, so hold out your cup.”
+$Pig Man 1
+“Y-Yes.”
+Glug, glug, glug…
+$Pig Man 1
+“Thank you very much.”
+$Sakimi
+“Your parents would cry.”
+$Pig Man 1
+“Eh?”
+$Sakimi
+“There must be more decent jobs out there for you.”
+$Pig Man 1
+“Ah, no… but…”
+$Sakimi
+“I can't see your face, but you’re still young, aren't you?”
+$Pig Man 1
+“…Yes.”
+$Sakimi
+“You really are a hopeless fellow.”
+$Pig Man 1
+“Tch, people have been telling me that for a long time.”
+$Sakimi
+“Only you can change yourself.”
+$Pig Man 1
+“H-Huh.”
+$Sakimi
+“You can become anything if you put in the effort.”
+$Pig Man 1
+“…I just don't have that kind of guts.”
+$Sakimi
+“Well, at least you’re aware of it.”
+$Pig Man 1
+“Eh?”
+$Sakimi
+“A real idiot wouldn't say something like that.”
+$Pig Man 1
+“…”
+$Pig Man 1
+“…Um.”
+$Sakimi
+“What is it now?”
+$Pig Man 1
+“Tch, could you tell me a bit more about life?”
+$Sakimi
+“I have to pour for everyone in turn.”
+$Pig Man 1
+“Y-You’re right.”
+$Sakimi
+“I’ll come back to you later, so reflect on yourself until then.”
+$Aida
+“…”
+This is good.
+Her mouth is incredibly foul.
+But there’s an indescribable kindness in her.
+She’s got the looks.
+She’s a good talker.
+And her mind is reasonably sharp.
+Once she’s fully developed, she’ll be a top-tier prize.
+$Sakimi
+“Hey, Horse.”
+$Horse Man 1
+“…Hey.”
+$Sakimi
+“I’ll pour for you too.”
+Glug, glug, glug…
+$Horse Man 1
+“Thanks, thanks.”
+$Sakimi
+“Is 'thanks' the only thing you can say?”
+$Horse Man 1
+“…Your tits are huge.”
+$Sakimi
+“A woman’s worth isn't determined by the size of her chest.”
+$Horse Man 1
+“…But a man’s worth is the size of his dick.”
+$Sakimi
+“Where on earth did you learn that?”
+$Horse Man 1
+“…I know it even without being taught.”
+$Sakimi
+“A man’s worth isn't his dick. A man’s worth is right here.”
+Sakimi made a fist.
+And gave Horse-man 1’s heart a sharp thump.
+$Horse Man 1
+“Ugh…!”
+$Sakimi
+“Sex is just one part of a relationship between a man and a woman.”
+$Horse Man 1
+“…”
+$Sakimi
+“If you think it’s everything, you’re dead wrong, you idiot!”
+Leaving Horse-man 1 staring blankly.
+Sakimi moved on to the next one, Pig-man 2.
+Her face was still as displeased as ever.
+But for some reason, the atmosphere didn't become tense.
+And a few minutes later.
+It was finally my turn.
+She finished pouring for Pig-man 5, who was sitting next to me.
+Sakimi stood up smoothly from her knees.
+Of course, I held out my cup.
+Waiting with every intention of having her pour for me.
+$Sakimi
+“…”
+The lady walked right past me.
+Without giving me so much as a glance.
+Only the slight flutter of air reached my cheek.
+$Aida
+“Ooh…”
+I couldn't help but groan.
+This is really getting to me.
+Even knowing it beforehand, the sense of despair is real.
+Staring at my empty cup.
+I had to give a wry smile at how genuinely depressed I felt.
+$Aida
+“Hey…”
+$Sakimi
+“…What?”
+I wasn't just curious.
+Unable to bear the overwhelming feeling of being excluded.
+I called out to her as she passed by.
+The lady turned around.
+I felt a surge of relief that she had responded.
+I was being truly pathetic, feeling so relieved.
+$Aida
+“P-Pour it already.”
+$Sakimi
+“Why are you stuttering?”
+$Aida
+“Tch, just pour it!”
+$Sakimi
+“…You’re such a pain in the ass.”
+$Sakimi
+“Telling me to ignore you one minute, and then telling me to pour the next.”
+Glug, glug, glug…
+$Sakimi
+“There.”
+$Aida
+“…How did it feel for you?”
+$Sakimi
+“What did?”
+$Aida
+“When you walked right past me.”
+$Sakimi
+“Nothing in particular.”
+$Aida
+“You didn't feel anything at all?”
+$Sakimi
+“I just did exactly what I was told.”
+$Aida
+“What if I were your husband?”
+$Sakimi
+“Huh?”
+$Aida
+“What if I were your beloved husband?”
+$Sakimi
+“I wouldn't have ignored him in the first place.”
+$Aida
+“What if you had no choice but to ignore him?”
+$Sakimi
+“…”
+She looked at me for just a brief moment.
+Then immediately turned her gaze back to where she was pouring from the bottle.
+$Sakimi
+“I couldn't do it, he’d be too pitiful.”
+$Aida
+“What do you mean, you couldn't?”
+$Sakimi
+“I just wouldn't be able to do something like that.”
+$Aida
+“But if you did it anyway…”
+$Sakimi
+“Wouldn't there have to be a damn good reason?”
+$Aida
+“Like being in love with the person who forced you to ignore him?”
+$Sakimi
+“How should I know?”
+$Aida
+“I’m asking what it would be like for you.”
+$Sakimi
+“It’s about the importance of what you’re trading it for, right? If the thing I was protecting was a matter of life and death, I might do the same.”
+$Aida
+“Even if it meant sacrificing your own conscience?”
+$Sakimi
+“I’d certainly hate the person who ordered it, though.”
+$Aida
+“…”
+$Sakimi
+“Did you really think I’d ever end up liking you?”
+$Aida
+“…Shut up.”
+Flip.
+$Sakimi
+“…”
+I pulled open the front of my yukata.
+Boldly exposing my pure white underwear.
+She flinched for a second.
+But after that, she pretended as if nothing had happened.
+$Aida
+“I’ll give you a brief explanation of how the matches will work.”
+$Sakimi
+“…Go ahead.”
+$Aida
+“It’s a real fight, and the act itself is limited to sex only. No unnecessary foreplay or anything else is allowed, and of course, no toys either.”
+$Aida
+“That would go against our club’s policy, and it would also rob the customers of their enjoyment. Be grateful for the strict KHC rules.”
+$Sakimi
+“For a mere prostitution club, you sure are acting all high and mighty.”
+$Aida
+“…”
+$Sakimi
+“If you want to hold your head high, get a decent job.”
+$Aida
+“Like your huge tits, you mean?”
+$Sakimi
+“That’s not the kind of 'holding your head high' I meant!”
+$Aida
+“What size are they?”
+$Sakimi
+“Tch, don't change the subject!”
+$Aida
+“Is your bra always white?”
+$Sakimi
+“What does that matter?”
+$Aida
+“I just thought dirt would stand out more on white.”
+I stared at her brassiere from point-blank range.
+My warm breath brushed against the cleavage of her breasts.
+With an expression of pure disgust, she frowned.
+$Sakimi
+“Tch, you’re too close.”
+$Aida
+“I was wondering if you might smell like sweat.”
+$Sakimi
+“Y-You…!”
+$Aida
+“It would be a pity for the person who has to deal with you if you had a strong body odor.”
+Flick.
+$Sakimi
+“Ow…!”
+I curled my finger.
+And flicked the tip of her swelling breast.
+$Sakimi
+“W-What the hell are you doing?!”
+$Aida
+“The match is a continuous nine-round bout.”
+Flick.
+$Sakimi
+“S-Stop it…!”
+$Aida
+“It’s just about having a cock shoved inside you, and whether he cums first or you do.”
+$Sakimi
+“Y-You know…”
+$Aida
+“What?”
+$Sakimi
+“You’re an even more unpleasant person than you think you are.”
+$Aida
+“Is that so?”
+$Sakimi
+“You’re the type who thinks a woman might be interested in you just because she glances at you, aren't you?”
+$Aida
+“Huh?”
+$Sakimi
+“Tch, I just got that feeling.”
+$Aida
+“You’re a pretty unpleasant woman yourself.”
+Boing.
+$Sakimi
+“Ugh…!”
+$Aida
+“You keep saying things that just gouge out my emotional wounds.”
+$Sakimi
+“Tch, was what you said earlier about yourself, too?”
+$Aida
+“There’s no need for unnecessary prying.”
+$Sakimi
+“Is that why you have a grudge against blue-collar workers?”
+$Aida
+“…”
+$Sakimi
+“You liked her but you were mean to her, and then she ended up hating you, so now you’re holding a grudge?”
+$Aida
+“…She was a woman I’d been looking after for a long time.”
+$Sakimi
+“So what?”
+$Aida
+“Normally, you’d show some gratitude, wouldn't you?”
+$Sakimi
+“And that means falling in love with you?”
+$Aida
+“…She was leading me on.”
+$Sakimi
+“Aha! Just as I thought, you’re the type who thinks a woman might be interested just because she looks your way.”
+$Aida
+“…”
+$Sakimi
+“Your mental age is stuck in middle school.”
+Flick, flick.
+$Sakimi
+“Ow…!”
+$Aida
+“If you push your bravado too far, it won't be a laughing matter.”
+Flick, flick!
+$Sakimi
+“W-Wait a sec…!”
+$Aida
+“Just cry and admit it hurts.”
+Flick, flick, flick!
+$Sakimi
+“Tch, didn't you say there was no foreplay?!”
+$Aida
+“How could this be foreplay?”
+Flick, flick, flick!
+$Sakimi
+“Hey, stop…!”
+$Aida
+“Are you actually a masochist despite being so strong-willed?”
+$Sakimi
+“Anyway, just don't keep doing it so gradually!”
+$Aida
+“…”
+$Sakimi
+“Tch, I came here having braced myself for this. If you’re calling this a match, then let’s have a fair and square fight!”
+$Aida
+“Then I’ll get started all at once.”
+I'm busy, so I'll attack you briefly.
+We've got plenty of time, after all.
+$Aida
+“I'm busy, so I'll attack you briefly.”
+$Aida
+“We've got plenty of time, after all.”
+$Sakimi
+“!?”
+From then on, it was lightning fast.
+Aida’s words were the signal.
+Pig and Horse stood up abruptly.
+One quickly unhooked her bra.
+Another firmly pinned Sakimi’s wrists.
+In an instant, her obi was untied.
+Her yukata was pulled wide, enough to see the curve of her waist.
+$Sakimi
+“Wait… wa…!”
+Her ankles were grabbed.
+Sakimi was lifted up with her thighs held together.
+As if they were changing a baby’s diaper.
+Even her panties were pulled off in one smooth motion.
+Her pussy was exposed for all to see.
+All of this took place in the span of a few blinks.
+She wasn't even given the time to hurl any abuse.
+$Sakimi
+“L-Let go of meeee!”
+$Aida
+“So you did get scared after all?”
+$Sakimi
+“I’m not going to run away even if you don't pin me down!”
+$Aida
+“It’s insurance for in case you start struggling.”
+$Sakimi
+“Y-You’re not planning to start the match just like this, are you…”
+$Aida
+“Is there a problem?”
+$Sakimi
+“One referee should be enough, and that’s you!”
+$Aida
+“I was thinking the same thing.”
+$Sakimi
+“T-Then everyone except you and the opponent should get out!”
+$Aida
+“…I’m the one who decides the rules.”
+$Sakimi
+“Ugh…”
+$Aida
+“My apologies.”
+$Sakimi
+“A-At least turn off the lights.”
+$Aida
+“So it’ll be easier for you to hide it when you climax?”
+$Sakimi
+“Tch, that’s not it!”
+$Aida
+“Then the room’s brightness stays just like this.”
+$Sakimi
+“I-I’m not some kind of spectacle!”
+$Aida
+“Let’s get started soon.”
+$Sakimi
+“Tch, you could at least change one rule for me…”
+$Aida
+“This guy is for the first match.”
+Aida completely ignored Sakimi.
+He pointed to Pig-man 1, who was in the corner of the room.
+Beckoning him to step forward.
+$Pig Man 1
+“Tch, I look forward to working with you.”
+$Aida
+“He was a shut-in until just recently. He’s 26 years old and has lived off his parents, only doing part-time work as a 'juice' actor.”
+$Sakimi
+“I-I don't want to hear his profile!”
+$Aida
+“His penis size is 10 centimeters in length when erect. The thickness is 3 centimeters, getting thinner toward the glans. He lacks destructive power, but he’s decent enough as a vanguard.”
+$Sakimi
+“I-I told you, I don't need an explanation!”
+$Aida
+“Then let the match begin.”
+$Pig Man 1
+“H-Here I go.”
+$Aida
+“Oh right, the condom…”
+$Pig Man 1
+“Tch, it’s already on.”
+$Aida
+“I’m glad your lobbying efforts bore fruit.”
+$Sakimi
+“H-Huh?”
+$Aida
+“Contraception is a matter of personal responsibility.”
+$Sakimi
+“M-Make every one of them wear one!”
+$Aida
+“For what reason?”
+$Sakimi
+“W-What do you mean, for what reason…?”
+$Aida
+“Leaving it up to their own initiative is truly wonderful.”
+$Sakimi
+“W-What kind of responsibility do you mean by personal responsibility?!”
+$Aida
+“Well, that’s obvious, isn't it?”
+$Sakimi
+“…”
+Sakimi was speechless.
+Aida was just smirking.
+He wouldn't listen to anything she said anyway.
+Her body temperature felt like it dropped a degree.
+The color drained from her face.
+Still, Sakimi didn't want to show any weakness.
+She glared at Pig-man 1 as he approached.
+$Sakimi
+“I-I’ll give you credit for putting on a condom.”
+$Pig Man 1
+“Tch, it’s only natural.”
+$Sakimi
+“You want me to praise you more, don't you?”
+$Pig Man 1
+“…Eh?”
+$Sakimi
+“Tch, I’ll praise you a hundred times more if you forfeit the match!”
+$Pig Man 1
+“I-I can't do that.”
+Pig-man 1 gave a small bow.
+And crawled between her thighs.
+$Sakimi
+“Wait… wa…!”
+Squish…
+$Sakimi
+“U-Uwa…!”
+A penis that had no connection or bond with her.
+It was being pressed against her genitals.
+And was about to be inserted into her vagina.
+A nightmare within a nightmare.
+Sakimi felt truly nauseous.
+She desperately held back the urge to gag.
+Her body stiffened with disgust.
+Her vaginal opening tightened as if rejecting everything.
+$Pig Man 1
+“A-Are…?”
+$Aida
+“…What’s wrong?”
+$Pig Man 1
+“I-I can't seem to get it in.”
+Pig-man 1 was in a panic.
+He stroked the shaft to keep his cock from going limp.
+He was searching for the entrance while lubricating the tip.
+$Pig Man 1
+“H-How strange.”
+Rub, rub, rub.
+$Pig Man 1
+“T-That’s odd.”
+Rub, rub, rub.
+$Pig Man 1
+“Ah, are… are?!”
+Splat…
+$Sakimi
+“Ah…”
+$Pig Man 1
+“Ah… hah… ngh…”
+$Aida
+“…”
+$Pig Man 1
+“I'm so sorry!”
+$Aida
+“…So the first round is a win by default.”
+$Pig Man 1
+“Tch… I’m truly sorry!”
+Pig-man 1 slumped his shoulders in defeat.
+He pinched the tip of the bulging condom.
+Staring resentfully at the spurted semen.
+$Horse Man 2
+“…Move.”
+Pushing Pig-man 1 aside.
+Horse-man 2 stepped forward, breathing heavily.
+He was already fully prepared.
+His towering penis looked as if it could pierce the heavens.
+$Horse Man 2
+“Can I just put it in?!”
+$Aida
+“If you rush, you’ll end up self-destructing too.”
+$Horse Man 2
+“At this rate, the woman is going to look down on us!”
+$Sakimi
+“Tch, what a flashy guy.”
+$Aida
+“This guy is a 23-year-old former host. He got into a fight with his colleagues and was shunned, so he came to this world. He’s a newcomer who’s only been with us for three months.”
+$Horse Man 2
+“I’ll be an executive in a year, though!”
+$Aida
+“Both his personality and his cock are full of energy. The thickness is an average 3.5 centimeters, but it’s 14 centimeters long when erect.”
+$Sakimi
+“Oh, really.”
+$Horse Man 2
+“…Stop looking away and look at this!”
+$Sakimi
+“Tch, no thanks, it’s disgusting.”
+$Horse Man 2
+“It’s longer than your husband’s, right?”
+$Sakimi
+“I told you I'm not looking!”
+$Horse Man 2
+“…If you’re not going to look, I’ll take off the condom.”
+$Sakimi
+“Y-You bastard!”
+Losing to the impulsive threat.
+Sakimi took a quick glance at Horse-man 2’s crotch.
+$Horse Man 2
+“How is it?”
+$Sakimi
+“Tch, I just confirmed that the condom is on.”
+$Horse Man 2
+“It’s so long it made your heart race, didn't it?”
+$Sakimi
+“I told you I didn't look at anything besides the condom!”
+$Horse Man 2
+“When this reaches the back, women start screaming.”
+$Sakimi
+“Isn't that just because it hurts?”
+$Horse Man 2
+“Whether it hurts or not…”
+Squish…
+$Sakimi
+“Ugh…!”
+$Horse Man 2
+“…You can just judge for yourself with your own body.”
+$Sakimi
+“Tch, you talk a big game for a brat.”
+Squish… thrust…
+$Sakimi
+“Ugh…”
+$Horse Man 2
+“How old are you, lady?”
+$Sakimi
+“S-Shut up.”
+$Horse Man 2
+“I don't think our ages are that different.”
+$Sakimi
+“Aida!”
+$Aida
+“…Calling me by my name all of a sudden?”
+$Sakimi
+“Tch, the tip went in.”
+$Aida
+“Well, it is sex, after all.”
+$Sakimi
+“Tch, I kept my promise.”
+$Aida
+“…Yeah.”
+$Sakimi
+“T-Then you keep yours too!”
+$Aida
+“Of course I will.”
+$Sakimi
+“Tch, what happened to Yukina-chan?”
+$Aida
+“…She’s probably in the transport car by now, isn't she?”
+$Sakimi
+“A-Already?”
+$Aida
+“I knew you wouldn't betray me.”
+$Sakimi
+“Tch, is that the truth?!”
+$Aida
+“Why would I lie at a time like this?”
+$Sakimi
+“What about Yokoyama-san?”
+$Aida
+“She’s with her.”
+$Sakimi
+“Are they in the transport car together?!”
+$Aida
+“Sitting side-by-side in the back seat. I imagine the two of them are leaning on each other and sleeping right about now.”
+$Sakimi
+“I-I see… that’s a relief…”
+$Aida
+“I made sure to return their clothes and belongings too.”
+$Sakimi
+“Tch, that’s only natural!”
+$Aida
+“You’re the one who saved them.”
+$Sakimi
+“Tch, I just didn't have any other choice.”
+$Aida
+“Even so, it’s quite something.”
+$Sakimi
+“W-What about Sensei?!”
+$Aida
+“No need to worry about him either.”
+$Sakimi
+“Tch, did he get treated?!”
+$Aida
+“I’m sure it’s already finished.”
+$Sakimi
+“After being properly disinfected?!”
+$Aida
+“We have a dedicated medical team.”
+$Sakimi
+“Tch, the bleeding has stopped, right?!”
+$Aida
+“We wouldn't be able to suture it if it hadn't stopped, would we?”
+$Sakimi
+“G-Good.”
+Sakimi braced herself once more.
+She looked at Horse-man 2, who had been listening to the conversation.
+$Sakimi
+“Hurry up and put it all the way in.”
+$Horse Man 2
+“…”
+$Sakimi
+“What’s wrong?”
+$Horse Man 2
+“…You’ve got a real man’s spirit.”
+$Sakimi
+“Tch, as you can see, I’m a woman.”
+$Horse Man 2
+“You remind me of a senior I used to respect.”
+Thrust…
+$Sakimi
+“Ugh…!”
+$Horse Man 2
+“I quit being a host because of that senior. I thought it would be a bother to him if I stayed.”
+$Sakimi
+“S-So you have a bit of a man’s pride in you too, don't you?”
+$Horse Man 2
+“I made a clean break for the sake of my kid, too.”
+$Sakimi
+“Kid?”
+$Horse Man 2
+“…”
+$Sakimi
+“Do you have a child?!”
+$Horse Man 2
+“…A two-year-old daughter.”
+$Sakimi
+“I-Isn't she at the most adorable age?!”
+$Horse Man 2
+“That’s why I’m working hard.”
+$Sakimi
+“Y-You idiot!”
+$Horse Man 2
+“Ugh…”
+$Sakimi
+“Don't do this kind of work! Go home right now!”
+$Horse Man 2
+“I-I can't!”
+$Sakimi
+“Why not?!”
+$Horse Man 2
+“E-Even though it’s part-time, the reward is exceptional!”
+$Sakimi
+“What are you going to buy for your adorable daughter with the money you got for doing this?! New clothes?! Toys?! Food?!”
+$Horse Man 2
+“W-Well, all sorts of things…”
+$Sakimi
+“If I were your wife, I’d never let her wear them! I’d never let her eat it! I’d never let her play with the toys you bought!”
+$Horse Man 2
+“Tch, money is really tight, you know!”
+$Sakimi
+“What about your wife?!”
+$Horse Man 2
+“…She’s a former customer.”
+$Sakimi
+“Does she know about this?!”
+$Horse Man 2
+“There’s no way I could tell her!”
+$Sakimi
+“Y-You really are an idiot. I don't know how much you get for this part-time job, but I’ll give this guy all the money I have!”
+$Sakimi
+“Take that and go home right now! Look at your daughter’s sleeping face and think about your life as a half-degenerate one more time!”
+$Horse Man 2
+“Ah…”
+His cock went limp.
+Overwhelmed by Sakimi’s intensity.
+His boastful length had shrunk to less than half.
+$Aida
+“…She’s right, you know.”
+$Horse Man 2
+“E-Executive.”
+$Aida
+“…You should just go home already.”
+$Horse Man 2
+“B-But…”
+$Aida
+“You’re too good of a person to continue this work.”
+$Horse Man 2
+“Ugh…”
+Horse-man 2’s eyes welled up with tears.
+He held his shrunken cock with both hands.
+And crouched down in the corner of the room.
+But he wasn't allowed to stay there for long.
+He was grabbed by the arms by the fat cooks on both sides.
+And just like that, Horse-man 2 was taken out of the room.
+$Aida
+“You’re amazing.”
+$Sakimi
+“Tch, don't lure young men with a future down the path of evil.”
+$Aida
+“It’s amazing how you can scold someone so genuinely, without thinking about your own safety.”
+$Sakimi
+“I was truly pissed off!”
+$Aida
+“It helps me weed them out, so I’m grateful.”
+<I expected nothing less...>
+Aida looked as if he had already taken such things into account.
+And pointed to the next opponent who was waiting.
+$Aida
+“But things are going to get a bit nastier from here on out.”
+$Pig Man 2
+“…Hmph.”
+That guy was short and a bit pudgy.
+His waistline was sagging lazily.
+He was clearly older than the guys so far.
+And more than anything, his gaze.
+It was vague because of the mask.
+But he was staring intensely at only one spot on Sakimi.
+$Sakimi
+“W-Where are you looking?”
+$Pig Man 2
+“…Do you want to know?”
+$Sakimi
+“Ugh…”
+His tone was insolent.
+There wasn't a hint of purity in him.
+The cynical atmosphere around him was incredibly annoying.
+$Pig Man 2
+“Owner Aida.”
+$Aida
+“What?”
+$Pig Man 2
+“No need for an introduction for me. I just need to put my cock in this woman and make her feel good.”
+Pig-man 2 said this.
+Without even waiting for Aida’s reply.
+He started putting a condom on his cock on his own.
+It seemed he was already erect.
+But the contraceptive was oddly loose.
+His cock was pathetic, the exact opposite of his insolent tone.
+Both in thickness and length.
+No matter how you looked at it, it was a size smaller than average.
+$Pig Man 2
+“…Tch.”
+The excess part of the condom got tangled in his pubic hair.
+Pig-man 2 let out a displeased click of his tongue.
+The irritation he felt as he rolled it back was pathetic.
+He was making the atmosphere around him worse all by himself.
+$Aida
+“…Lady, what do you think?”
+Aida whispered in a low voice.
+He was smirking as if he were having a great time.
+$Aida
+“…It doesn't look like much, does it?”
+$Sakimi
+“I-I told you, I don't know.”
+$Aida
+“You’re about to do it with that old man.”
+$Sakimi
+“Ugh…”
+$Aida
+“I’ll tell you a little secret, since I feel sorry for you.”
+$Sakimi
+“W-What?!”
+$Aida
+“His nickname is Pearl-san.”
+$Sakimi
+“Pearl… san…?”
+$Aida
+“Do you understand what that means?”
+$Sakimi
+“I-I don't know.”
+$Aida
+“They’re inside.”
+$Sakimi
+“Huh?”
+$Aida
+“Three big ones.”
+With that, Aida let out a vulgar laugh.
+And walked away from Sakimi as if nothing had happened.
+Pig-man 2 approached her in his place.
+He gripped his erect cock firmly.
+And without a word of greeting, he prepared to start the business in a businesslike manner.
+$Sakimi
+“…”
+Aida’s words were on her mind.
+Sakimi took a quick look at his manhood.
+Most of it was hidden in his hand.
+All she noticed was the rather reddish-black glans.
+$Pig Man 2
+“…Are you wet?”
+$Sakimi
+“Eh?”
+$Pig Man 2
+“I asked if you were wet.”
+$Sakimi
+“Tch, why don't you check for yourself?!”
+$Pig Man 2
+“I’m really dissatisfied that foreplay is forbidden.”
+Pig-man 2 reached under his mask.
+And spat several times.
+$Sakimi
+“U-Uwa…”
+Then he smeared it on his own cock.
+After that, he sniffed the finger that had the saliva on it.
+$Pig Man 2
+“…It smells because I’ve been drinking.”
+$Sakimi
+“Y-You filthy bastard!”
+$Pig Man 2
+“Is yours so pristine, then?”
+He grabbed her knees without reservation.
+And pulled Pig-man 2 wide apart.
+The pressed-together labia opened with a sticky sound.
+The breathing pink flesh peeked out just a little.
+$Sakimi
+“Ugh…!”
+$Pig Man 2
+“…I wanted to lick this part.”
+$Sakimi
+“Stop staring!”
+$Pig Man 2
+“More than the sex itself…”
+Squish…
+$Sakimi
+“Ugh… ah…!”
+$Pig Man 2
+“…I love caressing a woman’s body all over.”
+$Sakimi
+“T-Tch, I didn't ask for your preferences!”
+As she said that, she raised her head.
+Sakimi once again turned her gaze to Pig-man 2’s crotch.
+The reddish-black glans was pressed against her labia.
+From her perspective, it was hidden behind her pubic mound.
+All she could see was the shaft.
+The size was certainly not large.
+But through the gaps in the fingers gripping the cock.
+She could see several milky-white objects.
+Those objects were clearly artificial.
+They shimmered like pearls.
+“Pearl-san”
+Aida’s words flashed through her mind.
+$Sakimi
+“H-Hey!”
+$Pig Man 2
+“What?”
+$Sakimi
+“Tch, what have you got implanted in there?!”
+$Pig Man 2
+“…So you found them.”
+Pig-man 2, who hadn't heard Aida’s whisper.
+Must have been waiting for the right moment to show them off.
+He showed Sakimi a happy reaction for the first time.
+$Pig Man 2
+“Well, you could say it’s a youthful mistake.”
+$Sakimi
+“I-I heard no tools were allowed!”
+$Pig Man 2
+“It’s integrated, so it’s not a tool.”
+Squish…
+$Sakimi
+“W-Wait!”
+$Pig Man 2
+“I regret having them implanted, though.”
+Squish… squish…
+$Sakimi
+“Wait…!”
+$Pig Man 2
+“I should have at least stopped at one. With three in a row, women climax immediately, so it became boring for me.”
+Squish…
+$Sakimi
+“Ugh…”
+The tip of his cock parted her labia.
+And burrowed deep into her tightening vaginal opening.
+At the same time, the hand that had been gripping the cock let go.
+Finally, the true nature of Pearl-san was revealed.
+There were indeed three implanted objects.
+From what she could see, they were the same size and arranged at equal intervals vertically.
+Was the diameter just under 1 centimeter?
+Half of the sphere was exposed on the surface.
+The other half was buried inside the shaft.
+$Sakimi
+“Y-You pervert!”
+No matter how much they were separated by a contraceptive.
+There was no way Sakimi wouldn't find it disgusting.
+She was originally unfamiliar with this sort of thing.
+Her sense of rejection toward anything abnormal was more than average.
+$Sakimi
+“A guy who does this kind of thing is no good!”
+$Pig Man 2
+“You pierce your earlobes too, don't you?”
+$Sakimi
+“How is that the same?!”
+$Pig Man 2
+“In terms of adornment, it’s the same.”
+$Sakimi
+“Tch, it’s disgusting that you’re so obsessed with sex!”
+$Pig Man 2
+“…Well, I have to be able to please a woman.”
+Squish… squish…
+$Sakimi
+“Ugh… ngh…!”
+$Pig Man 2
+“…Otherwise, I couldn't call myself a real man.”
+Little by little, little by little.
+Pig-man 2’s penis entered her.
+No matter how much she put strength into her body.
+No matter how much she tightened her vaginal opening.
+He repeated small thrusts.
+And crossed the internal flesh folds millimeter by millimeter.
+$Sakimi
+“Ugh… ngh…!”
+Nausea and goosebumps.
+Having a stranger’s penis shoved into her.
+Sakimi let out a muffled groan.
+But at that point, it was still fine.
+Because those rugged pearls.
+Hadn't passed through yet.
+$Pig Man 2
+“That’s the first one.”
+Grind…
+$Sakimi
+“Hyuu…!”
+She couldn't help but let out a sound.
+A hard object passed through with a grind.
+Pushing up the most sensitive part from below.
+Grind… grind…
+Then the second pearl.
+And then the third pearl.
+In just a short time, she felt a series of peaks and valleys.
+Finally, all of his cock was inside Sakimi.
+$Sakimi
+“Tch…”
+Ma-kun and Sensei.
+A cock other than theirs.
+It had finally entered her.
+This is the end.
+I can never go back.
+But I still have things left to do.
+So they don't laugh at me.
+So I can show them instead.
+I need to protect myself.
+When the time comes to bow my head and apologize to Ma-kun.
+I want to use the fact that I didn't yield as my emotional support.
+Squish… squish… squish…
+$Sakimi
+“Ugh…”
+$Pig Man 2
+“Does it hurt?”
+This question.
+He probably says it to everyone.
+So there was no spirit in the words themselves.
+They felt incredibly perfunctory and businesslike.
+So Sakimi didn't answer either.
+She just gritted her teeth.
+And endured the disgusting stimulation.
+To keep from being led astray by that foreign object.
+She put in every bit of effort she had.
+That’s why Sakimi didn't close her eyes.
+Looking at the person she was having sex with.
+First, she withered her own feelings from the roots.
+A man who was neither Ma-kun nor Sensei.
+She couldn't see what was inside because of the mask.
+But that meant she could imagine it with malice.
+Is he about 50 years old?
+Definitely the type I’m not good with.
+His face must be un-cute, for sure.
+Not a hint of charm like Sensei.
+The kind of guy who gives you goosebumps just by being near him.
+$Pig Man 2
+“…What are you looking at?”
+As he rocked his hips back and forth.
+Pig-man 2 asked suspiciously.
+$Pig Man 2
+“Are you imagining what kind of man I am?”
+$Sakimi
+“N-Nothing in particular.”
+$Pig Man 2
+“I still have a long way to go, then.”
+Squish… squish… squish…
+$Sakimi
+“Ah… ngh…!”
+$Pig Man 2
+“To give a woman that kind of leeway.”
+Pig-man 2 changed his angle slightly.
+And started moving his hips while leaning his body over her.
+By doing so, the shaft was pressed against the upper part of her vaginal opening.
+And the friction from the pearls became even stronger.
+$Sakimi
+“Ugh… ah… ngh…!”
+Rugged irregularities.
+Three times when it was put in.
+And three times when it was pulled out.
+In other words, a total of six times in just one back-and-forth motion.
+That was given as a constant stimulation.
+If she let her guard down for even a second, her lower abdomen felt like it was going to go numb.
+She especially hated it when it was pulled out.
+The feeling of falling forward while on a swing.
+The kind that makes your thighs turn inward without thinking.
+It was very similar to that creepy sensation.
+$Sakimi
+(Ma-Ma-kun…)
+But I won't fall.
+I won't feel good.
+I’ll hold down the rising meter with my reason.
+And pluck the buds of pleasure like a game of whack-a-mole.
+$Pig Man 2
+“…You’re a patient woman.”
+Pig-man 2’s breathing became heavy.
+He gripped Sakimi’s waist firmly with both hands.
+And this time, he thrust his hips up as if to pierce her from below.
+Fortunately, the tip of his cock didn't reach the back.
+And the stimulation to her clitoris was also eased a bit.
+$Sakimi
+(H-Hurry up and ejaculate…!)
+Sakimi went for the win.
+Now was her chance.
+Sakimi tightened her lower abdomen.
+And squeezed both legs together so that strength wouldn't escape.
+She hated having her thighs in close contact with the man.
+But she couldn't afford to be picky right now.
+$Pig Man 2
+“Ngh…!”
+The vaginal opening had become a size narrower.
+The pressure on the back of the glans also became stronger.
+Unable to bear it, Pig-man 2 raised his chin.
+$Pig Man 2
+“Y-Your husband is a lucky man.”
+Squish… squish… slither…
+$Pig Man 2
+“Tch, to be able to enjoy a pussy like this night after night.”
+$Sakimi
+“We don't do it night after night.”
+She wasn't lying.
+Because they were in a sexless marriage.
+And the first act in months was with a stranger.
+That misery was also a bit sad.
+Squish… squelch… squish… squish…
+$Pig Man 2
+“I-I’d want to be a customer too if I had the money.”
+Squish… squish… squish… squish… squish…
+$Pig Man 2
+“To be a customer who favors you…!”
+That was practically a declaration of defeat.
+Immediately after, Pig-man 2’s voice trembled.
+And his lower body began to heave and wave.
+$Pig Man 2
+“Damn it… damn it…!”
+Was it regret over losing?
+Or was it so pleasurable that he felt like saying that?
+He was twisting his body as if in agony.
+Pig-man 2 let his cloudy fluid spurt into the contraceptive.
+Thump!
+$Pig Man 2
+“Kuhah…!”
+$Sakimi
+“Tch…”
+Splurt, splurt, splurt, splurt, splurt!
+$Pig Man 2
+“Kuhah…! It’s the best… haah… haah…”
+Unable to resist the pleasure, Pig-man 2.
+Pulled his pulsing cock out with a wet sound.
+And just like that, he sat back on his heels while staggering.
+But the loser wasn't given any afterglow.
+His arms were immediately grabbed.
+And he disappeared outside the room as if he were being carried like luggage.
+$Aida
+“…Even Pearl-san was no good, huh.”
+$Sakimi
+“H-Hey…”
+$Aida
+“It’s another win for the lady.”
+$Sakimi
+“I-It’s disgusting.”
+$Aida
+“Huh?”
+$Sakimi
+“Something dripped.”
+$Aida
+“…What do you mean, something?”
+$Sakimi
+“I-It didn't break, did it?”
+Sakimi couldn't raise her body.
+She just lifted her head slightly.
+Trying to peek at her own crotch.
+$Aida
+“…It should be fine.”
+Aida took a quick look at Sakimi’s pussy.
+And muttered in a low voice.
+He didn't seem particularly interested.
+He gave off an 'I don't care' vibe.
+$Sakimi
+“Tch, are you sure?!”
+$Aida
+“It’s just you that’s wet.”
+$Sakimi
+“Don't say such scandalous things!”
+$Aida
+“…Should I scoop up the dripping fluid with my finger for you?”
+$Sakimi
+“Ugh…”
+$Aida
+“If you smell it, you’ll know it’s not semen.”
+$Sakimi
+“Y-You don't have to.”
+$Aida
+“Don't be modest.”
+$Sakimi
+“I told you, you don't have to!”
+$Aida
+“You can't forgive yourself for being so wet that it’s dripping?”
+$Sakimi
+“Tch, nothing like that.”
+$Aida
+“You must think of yourself as some kind of saint.”
+$Sakimi
+“S-Shut up.”
+$Aida
+“It only ended like this because Pearl-san was a premature ejaculator. You’d better think about it with that much humility, so you don't end up hating yourself later.”
+$Sakimi
+“W-What about those two?!”
+$Aida
+“Huh?”
+$Sakimi
+“They should be at the station by now, shouldn't they?!”
+$Aida
+“…You changed the subject because things got awkward.”
+$Sakimi
+“I-I was just truly curious.”
+$Aida
+“…They’re probably waiting for a train at the station right about now, aren't they?”
+$Sakimi
+“Tch, the timetable says there’s only one every hour.”
+$Aida
+“Or maybe they were able to get on one at just the right time.”
+$Sakimi
+“M-Make sure you send them so they don't have to wait!”
+$Aida
+“They seem like a close pair, so I’m sure they’ll enjoy the waiting time, too.”
+$Sakimi
+“…”
+$Sakimi
+“…Something is definitely weird.”
+$Aida
+“What is?”
+$Sakimi
+“Why do you think it would be enjoyable?”
+$Aida
+“Well, they’re fellow survivors, after all.”
+$Sakimi
+“Even though everyone isn't together?!”
+$Aida
+“It’s better than everyone being caught, isn't it?”
+$Sakimi
+“But I don't think they’d be smiling.”
+$Aida
+“…Like I said, that’s just my own imagination.”
+$Sakimi
+“…Then what about Sensei?!”
+$Aida
+“His wound has been treated, and he’s probably sleeping in his room, isn't he?”
+$Sakimi
+“I want to confirm his safety with my own eyes.”
+$Aida
+“I’ll bring him here if it’s okay for him to see you in the middle of a match.”
+$Sakimi
+“O-Of course that’s not okay!”
+$Aida
+“Then it’ll have to wait until later.”
+Aida turned around.
+Horse-man 1, who had been waiting, responded.
+$Aida
+“The break is over.”
+$Sakimi
+“W-Wait, we’re not finished talking!”
+$Aida
+“Is it bad if you don't cool down more?”
+$Sakimi
+“…What are you talking about?”
+$Aida
+“You felt it quite a bit, didn't you? With Pearl-san as your opponent.”
+$Sakimi
+“Tch, don't just decide things on your own, you idiot!”
+$Aida
+“Well, I wonder what’ll happen now.”
+Aida turned around again.
+And gave a meaningful smirk.
+$Aida
+“…The next guy is a different size.”
+$Horse Man 1
+“…Hey.”
+$Sakimi
+“Ah…”
+It was him.
+Back when she was pouring...
+He's the guy who kept talking about dicks.
+$Sakimi
+“U-Uwa…”
+What is that?
+The thing hanging from Horse-man 1’s crotch.
+It was about the same size as Ma-kun’s when he was erect.
+However, in this guy’s case, it was still in a limp state.
+It was swinging back and forth, as if showing off how soft it was.
+$Sakimi
+“Wait…!”
+It expands from this state?
+That’s just too absurd.
+I mean, it’s impossible.
+No matter how much she tried to act calm.
+Sakimi’s cheeks twitched on their own.
+$Horse Man 1
+“…Hey, hey.”
+As if seeing through her fear.
+Horse-man 1 gripped his swinging cock firmly.
+And started stroking it as if he were masturbating.
+$Sakimi
+“H-Hey…”
+Right.
+The match had already begun.
+This guy was showing off the process of it expanding.
+He intended to overwhelm her before he even inserted it.
+She had indeed fallen into his trap.
+And was staring at the way he was stroking it.
+$Aida
+“…It’s good to be young.”
+$Sakimi
+“H-How old is he?!”
+$Aida
+“The diameter is 4.5 centimeters, and the length is about 18 centimeters, I’d say?”
+$Sakimi
+“Tch, I asked for his age!”
+But there was no lie in those dimensions.
+The expanded cock was surprisingly robust.
+It stood as erect as a piece of steel.
+Veins stood out as if to boast of its hardness.
+The shaft formed a gentle arc like a banana.
+And the glans, which was bulging, was as glossy as a mirror.
+$Sakimi
+(T-This is impossible…)
+A violent phallus.
+A cock for which such words were perfect.
+Horse-man 1’s stroking speed increased more and more.
+And pre-ejaculatory fluid flew from the urethral opening.
+The cold droplets reached Sakimi’s inner thighs.
+And that alone made her tighten her vaginal opening.
+$Sakimi
+“W-Why don't you just let it out like that?!”
+This was the peak of her bravado.
+Unable to even hurl a decent insult at the extraordinary size.
+She couldn't take her eyes off the cock in front of her.
+In contrast, Horse-man 1 was completely relaxed.
+Having finally reached a satisfactory hardness.
+He was skillfully putting a pale pink contraceptive on with one hand.
+$Sakimi
+“Y-You’re not really going to put that in, are you?!”
+What she was saying was strange.
+Sakimi knew that too.
+But she couldn't help saying it.
+And it made Aida, who was watching from the side, laugh.
+$Horse Man 1
+“…I’m putting it in.”
+$Sakimi
+“N-No.”
+$Horse Man 1
+“Where a man’s worth lies…”
+Squish…
+$Sakimi
+“No, no… wait…!”
+$Horse Man 2
+“I’m going to teach you right now.”
+$Sakimi
+“I-I’ll pass!”
+Squish…
+$Sakimi
+“Uwa…!”
+The glans was pressed against her crotch.
+That alone was enough to make her shudder.
+It didn't feel like a rod-shaped object.
+It felt as if a flat surface was being pressed against her vaginal opening.
+$Sakimi
+“Tch, this is a foul!”
+$Horse Man 1
+“…It’s not a foul.”
+$Sakimi
+“I-It’s too big, there’s no way it’ll fit!”
+$Horse Man 1
+“…It’ll fit.”
+A futile, parroting back-and-forth.
+Even while doing so, Horse-man 1 didn't stop.
+He continued to tease her slit with the pressed glans.
+Slowly up and down, slowly left and right.
+Parting the labia that were trying to close.
+While skillfully mixing his pre-ejaculatory fluid with Sakimi’s juices.
+He was calmly trying to open a breakthrough for his violation.
+$Sakimi
+“Tch…”
+He had a strange sense of skill despite being young.
+There was almost no feeling of him being overeager.
+He even had a sort of philosophical air about him.
+If I leave him be like this, it’ll be bad.
+Sakimi thought this, not out of logic.
+She wondered if there was anything she could do.
+And turned her spearhead toward Aida, who had the final word.
+$Sakimi
+“Aida!”
+$Aida
+“…Are you waving the white flag without a fight?”
+$Sakimi
+“T-This is foreplay, isn't it?!”
+$Aida
+“Huh?”
+$Sakimi
+“Tch, you’re just squishing it around with your cock!”
+$Aida
+“It’s preparation for putting it in, so it can't be helped.”
+$Sakimi
+“It’s making my clitoris feel disgusting!”
+$Aida
+“…If it feels disgusting, then it’s not foreplay.”
+$Sakimi
+“Ah…”
+<Crap!>
+It was already too late when she had that thought.
+$Aida
+“So, request denied.”
+$Sakimi
+“W-Wait a sec…”
+$Aida
+“You can continue.”
+$Horse Man 1
+“…Hey.”
+Squish…
+$Sakimi
+“Hin…!”
+Oh no.
+It went in a little.
+Horse-man 1, having found the opportunity for insertion.
+Naturally changed his behavior.
+He increased the pressure in the direction of insertion.
+The force being applied moved toward Sakimi’s inside.
+At the same time, he pulled both of her thighs up.
+Pushing her legs wide apart like a frog about to be dissected.
+Insertion would be impossible without a certain amount of force.
+He leaned his upper body over her like a protruding rock.
+And put his weight onto the wedge he was trying to drive in.
+Squish…
+$Sakimi
+“I-I’m telling you, it hurts!”
+Her crotch was going to split.
+Sakimi truly thought so.
+The sharp pain of her slit being stretched wide.
+In addition to that, a strong sense of pressure moving toward her inside.
+Sakimi’s vaginal opening was already jam-packed.
+There wasn't even enough space for a single hair to fit.
+As expected, it was impossible to penetrate all at once.
+Horse-man 1 pulled his hips back slightly.
+Not because he had given up, of course.
+But as preparation for another cold-blooded thrust.
+Squish…
+$Sakimi
+“I-I told you, it won't fit!”
+Squish, squish…
+$Sakimi
+“Tch, I can't breathe!”
+It was really true.
+The way the force was being applied was irregular.
+She couldn't get the timing of her breathing right.
+Squish, squish…
+$Sakimi
+“H-Hey, enough with…”
+Squish, squish, squish…
+$Sakimi
+“Tch, stop it already!”
+Squish, squish, squish, squish…
+$Sakimi
+“It’s absolutely impossible!”
+It wouldn't stretch any further.
+It wouldn't stretch, and it wouldn't go in.
+The next moment after Sakimi thought that…
+Slither.
+$Sakimi
+“!?”
+$Horse Man 1
+“…Hey.”
+It went in.
+Just like that, slither.
+That bulging glans part.
+Just popped right inside me.
+There must have been some elasticity, of course.
+But even before that, the core part was so large.
+That’s why I was convinced it was impossible.
+And yet, and yet…
+$Sakimi
+“N-No way…”
+The pain suddenly faded.
+And the vaginal opening that had been stretched to its limit snapped shut.
+It fit perfectly into the indentation of the glans.
+I hate myself so much for the way I’m keeping it from coming out.
+$Sakimi
+“Ugh… ah…”
+From then on, he could do whatever he wanted with her.
+Like a castle with its gates wide open.
+He walked into her property with his muddy boots on.
+The tip was like a drill on an excavator.
+Indifferently pushing open the closed flesh walls.
+Advancing toward the back without asking anyone.
+$Sakimi
+“W-Wait…!”
+The sense of pressure was megaton-class.
+It was not only thick but also long.
+Leading her into an unknown world.
+Sensei’s had reached the back before.
+But this cock was trying to go even further.
+Squish…
+$Sakimi
+“Ugh…”
+The urethral opening of the glans kissed the cervix.
+The disgust she felt when she realized that was tremendous.
+But the existence of the condom was her only saving grace.
+If it hadn't been there, she would have kicked Horse-man 1.
+$Sakimi
+“Tch…”
+No.
+Maybe it would have been impossible.
+Her body, being skewered, was surprisingly fragile.
+She couldn't build up enough strength in her legs to kick.
+Squish… squish…
+$Sakimi
+“Ngh…”
+Now that it was in, he wasn't about to stay still.
+Of course, Horse-man 1 started rocking his hips.
+But he couldn't create a smooth friction.
+Because the size of the cock was so tight.
+There wasn't even a gap for air to enter or exit.
+So Horse-man 1 made his strokes longer.
+Pulling it out until it passed the bulge of the glans.
+Squelch…
+That was the first time it circulated with the outside air.
+Again, the pressure of the cock became stronger.
+Burying it deep inside me with a squelch.
+Reaching the deepest part in about three seconds.
+Still, it wasn't buried to the root.
+Their lower abdomens didn't touch.
+I could tell there was still some cock left over.
+Horse-man 1 seemed to be showing Sakimi some consideration.
+He didn't thrust so hard that the shaft would bend.
+Still, the sound was becoming increasingly lewd.
+I feel so miserable that I’m getting used to it.
+So she consciously raised her voice.
+And hurled as much abuse as she could think of at Horse-man 1.
+$Sakimi
+“I-Is your cock only good for hurting me?!”
+Squish… squish… squish…
+$Sakimi
+“It’s just big and meaningless!”
+Squish… squish… squish… squish…
+$Sakimi
+“A-After all, a man is all about his heart, isn't he?!”
+Squelch… squish… squish… squish… squish…
+$Sakimi
+“Tch, if you’re going to act all proud over just this much, it’s laughable!”
+$Horse Man 1
+“…”
+Squish, squish, squish…
+Horse-man 1 became a bit defiant.
+He leaned his body back from its forward position.
+And slightly increased the speed of his hip movements.
+Her plump breasts bounced as if they were waving.
+Exclamations of admiration escaped from those around her at the sight of that movement.
+Especially Aida.
+As a genuine lover of large breasts.
+He was staring intently at the way they were shaking.
+$Sakimi
+“Tch…”
+Of course, Sakimi didn't care.
+She was in no position to care right now.
+Anyway, it was important for her not to feel any weird feelings.
+Everything else had become unimportant.
+In other words, it was just that dangerous.
+It was a size that was more than enough for her.
+It wasn't a cock she could simply call 'good'.
+But the feeling of being rubbed was no joke.
+If she relaxed, she felt like she’d go off in a strange direction immediately.
+With every rub, the throbbing sensation increased.
+In contrast, the pain only continued to decrease.
+The bulging of the glans was especially incredible.
+Every time it passed through, she would definitely put strength into her lower abdomen.
+$Sakimi
+(Se-Sensei…)
+I’ll do my best.
+I’m having sex, but…
+I’ll keep my chastity in a different sense.
+It’s goodbye to Ma-kun.
+No matter how I think about it, being a married couple is impossible.
+But what will happen with Sensei?
+After all, to settle things.
+Will I have to say bye-bye to him too?
+$Sakimi
+“Ugh…”
+I started feeling a bit sad.
+That I won't be able to see that dazed expression anymore.
+I’d never even thought of such a thing before.
+I wanted to go there just one more time.
+To the cat cafe with Sensei.
+And I wanted to go to the park of our memories.
+And eat takoyaki together.
+Will I get used to it as time passes?
+A life without Ma-kun or Sensei.
+Eating my meals alone.
+A life of sleeping and waking up alone.
+$Horse Man 1
+“Ugh…”
+$Sakimi
+“…Eh?”
+Horse-man 1 let out a low groan.
+His chin went up, just like with Pearl-san.
+His movement changed to a thrust from below.
+$Horse Man 1
+“Ugh… ah…!”
+$Sakimi
+“J-Just let it out!”
+The words escaped her mouth without her thinking.
+She couldn't see his face because he was wearing a mask.
+But she could clearly see him holding back the spurt.
+$Horse Man 1
+“…A woman like this is no good!”
+I don't know in what sense he meant it.
+Anyway, Horse-man 1 was in despair over her.
+He was hurt even more because he had been so confident.
+Still, he hadn't given up on a glimmer of hope.
+While enduring the sign of ejaculation.
+He desperately continued to swing his hips, aiming for a turnaround victory.
+$Horse Man 1
+“…Now, finish!”
+$Sakimi
+“Tch, no.”
+$Horse Man 1
+“…Go, go!”
+$Sakimi
+“W-Who would ever feel anything from your cock?!”
+$Horse Man 1
+“…I have a huge cock!”
+$Sakimi
+“A-As far as I’m concerned, it just hurts.”
+$Horse Man 1
+“…I’ve made women feel so good until now!”
+$Sakimi
+“Tch, they were probably just acting, weren't they?!”
+$Horse Man 1
+“A-Acting?!”
+Horse-man 1 had a low, cool voice.
+Having the only thing he could rely on completely overturned.
+He was sounding pathetically shrill.
+$Horse Man 1
+“Uooooooh!”
+$Sakimi
+“Tch, both love and sex are all about the heart!”
+$Horse Man 1
+“I-It’s about the size of the cock!”
+$Sakimi
+“You pitiful fellow.”
+$Horse Man 1
+“I-I’m not pitiful!”
+$Sakimi
+“You’re pitiful because you only have your cock!”
+$Horse Man 1
+“I-I only have my cock?!”
+$Sakimi
+“If you have a heart, a woman can climax with just a pinky finger!”
+$Horse Man 1
+“T-That’s a lie!”
+$Sakimi
+“Tch, if you don't make a woman fall for you, what’s so 'huge' about it?!”
+$Horse Man 1
+“Uoooh… uoh, uoh… oooh!”
+Sakimi’s words pierced his heart.
+At the same time, the reason to hold back his ejaculation was lost.
+Now that he knew he had lost.
+His only salvation left was pleasure.
+$Horse Man 1
+“I’m coming, I’m coming, it’s coming!”
+$Sakimi
+“I-In your case, especially…”
+Wham!
+$Horse Man 1
+“Gyah!”
+$Sakimi
+“Tch, it’s scary because I feel like I’m going to be torn apart!”
+A single kick.
+Matching the timing the moment he leaned back.
+Sakimi kicked his chest with all her might.
+Horse-man 1 took it full-on.
+His cock slipped out of her vagina with a slither.
+And he fell backward along with a miserable ejaculation.
+Splurt!
+$Horse Man 1
+“Ahahn… how could this…!”
+Splurt, splurt, splurt, splurt, splurt!
+$Horse Man 1
+“How could… how could…”
+The tip of the condom.
+It was jam-packed with cloudy semen.
+And it was bulging like a balloon.
+Horse-man 1 hadn't fulfilled a single one of his goals.
+He could only let his inadequate cock go limp.
+$Sakimi
+“Haah… haah…”
+$Aida
+“…Are you part of some religion?”
+$Sakimi
+“I-I am not!”
+$Aida
+“Then what is it that’s supporting you?”
+$Sakimi
+“I-I don't know!”
+$Aida
+“Not letting out even a single moan, that’s no ordinary mental strength.”
+$Sakimi
+“Tch, didn't I tell you sex is all about the heart?!”
+$Aida
+“Then make sure you stick to that policy to the very end.”
+$Sakimi
+“…Huh?”
+$Aida
+“Keep that policy with your next opponent too.”
+$Sakimi
+“…”
+$Cook 1
+“Sorry to keep you waiting!”

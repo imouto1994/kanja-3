@@ -1,0 +1,869 @@
+--------------------
+stage59a
+********************
+$Hikomaro
+“We've arrived safely.”
+$Tomoko
+“...An amusement park?”
+$Hikomaro
+“It's a leisure park, so there's a zoo here as well.”
+$Tomoko
+“Oh, I see!”
+$Hikomaro
+“Well then, shall we?”
+$Tomoko
+“My heart is racing!”
+$Hikomaro
+“It seems the admission fee covers everything.”
+$Tomoko
+“I haven't been since my elementary school field trip. I want to see the pandas and giraffes, so, so much!”
+$Female Receptionist
+“Welcome.”
+$Hikomaro
+“Two adults, please.”
+$Tomoko
+“Old Man.”
+$Hikomaro
+“Yes?”
+$Tomoko
+“One is fine.”
+$Hikomaro
+“It has to be two.”
+$Tomoko
+“I'm telling you, it's a waste of money. Nobody can see me except you.”
+$Hikomaro
+“A ticket is a memento, too.”
+$Tomoko
+“...Eh?”
+$Hikomaro
+“Welcome to Leisure Land.”
+$Tomoko
+“... .”
+Maro tore the ticket he received.
+He handed only the remaining stub to her.
+Tomoko-chan blinked her eyes in surprise.
+She stared intently at the ticket in her hand.
+$Tomoko
+“I-Is it really okay?”
+$Hikomaro
+“Let's enjoy ourselves today.”
+$Tomoko
+“U-Uh-huh!”
+She must have been incredibly happy.
+To hide her shyness, she circled behind Maro.
+Then, she hopped up and clung to his arm.
+It felt like being grabbed, yet not.
+A mysterious, squishy sensation.
+$Hikomaro
+“Ho-ho.”
+$Tomoko
+“Is it okay if I get really excited?”
+$Hikomaro
+“Of course it is.”
+It's a date today.
+Even if anything below a D-cup is outside his usual range.
+This kind of thing is nice once in a while.
+If the two of them can return to their childhood hearts together.
+Her lingering regrets will be beautifully purified.
+I'm sure she'll be able to fulfill her purpose...
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“...Huh?”
+$Sakimi
+“... .”
+$Sakimi
+“Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“I made a bento for you today!”
+$Sakimi
+“... .”
+$Sakimi
+“The window is locked... are you out somewhere?”
+$Tomoko
+“That was so much fun!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“The giraffes' necks were so long!”
+$Hikomaro
+“They were indeed.”
+$Tomoko
+“The horses' dicks were so big!”
+$Hikomaro
+“You were staring at nothing but those, Tomoko-chan.”
+$Tomoko
+“Time went by in a flash.”
+$Hikomaro
+“That's how it goes when you're having fun.”
+$Tomoko
+“The amusement park looked interesting, too.”
+$Hikomaro
+“There's an amusement park and a pool here as well.”
+--------------------
+stage59aa
+********************
+$Hikomaro
+“We've arrived safely today as well.”
+$Tomoko
+“We got here in no time!”
+$Hikomaro
+“Now, let's head to the zoo.”
+$Tomoko
+“I haven't been since my elementary school field trip. I want to see the pandas and giraffes, so, so much!”
+$Hikomaro
+“We have plenty of time.”
+$Tomoko
+“Yeah!”
+He purchased two tickets again today.
+Maro tore them just like yesterday.
+He handed only the stub to her.
+$Tomoko
+“Now I have two!”
+Her eyes looked as if she were staring at a treasure.
+Her pupils sparkled like a child's.
+Maro couldn't help but break into a smile as he handed it over.
+$Hikomaro
+“Let's have some fun today, too.”
+$Tomoko
+“Not just me, you too, Old Man!”
+$Hikomaro
+“Right you are.”
+She seemed happy that he agreed.
+She held out her arm.
+Innocently appealing for them to hold hands.
+Of course, Maro gladly obliged.
+He gently squeezed her adorable palm.
+$Hikomaro
+“Hoh...”
+As expected, he couldn't tell if he was really holding it or not.
+A mysterious, squishy sensation.
+It seemed to be the same for her.
+She repeatedly squeezed back to confirm the feeling.
+$Tomoko
+“Will you get in trouble?”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“For holding hands.”
+$Hikomaro
+“I'm not married, and there's no one in particular to scold me.”
+$Tomoko
+“No girlfriend either?”
+$Hikomaro
+“Not at the moment.”
+$Tomoko
+“Then it's fine!”
+She hopped and bounced around.
+Occasionally her flat chest would brush against his arm.
+That lack of cleavage was almost endearing to Maro.
+The weather was clear.
+They had plenty of time since they woke up early.
+With a cheerful girl holding his hand by his side.
+If they didn't play to their heart's content, it would be a sin.
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“...Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“...He's not here at noon, either.”
+$Sakimi
+“... .”
+$Sakimi
+“...I emailed him but he didn't reply.”
+$Sakimi
+“...Haa.”
+$Sakimi
+“...I'm starting to get seriously worried.”
+$Tomoko
+“The zoo was so fun!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“The giraffes' necks were so long.”
+$Hikomaro
+“They were indeed.”
+$Tomoko
+“The horses' dicks were so big!”
+$Hikomaro
+“You were staring at nothing but those, Tomoko-chan.”
+$Tomoko
+“But I think Monkey Mountain was the best.”
+$Hikomaro
+“That rugged boss monkey was really running the show.”
+$Tomoko
+“His name was Monta, right?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“He kept staring right at you, Old Man.”
+$Hikomaro
+“He probably thought I was the next boss.”
+$Tomoko
+“Ahahahaha!”
+$Hikomaro
+“Those were the eyes of a rival.”
+$Tomoko
+“So many interesting things happened today, too.”
+$Hikomaro
+“At this rate, shall we head out tomorrow as well?”
+--------------------
+stage59aaa
+********************
+$Hikomaro
+“We're here.”
+$Tomoko
+“Three days in a row!”
+$Hikomaro
+“Ho-ho.”
+$Tomoko
+“The talk we had on the train was especially fun today.”
+$Hikomaro
+“You didn't get tired?”
+$Tomoko
+“I'm getting used to it, so I'm fine.”
+$Hikomaro
+“We certainly talked a lot.”
+$Tomoko
+“Your favorite color is white.”
+$Hikomaro
+“And Tomoko-chan's was pink.”
+$Tomoko
+“Your favorite food is bento.”
+$Hikomaro
+“And Tomoko-chan's is yakisoba and takoyaki.”
+$Tomoko
+“I only got to eat them once, on my birthday.”
+$Hikomaro
+“...So you said.”
+Maro smiled gently.
+He handed the ticket stub to Tomoko-chan.
+$Hikomaro
+“May today's trip to the zoo be another good memory.”
+$Tomoko
+“Thank you!”
+The third stub.
+She stared at it with sparkling eyes.
+She carefully tucked it into her pocket.
+$Hikomaro
+“Well then, shall we?”
+$Tomoko
+“I haven't been since my elementary school field trip. I want to see the pandas and giraffes, so, so much!”
+$Hikomaro
+“It's fine to look until you're satisfied.”
+$Tomoko
+“Yeah!”
+Maro held out his hand.
+Seeing it, she smiled brightly.
+She grabbed it tight, almost lunging at him.
+$Tomoko
+“Can you really feel it?”
+$Hikomaro
+“In a way.”
+$Tomoko
+“...Even after tuning my wavelength, is this all it is?”
+She squeezed his palm several times.
+She seemed to be in a process of trial and error for how to hold it.
+Finally, she interlaced her fingers with his.
+She tilted her head and looked up at Maro.
+$Tomoko
+“How's this?”
+$Hikomaro
+“This might be the best yet.”
+$Tomoko
+“Then we're sticking with this grip.”
+Saying so, she skipped lightly ahead.
+She took the lead while looking back at him.
+Their joined arms stretched gently.
+It felt like being pulled, yet not.
+As always, that mysterious sensation.
+But while watching her joyful expression.
+Maro naturally broke into a light jog.
+$Hikomaro
+“W-Wait a moment.”
+$Tomoko
+“Hurry, hurry!”
+$Hikomaro
+“There's no need to rush so much.”
+And after Maro and his companion had left...
+$Sakimi
+“... .”
+$Sakimi
+“...Are you serious?”
+$Sakimi
+“... .”
+$Sakimi
+“...Calm down, Sakimi.”
+$Sakimi
+“... .”
+$Sakimi
+“First off, this isn't a dream.”
+$Sakimi
+“I didn't misinterpret what I just saw, either.”
+$Sakimi
+“If so, what was that one-man play all about?”
+$Sakimi
+“... .”
+$Sakimi
+“...I don't get it.”
+$Sakimi
+“... .”
+$Sakimi
+“I've completely lost my timing to call out to him.”
+$Sakimi
+“... .”
+$Sakimi
+“I'll follow him a bit longer... haa.”
+...And several hours later...
+$Tomoko
+“I saw so many things!”
+$Hikomaro
+“We certainly did.”
+$Tomoko
+“The giraffes' necks were so long.”
+$Hikomaro
+“They were indeed.”
+$Tomoko
+“The horses' dicks were so big!”
+$Hikomaro
+“You were staring at nothing but those, Tomoko-chan.”
+$Tomoko
+“But I think Monkey Mountain was the best.”
+$Hikomaro
+“That rugged boss monkey was really running the show.”
+$Tomoko
+“His name was Monta, right?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“He kept staring right at you, Old Man.”
+$Hikomaro
+“He probably thought I was the next boss.”
+$Tomoko
+“Ahahahaha!”
+$Hikomaro
+“Those were the eyes of a rival.”
+$Tomoko
+“So many interesting things happened today, too.”
+$Hikomaro
+“What shall we do starting tomorrow? If there's somewhere you want to go, I'll accompany you as much as you like.”
+--------------------
+stage59b
+********************
+$Hikomaro
+“We've arrived safely.”
+$Tomoko
+“...An amusement park?”
+$Hikomaro
+“It's a leisure park, so there's a pool here as well.”
+$Tomoko
+“Oh, I see!”
+$Hikomaro
+“Well then, shall we?”
+$Tomoko
+“My heart is racing!”
+$Hikomaro
+“It seems the admission to the pool covers everything.”
+$Tomoko
+“I only know the school pool. There are no scary teachers watching us, so I'm sure we can swim freely!”
+$Female Receptionist
+“Welcome.”
+$Hikomaro
+“Two adults, please.”
+$Tomoko
+“Old Man.”
+$Hikomaro
+“Yes?”
+$Tomoko
+“One is fine.”
+$Hikomaro
+“It has to be two.”
+$Tomoko
+“I'm telling you, it's a waste of money. Nobody can see me except you.”
+$Hikomaro
+“A ticket is a memento, too.”
+$Tomoko
+“...Eh?”
+$Hikomaro
+“Welcome to Leisure Land.”
+$Tomoko
+“... .”
+Maro tore the ticket he received.
+He handed only the remaining stub to her.
+Tomoko-chan blinked her eyes in surprise.
+She stared intently at the ticket in her hand.
+$Tomoko
+“I-Is it really okay?”
+$Hikomaro
+“Let's enjoy ourselves today.”
+$Tomoko
+“U-Uh-huh!”
+She must have been incredibly happy.
+To hide her shyness, she circled behind Maro.
+Then, she hopped up and clung to his arm.
+It felt like being grabbed, yet not.
+A mysterious, squishy sensation.
+$Hikomaro
+“Ho-ho.”
+$Tomoko
+“Is it okay if I get really excited?”
+$Hikomaro
+“Of course it is.”
+It's a date today.
+Even if anything below a D-cup is outside his usual range.
+This kind of thing is nice once in a while.
+If the two of them can return to their childhood hearts together.
+Her lingering regrets will be beautifully purified.
+I'm sure she'll be able to fulfill her purpose...
+$Tomoko
+“Tada!”
+$Hikomaro
+“... .”
+$Tomoko
+“There are so many people already!”
+$Hikomaro
+“Indeed.”
+$Tomoko
+“Is it okay if I go ahead and swim?”
+$Hikomaro
+“Have a nice time.”
+$Tomoko
+“Come join me later, Old Man!”
+$Hikomaro
+“... .”
+$Hikomaro
+“...An adhesive bandage?”
+$Tomoko
+“Waa! It's so cold!”
+$Hikomaro
+“... .”
+$Hikomaro
+“She doesn't seem to mind, and she looks like she's having a great time, so I suppose there's no problem.”
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“...Huh?”
+$Sakimi
+“... .”
+$Sakimi
+“Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“I made a bento for you today!”
+$Sakimi
+“... .”
+$Sakimi
+“The window is locked... are you out somewhere?”
+$Tomoko
+“That was so much fun!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“The water slide was so interesting.”
+$Hikomaro
+“There were many courses, after all.”
+$Tomoko
+“I've never been to such a lively pool. Everyone looks so fun and happy... this is nice.”
+$Hikomaro
+“It's become a good memory.”
+$Tomoko
+“But time went by way too fast!”
+$Hikomaro
+“That's how it goes when you're having fun.”
+$Tomoko
+“The amusement park looked interesting, too.”
+$Hikomaro
+“There's not just an amusement park, there's a zoo as well.”
+--------------------
+stage59bb
+********************
+$Hikomaro
+“We've arrived safely today as well.”
+$Tomoko
+“We got here in no time!”
+$Hikomaro
+“Now, let's head to the pool.”
+$Tomoko
+“I only know the school pool. There are no scary teachers watching us, so I'm sure we can swim freely!”
+$Hikomaro
+“Since we woke up early, we can swim as much as we want.”
+$Tomoko
+“Yeah!”
+He purchased two tickets again today.
+Maro tore them just like yesterday.
+He handed only the stub to her.
+$Tomoko
+“Now I have two!”
+Her eyes looked as if she were staring at a treasure.
+Her pupils sparkled like a child's.
+Maro couldn't help but break into a smile as he handed it over.
+$Hikomaro
+“Let's have some fun today, too.”
+$Tomoko
+“Not just me, you too, Old Man!”
+$Hikomaro
+“Right you are.”
+She seemed happy that he agreed.
+She held out her arm.
+Innocently appealing for them to hold hands.
+Of course, Maro gladly obliged.
+He gently squeezed her adorable palm.
+$Hikomaro
+“Hoh...”
+As expected, he couldn't tell if he was really holding it or not.
+A mysterious, squishy sensation.
+It seemed to be the same for her.
+She repeatedly squeezed back to confirm the feeling.
+$Tomoko
+“Will you get in trouble?”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“For holding hands.”
+$Hikomaro
+“I'm not married, and there's no one in particular to scold me.”
+$Tomoko
+“No girlfriend either?”
+$Hikomaro
+“Not at the moment.”
+$Tomoko
+“Then it's fine!”
+She hopped and bounced around.
+Occasionally her flat chest would brush against his arm.
+That lack of cleavage was almost endearing to Maro.
+The weather was clear.
+They had plenty of time since they woke up early.
+With a cheerful girl holding his hand by his side.
+If they didn't play to their heart's content, it would be a sin.
+$Tomoko
+“Tada!”
+$Hikomaro
+“... .”
+$Tomoko
+“There are so many people already!”
+$Hikomaro
+“Indeed.”
+$Tomoko
+“Is it okay if I go ahead and swim?”
+$Hikomaro
+“Have a nice time.”
+$Tomoko
+“Come join me later, Old Man!”
+$Hikomaro
+“... .”
+$Hikomaro
+“...An adhesive bandage?”
+$Tomoko
+“Waa! It's so cold!”
+$Hikomaro
+“... .”
+$Hikomaro
+“She doesn't seem to mind, and she looks like she's having a great time, so I suppose there's no problem.”
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“...Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“...He's not here at noon, either.”
+$Sakimi
+“... .”
+$Sakimi
+“...I emailed him but he didn't reply.”
+$Sakimi
+“...Haa.”
+$Sakimi
+“...I'm starting to get seriously worried.”
+$Tomoko
+“That was so much fun today, too!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“The water slide was so interesting.”
+$Hikomaro
+“There were many courses, after all.”
+$Tomoko
+“I've never been to such a lively pool. Everyone looks so fun and happy... this is nice.”
+$Hikomaro
+“It's become a good memory.”
+$Tomoko
+“It was a truly happy day.”
+$Hikomaro
+“At this rate, shall we head out tomorrow as well?”
+--------------------
+stage59bbb
+********************
+$Hikomaro
+“We're here.”
+$Tomoko
+“Three days in a row!”
+$Hikomaro
+“Ho-ho.”
+$Tomoko
+“The talk we had on the train was especially fun today.”
+$Hikomaro
+“You didn't get tired?”
+$Tomoko
+“I'm getting used to it, so I'm fine.”
+$Hikomaro
+“We certainly talked a lot.”
+$Tomoko
+“Your favorite color is white.”
+$Hikomaro
+“And Tomoko-chan's was pink.”
+$Tomoko
+“Your favorite food is bento.”
+$Hikomaro
+“And Tomoko-chan's is yakisoba and takoyaki.”
+$Tomoko
+“I only got to eat them once, on my birthday.”
+$Hikomaro
+“...So you said.”
+Maro smiled gently.
+He handed the ticket stub to Tomoko-chan.
+$Hikomaro
+“May today's trip to the pool be another good memory.”
+$Tomoko
+“Thank you!”
+The third stub.
+She stared at it with sparkling eyes.
+She carefully tucked it into her pocket.
+$Hikomaro
+“Well then, shall we?”
+$Tomoko
+“I only know the school pool. There are no scary teachers watching us, so I'm sure we can swim freely!”
+$Hikomaro
+“Since we woke up early, we can swim as much as we want.”
+$Tomoko
+“Yeah!”
+Maro held out his hand.
+Seeing it, she smiled brightly.
+She grabbed it tight, almost lunging at him.
+$Tomoko
+“Can you really feel it?”
+$Hikomaro
+“In a way.”
+$Tomoko
+“...Even after tuning my wavelength, is this all it is?”
+She squeezed his palm several times.
+She seemed to be in a process of trial and error for how to hold it.
+Finally, she interlaced her fingers with his.
+She tilted her head and looked up at Maro.
+$Tomoko
+“How's this?”
+$Hikomaro
+“This might be the best yet.”
+$Tomoko
+“Then we're sticking with this grip.”
+Saying so, she skipped lightly ahead.
+She took the lead while looking back at him.
+Their joined arms stretched gently.
+It felt like being pulled, yet not.
+As always, that mysterious sensation.
+But while watching her joyful expression.
+Maro naturally broke into a light jog.
+$Hikomaro
+“W-Wait a moment.”
+$Tomoko
+“Hurry, hurry!”
+$Hikomaro
+“There's no need to rush so much.”
+And after Maro and his companion had left...
+$Sakimi
+“... .”
+$Sakimi
+“...Are you serious?”
+$Sakimi
+“... .”
+$Sakimi
+“...Calm down, Sakimi.”
+$Sakimi
+“... .”
+$Sakimi
+“First off, this isn't a dream.”
+$Sakimi
+“I didn't misinterpret what I just saw, either.”
+$Sakimi
+“If so, what was that one-man play all about?”
+$Sakimi
+“... .”
+$Sakimi
+“...I don't get it.”
+$Sakimi
+“... .”
+$Sakimi
+“I've completely lost my timing to call out to him.”
+$Sakimi
+"..."
+$Sakimi
+“I'll follow him a bit longer... haa.”
+$Tomoko
+“Tada!”
+$Hikomaro
+“... .”
+$Tomoko
+“There are so many people already!”
+$Hikomaro
+“Indeed.”
+$Tomoko
+“Is it okay if I go ahead and swim?”
+$Hikomaro
+“Have a nice time.”
+$Tomoko
+“Come join me later, Old Man!”
+$Hikomaro
+“... .”
+$Hikomaro
+“...An adhesive bandage?”
+$Tomoko
+“Waa! It's so cold!”
+$Hikomaro
+“... .”
+$Hikomaro
+“She doesn't seem to mind, and she looks like she's having a great time, so I suppose there's no problem.”
+...And several hours later...
+$Tomoko
+“I swam so much!”
+$Hikomaro
+“We certainly did.”
+$Tomoko
+“The water slide was so interesting.”
+$Hikomaro
+“There were many courses, after all.”
+$Tomoko
+“I've never been to such a lively pool. Everyone looks so fun and happy... this is nice.”
+$Hikomaro
+“Did it become a good memory?”
+$Tomoko
+“It was a truly happy day.”
+$Hikomaro
+“At this rate, shall we head out tomorrow as well?”
+--------------------
+stage59c
+********************
+$Hikomaro
+“We've arrived safely.”
+$Tomoko
+“An amusement park!”
+$Hikomaro
+“We've finally come.”
+$Tomoko
+“It feels like a dream.”
+$Hikomaro
+“It's a leisure park, so there are things like a zoo as well.”
+$Tomoko
+“Oh, I see!”
+$Hikomaro
+“Well then, shall we head in?”
+$Tomoko
+“My heart is racing!”
+$Hikomaro
+“I'll buy the admission tickets for now.”
+$Tomoko
+“It's my first time playing at an amusement park. I've done cleaning part-time before, but I've never entered as a guest.”
+$Female Receptionist
+“Welcome.”
+$Hikomaro
+“Two adults, please.”
+$Tomoko
+“Old Man.”
+$Hikomaro
+“Yes?”
+$Tomoko
+“One is fine.”
+$Hikomaro
+“It has to be two.”
+$Tomoko
+“I'm telling you, it's a waste of money. Nobody can see me except you.”
+$Hikomaro
+“A ticket is a memento, too.”
+$Tomoko
+“...Eh?”
+$Hikomaro
+“Welcome to the amusement park.”
+$Tomoko
+“... .”
+Maro tore the ticket he received.
+He handed only the stub to her.
+Tomoko-chan blinked her eyes in surprise.
+She stared intently at the ticket in her hand.
+$Tomoko
+“I-Is it really okay?”
+$Hikomaro
+“Let's enjoy ourselves today.”
+$Tomoko
+“U-Uh-huh!”
+She must have been incredibly happy.
+To hide her shyness, she circled behind Maro.
+Then, she hopped up and clung to his arm.
+It felt like being grabbed, yet not.
+A mysterious, squishy sensation.
+$Hikomaro
+“Ho-ho.”
+$Tomoko
+“Is it okay if I get really excited?”
+$Hikomaro
+“Of course it is.”
+$Tomoko
+“Yay!”
+It's a date today.
+Even if anything below a D-cup is outside his usual range.
+This kind of thing is nice once in a while.
+If he returns to his childhood heart along with her.
+Her lingering regrets will be beautifully purified.
+And as a bonus, Maro's own heart will be healed...
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“...Huh?”
+$Sakimi
+“... .”
+$Sakimi
+“Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“I made a bento for you today!”
+$Sakimi
+“... .”
+$Sakimi
+“The window is locked... are you out somewhere?”
+$Tomoko
+“That was so much fun!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“The roller coaster was amazing!”
+$Hikomaro
+“My stomach did a little flip.”
+$Tomoko
+“The view from the Ferris wheel was beautiful, too.”
+$Hikomaro
+“We could see all the way to Nakanomachi, couldn't we?”
+$Tomoko
+“But I think the haunted house was the best!”
+$Hikomaro
+“The production was cheap, but it was quite frightening.”
+$Tomoko
+“The konjac slapped against my cheek!”
+$Hikomaro
+“You were screaming your head off, Tomoko-chan.”
+$Tomoko
+“It all went by so fast.”
+$Hikomaro
+“That's how it goes when you're having fun.”
+$Tomoko
+“I hope I can come back with you again, Old Man.”
+$Hikomaro
+“There's a pool here as well.”

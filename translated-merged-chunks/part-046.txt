@@ -1,0 +1,1115 @@
+--------------------
+stage62
+********************
+...And Sunday morning...
+$Hikomaro
+“...”
+$Hikomaro
+“...Haa.”
+$Hikomaro
+“...”
+$Hikomaro
+“It’s taking quite a while.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Was there some issue with the clothes?”
+$Hikomaro
+“...”
+$Hikomaro
+“No, no, no.”
+$Hikomaro
+“Everything is ready, it's perfect.”
+$Sakimi
+“Sor-ry to keep you wait-ing!”
+$Tomoko
+“Hhh...”
+$Hikomaro
+“Ohhh...”
+$Sakimi
+“Isn't she cute?”
+$Hikomaro
+“...”
+$Sakimi
+“Say something, Sensei.”
+$Hikomaro
+“She’s... a-dorable.”
+$Sakimi
+“Don't start crying on me, Sensei.”
+$Tomoko
+“Hhh, thank you for the compliment.”
+$Hikomaro
+“Even the way you speak is different from usual.”
+$Tomoko
+“I’m going to go and enjoy myself to the fullest.”
+$Hikomaro
+“Y-Yes.”
+$Tomoko
+“I’ll do my best to make my dream come true.”
+$Hikomaro
+“Yes... yes...!”
+$Sakimi
+“We’d better get going soon.”
+$Tomoko
+“Y-Yeah.”
+$Sakimi
+“You can save the long stories for after it’s all over.”
+$Tomoko
+“Hhh, got it.”
+$Sakimi
+“Well then, Sensei.”
+$Hikomaro
+“Please, take care.”
+$Hikomaro
+“...”
+$Hikomaro
+“...And off they go.”
+$Hikomaro
+“...”
+$Hikomaro
+“I hope today becomes a day that, for Tomoko-chan...”
+*Clap, clap*
+$Hikomaro
+“...Is the best day ever!”
+...30 minutes later...
+Tap, tap...
+$Sakimi
+“Hey.”
+$Hikomaro
+“...Ah.”
+$Sakimi
+“Just I’ve come back.”
+*Clatter*
+$Sakimi
+“There we go.”
+$Hikomaro
+“W-Welcome back.”
+$Sakimi
+“I’m home.”
+$Hikomaro
+“...Haa.”
+$Sakimi
+“What’s with that look?”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“You look like a father who just saw his daughter off at her wedding.”
+$Hikomaro
+“...Please don’t tease me.”
+$Sakimi
+“You’ve gone all limp and wilted.”
+$Hikomaro
+“...How is Tomoko-chan doing?”
+$Sakimi
+“As expected, she was nervous since it's her first date.”
+$Hikomaro
+“Was he at the meeting place?”
+$Sakimi
+“He was there ahead of time. I sent Tomoko-chan off from a distance and watched until they started talking.”
+$Hikomaro
+“Thank you so much... haa.”
+$Sakimi
+“Don't worry so much.”
+$Hikomaro
+“Shingo-kun is a good person, right?”
+$Sakimi
+“Well, he's human so I doubt he’s perfect. But when I actually met him, he really seemed like a fine young man.”
+$Hikomaro
+“...Then it should be fine.”
+$Sakimi
+“I’m sure she’ll come back with a beaming smile.”
+$Hikomaro
+“...Are you picking her up from the park in the truck, too?”
+$Sakimi
+“Just in case, I intend to go get her.”
+$Hikomaro
+“'J-Just in case', meaning?”
+$Sakimi
+“It’d be bad if she went over her time limit, wouldn't it?”
+$Hikomaro
+“...So that's the 'just in case' you meant.”
+$Sakimi
+“If she does go over, I’ll collect the clothes right there. There’s underwear involved too, so a woman’s touch is better, right?”
+$Hikomaro
+“I’m putting you to so much trouble in every single way.”
+$Sakimi
+“I’ve kept today wide open, so it's fine. For now, just have some tea and stare at the clock or something.”
+$Shingo
+“We’re here.”
+$Tomoko
+“Hhh, we are.”
+$Shingo
+“Are you still nervous?”
+$Tomoko
+“A-A little.”
+$Shingo
+“Take a deep breath. Relax, relax.”
+$Tomoko
+“Relax, relax... phew.”
+$Shingo
+“Calmed down?”
+$Tomoko
+“Y-Yes.”
+$Shingo
+“It’s been a while since I've been to an aquarium.”
+$Tomoko
+“Hhh, it's my first time.”
+$Shingo
+“You mean since becoming an adult?”
+$Tomoko
+“Ah, no... well... yes.”
+$Shingo
+“For me, it’s probably been since middle school.”
+$Tomoko
+“...Was an aquarium a bit too childish?”
+$Shingo
+“Not at all.”
+$Tomoko
+“I thought spending two hours on a movie would be a waste of time.”
+$Shingo
+“Since you're a busy person too, Tomoko-chan.”
+$Tomoko
+“T-Today, I only happen to have three hours.”
+$Shingo
+“It’s a tough time for studying and things, isn't it?”
+$Tomoko
+“Hhh, in my case, especially.”
+$Shingo
+“Are you taking entrance exams next year, Tomoko-chan?”
+$Tomoko
+“Nothing has been decided yet.”
+$Shingo
+“You’re quite a laid-back person, aren't you?”
+$Tomoko
+“I-I'm sorry.”
+$Shingo
+“There's no reason to apologize. Maybe it's because I'm impatient myself, but I like people like that better.”
+$Tomoko
+“Hhh... like?”
+$Shingo
+“Yeah.”
+$Tomoko
+“T-Then I'm glad.”
+$Shingo
+“Well then...”
+Taking his wallet from his bag...
+Shingo-kun smiled brightly.
+$Shingo
+“I’ll go buy the tickets.”
+$Tomoko
+“P-Please, let’s split the cost today.”
+$Shingo
+“Let me treat you, at least for our first date.”
+$Tomoko
+“Hhh, but I was the one who invited you.”
+$Shingo
+“I wanted to meet you too, Tomoko-chan.”
+$Tomoko
+“Hhh, I even got pocket money to bring with me.”
+$Shingo
+“...Pocket money?”
+Perhaps the phrasing was too childish.
+Shingo-kun gave a wry smile without any ill intent.
+She realized she’d said something strange...
+She felt her cheeks turning red with embarrassment.
+$Shingo
+“Anyway, this is on me.”
+$Tomoko
+“Y-Yes.”
+She could only nod...
+And follow along behind him.
+$Shingo
+“Two adults.”
+The 10,000 yen bill he produced was crisp and new.
+It wasn't crumpled and wrinkled like the Mister's usually were.
+It was as flat as if it had been ironed.
+$Shingo
+“Sorry for the wait.”
+$Tomoko
+“O-Oh, no.”
+She put on a smile.
+She then reached out to take a ticket.
+However, Shingo-kun escorted her properly...
+He handed over both tickets to be punched.
+$Big Sister
+“Thank you for visiting.”
+$Tomoko
+“...”
+This time for sure.
+Tomoko-chan closed the distance to Shingo-kun a bit.
+She intended to take the stub.
+But he paid her no mind...
+He tucked the useless scrap of paper into his own pocket.
+$Tomoko
+“Ah...”
+Of course, he meant no harm.
+Even if it was a treasure to Tomoko-chan...
+To Shingo-kun, it was just trash.
+She couldn't bring herself to say she wanted it.
+She only blinked her eyes regretfully.
+$Shingo
+“What's wrong?”
+$Tomoko
+“O-Oh, nothing...”
+$Shingo
+“Then, shall we follow the route? If we do whatever we want, we’ll just be a nuisance to the other guests.”
+$Tomoko
+“Hhh, you're right.”
+$Shingo
+“I dislike people who don't follow the rules.”
+$Tomoko
+“I-I think you're right.”
+$Shingo
+“I'm also not fond of adults who get strangely excited in places like this.”
+$Tomoko
+“...”
+He wasn't wrong.
+To other people, it might be an eyesore.
+It's best to be quiet and proper about everything.
+But, but...
+The Mister...
+Who’d return to a childlike heart with me.
+Who’d smile and meet me at my own level.
+I really love that Mister...
+$Sakimi
+“...”
+$Hikomaro
+“...”
+$Sakimi
+“...Fua.”
+$Hikomaro
+“Shall I lay out the futon?”
+$Sakimi
+“This just feels too good.”
+$Hikomaro
+“...I see.”
+$Sakimi
+“The sky outside the window is so blue.”
+$Hikomaro
+“It really is perfect weather for a date.”
+$Sakimi
+“My heart is feeling all warm and fluffy.”
+$Hikomaro
+“It's a very pleasant day today.”
+$Sakimi
+“I’m relieved the date happened.”
+$Hikomaro
+“It's all thanks to you, Okusan.”
+$Sakimi
+“And most of all, Sensei is right here beside me...”
+*Spin*
+$Sakimi
+“...Come to think of it.”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Yokoyama-san came here, didn't he?”
+$Hikomaro
+“...You knew?”
+$Sakimi
+“I got an email from Yukina-chan.”
+$Hikomaro
+“I received an apology email as well.”
+$Sakimi
+“Are you satisfied, Sensei?”
+$Hikomaro
+“No one can extinguish the flames of a burning love.”
+$Sakimi
+“It seems like it’s a bit of a one-way street for Yokoyama-san, though.”
+$Hikomaro
+“Everyone has the right to be happy.”
+$Sakimi
+“...I wonder if I did something unnecessary?”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“I mean, I was the catalyst...”
+$Hikomaro
+“You mean the trip?”
+$Sakimi
+“I was the one who invited Yokoyama-san, too.”
+$Hikomaro
+“I gave my consent as well.”
+$Sakimi
+“...Well, that's true.”
+$Hikomaro
+“I think it turned out exactly as it was meant to.”
+$Sakimi
+“You’re such an adult.”
+$Hikomaro
+“You never know where an encounter might be born.”
+$Sakimi
+“I didn't think they’d get along that well.”
+$Hikomaro
+“She and I will remain friends from here on.”
+$Sakimi
+“...Yeah.”
+$Hikomaro
+“I do feel a bit lonely, though.”
+$Sakimi
+“Not enough to cry?”
+$Hikomaro
+“For now.”
+*Spin*
+$Sakimi
+“I'm a little relieved.”
+$Hikomaro
+“Well, it can't be helped.”
+$Sakimi
+“But I feel a bit let down.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“As the one responsible, I was planning to comfort you.”
+$Hikomaro
+“'Planning to', meaning?”
+$Sakimi
+“A healing blowjob for the Sensei who's doing nothing but sighing.”
+$Hikomaro
+“...I don't think those are words a married woman should be saying.”
+$Sakimi
+“Just kidding.”
+$Hikomaro
+“Really?”
+$Sakimi
+“But I’ll give you a tight hug until you've had enough, Sensei.”
+$Hikomaro
+“...That’s love.”
+$Sakimi
+“It is love.”
+$Hikomaro
+“Those words alone have healed me enough. You’re finally getting back on good terms with your husband, so please cherish that above all else.”
+$Sakimi
+“...Lately, the things you say are so sensible.”
+$Hikomaro
+“I have always been sensible.”
+$Sakimi
+“Where did the suspicious gynecologist version of Sensei go?”
+$Hikomaro
+“That was just a character I created for my profession.”
+$Sakimi
+“That's a total lie.”
+$Hikomaro
+“Hoho.”
+$Sakimi
+“You were always all over me with those 'palpations'.”
+$Hikomaro
+“Those were necessary acts for a medical examination.”
+$Sakimi
+“But you like tits, right?”
+$Hikomaro
+“About as much as anyone else.”
+$Sakimi
+“...I’ll test to see if it's really just 'anyone else'.”
+*Boing*
+$Hikomaro
+“Please don't jiggle them pointlessly.”
+$Sakimi
+“Look, look~.”
+*Boing*
+$Hikomaro
+“You're such a handful, Okusan.”
+$Sakimi
+“Are you being serious?”
+$Hikomaro
+“I am being serious.”
+$Sakimi
+“I guess this isn't the time for that.”
+$Hikomaro
+“...”
+$Sakimi
+“Your head is full of Tomoko-chan.”
+$Hikomaro
+“It is on my mind.”
+$Sakimi
+“It’s about lunch time.”
+$Hikomaro
+“Time-wise, it's lunch time, isn't it?”
+$Sakimi
+“I wonder what they’re eating.”
+$Hikomaro
+“For Tomoko-chan, it’s a meal after a long time.”
+$Sakimi
+“Really?”
+$Hikomaro
+“Until now, she’s had to hold back with just the smells.”
+$Sakimi
+“...I see.”
+$Hikomaro
+“If possible, I want her to eat what she likes. That might be one of the things she has left to do, too.”
+*Spin*
+$Sakimi
+“...You’re truly kind.”
+Sakimi’s heart skipped a beat.
+She stared at Maro.
+She suppressed her desire to hug him.
+$Sakimi
+“Tomoko-chan must be thinking it too. How glad she is that she met you, Sensei.”
+$Hikomaro
+“I feel the same way.”
+$Sakimi
+“Anyway, I’ll keep helping from here on. It’s too pitiful for her to be stuck in between, I really have to do something for her.”
+$Shingo
+“How was it?”
+$Tomoko
+“I-It was fun.”
+$Shingo
+“It was a small aquarium, but it was well-maintained.”
+$Tomoko
+“Y-Yes.”
+$Shingo
+“The staff were kind, too.”
+$Tomoko
+“Hhh, they were.”
+*Growwwl...*
+$Tomoko
+“Ah...”
+Tomoko-chan’s face turned bright red.
+Of course, Shingo-kun didn't look displeased at all.
+He watched her with a gentle smile.
+$Shingo
+“Are you hungry?”
+$Tomoko
+“Hhh, I am.”
+$Shingo
+“What shall we do for lunch?”
+$Tomoko
+“Let's see...”
+$Shingo
+“Is there something you want to eat?”
+$Tomoko
+“Um...”
+$Shingo
+“Say anything.”
+$Tomoko
+“I want to eat somen.”
+$Shingo
+“...Somen?”
+$Tomoko
+“Somen and orange juice.”
+$Shingo
+“...”
+Again, Shingo-kun gave a wry smile without ill intent.
+Perhaps he thought she was joking.
+He didn't take her words seriously.
+$Shingo
+“Since it's a special date.”
+$Tomoko
+“Y-Yes.”
+$Shingo
+“How about Italian?”
+$Tomoko
+“I-Italian?”
+$Shingo
+“My father's acquaintance runs a restaurant near here. I can get a reservation if I call, so if you don't dislike pasta or something.”
+$Tomoko
+“...”
+$Shingo
+“Do you like it?”
+$Tomoko
+“I... like it.”
+$Shingo
+“Then it's decided.”
+$Tomoko
+“...”
+The somen she wanted to eat.
+The orange juice she wanted to try.
+They had been almost within reach.
+But they vanished like smoke.
+What remained was something called pasta.
+Precisely because she had no idea what it was.
+She hoped it was something similar to somen.
+$Shingo
+“How is the pescatore?”
+$Tomoko
+“Hhh, it's amazing, with so many shrimp and squid and things.”
+$Shingo
+“I'm glad you're happy.”
+$Tomoko
+“I'm surprised by such a wonderful shop.”
+$Shingo
+“Is this your first time in a place like this, perhaps?”
+$Tomoko
+“Y-Yes.”
+$Shingo
+“What kind of shops do you usually go to?”
+$Tomoko
+“I hardly ever eat out.”
+$Shingo
+“Then when you eat pasta...”
+$Tomoko
+“Hhh, something that tastes like ketchup, similar to this.”
+$Shingo
+“Do you mean Napolitan?”
+$Tomoko
+“...Napolitan?”
+$Shingo
+“Is it different from that?”
+$Tomoko
+“Just noodles sizzled with ketchup. And with fish sausage in it.”
+$Shingo
+“I've never had it, but it sounds delicious.”
+$Tomoko
+“Hhh, especially when it's piping hot.”
+$Shingo
+“I wonder what shop has that.”
+$Tomoko
+“...It's not at a shop, it's at home.”
+$Shingo
+“At home?”
+$Tomoko
+“When mom... my mother was late... I’d make it myself.”
+$Shingo
+“You cook too, Tomoko-chan?”
+$Tomoko
+“If I can't do everything, I’ll starve to death.”
+$Shingo
+“Ahahaha!”
+$Tomoko
+“...”
+$Shingo
+“The things you say are so interesting, Tomoko-chan.”
+$Tomoko
+“...I get told that a lot.”
+He was laughing.
+But it wasn't a joke, it was the truth.
+My mom was heartless.
+She wouldn't spoil me with food.
+I did as much of the cleaning and laundry as I could myself.
+If I was lazy, I’d run out of panties to change into.
+I went to school without panties several times.
+It’s been like that since I was little.
+Mom always used to say.
+We’re poor and she's a single parent.
+It’s okay if I’m not good at studying.
+But I have to be strong as a person.
+But, I...
+I ended up like this before I could get strong.
+That time when I was doing my cleaning job at the park.
+It was my luck to try and hide in the bushes.
+I didn't want this person to see me looking so dirty.
+I panicked and went too deep into the thicket.
+I usually just watched from a distance.
+Sighing was enough.
+Maybe I was dazed from the heat.
+I was such a fool I didn't even notice he was right behind me.
+$Tomoko
+“...”
+What.
+What am I doing.
+$Tomoko
+“Um...”
+$Shingo
+“What?”
+Shingo-san is handsome.
+He looks clean and his grooming is perfect.
+He’s considerate of me.
+He’s an even more serious person than I heard.
+That's why I can't be a nuisance to him.
+He’s a busy person with his studies.
+He shouldn't be wasting his time on someone like me.
+$Tomoko
+“Please do your best with everything.”
+$Shingo
+“Eh?”
+$Tomoko
+“Today was so much fun.”
+$Shingo
+“...What’s this all of a sudden?”
+$Tomoko
+“Thank you for listening to my selfish requests.”
+Placing her fork on her plate...
+Tomoko-chan bowed her head.
+$Shingo
+“I think there’s still time, though.”
+$Tomoko
+“I’ll head home a little early. Thank you for the meal.”
+$Shingo
+“...Just a little longer.”
+$Tomoko
+“Eh?”
+$Shingo
+“It might be a bit much to say this in the middle of the day. But actually, I've reserved a place with a beautiful view.”
+$Tomoko
+“...”
+$Shingo
+“You’re an even cuter woman than I thought.”
+$Tomoko
+“...I only look that way thanks to the clothes.”
+$Shingo
+“So I want us to be alone together.”
+$Tomoko
+“...What would we do alone together?”
+$Shingo
+“I’m talking about having some wholesome fun.”
+$Tomoko
+“Is 'reserved' a love hotel?”
+$Shingo
+“N-No, not such a vulgar place.”
+$Tomoko
+“...Vulgar.”
+$Shingo
+“Of course I won't force you. I dislike that kind of thing.”
+$Tomoko
+“...”
+$Shingo
+“Gazing at the beautiful scenery, having a fun chat, and if you're in the mood... right?”
+$Tomoko
+“I'm sorry.”
+Tomoko-chan bowed again.
+Her face looked somewhat refreshed.
+As if she’d finally made up her mind about something.
+$Shingo
+“A-Are you going home?”
+$Tomoko
+“Yes.”
+$Shingo
+“Hhh, we can meet again, right?”
+$Tomoko
+“I’m sure we won't.”
+She stood up from her seat.
+Placing the pocket money she’d received on the table.
+She walked away just like that.
+The refined Shingo-kun, concerned about the eyes of those around him.
+He couldn't chase after Tomoko-chan.
+The medical department of a top-tier university.
+It wasn't that he was arrogant.
+But girls were always the ones flocking to him.
+So he didn't know how to handle a situation like this.
+Ignoring the three-hour limit from the start.
+If she wanted, four or even five hours.
+That plan crumbled with a loud crash.
+Now, all he could do was watch her back as she left...
+$Sakimi
+“...”
+$Hikomaro
+“...”
+$Sakimi
+“...Funya.”
+$Hikomaro
+“Your body has gone all soft.”
+$Sakimi
+“Thanks to that, it’s the best Sunday ever.”
+$Hikomaro
+“Do you feel like you’re resting?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Since labor is usually so hard.”
+$Sakimi
+“But it feels good to work up a good sweat.”
+$Hikomaro
+“I can understand that, in a way.”
+$Sakimi
+“Are you working up a good sweat too, Sensei?”
+$Hikomaro
+“About as much as usual for daily life.”
+$Sakimi
+“You should do some exercise that makes the sweat pour out once in a while. You're at that age, don't let your pores get clogged.”
+$Hikomaro
+“...You’re so harsh.”
+$Sakimi
+“Want me to help you out?”
+$Hikomaro
+“I’ll pass.”
+$Sakimi
+“...I haven't said what I’d help you with yet.”
+$Hikomaro
+“It’s obviously wrestling, isn't it?”
+$Sakimi
+“Busted, huh.”
+$Hikomaro
+“...?”
+$Sakimi
+“Well then.”
+$Hikomaro
+“We aren't doing any wrestling.”
+$Sakimi
+“I’m going to go pick her up soon.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“Tomoko-chan, at the park.”
+$Hikomaro
+“...Isn't it still a bit early?”
+$Sakimi
+“This is just the right time. We’re doing something that isn't normal in a way that isn't normal, while pretending to be normal.”
+$Hikomaro
+“...That phrasing is strangely persuasive.”
+$Sakimi
+“I’ll leave the house-sitting to you.”
+$Hikomaro
+“And I’ll leave Tomoko-chan to you.”
+$Sakimi
+“I’ll bring her back safely, so don't worry.”
+*Thump, thump, thump*
+$Hikomaro
+“...”
+$Hikomaro
+“...She actually left through the front door for once.”
+$Hikomaro
+“...”
+$Hikomaro
+“...I wonder if Tomoko-chan's dream was granted.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Maybe they at least kissed or something?”
+$Hikomaro
+“...”
+$Hikomaro
+“I want it to be like that for her sake, but then again, I don't want them doing that; I don't even understand my own feelings.”
+...15 minutes later...
+*Vrr, vrr, vrr*
+$Hikomaro
+“...?”
+An email from Okusan on his phone.
+Naturally wondering what happened.
+Worry-prone Maro’s palms get a little sweaty.
+"Can you come to the park too, Sensei?"
+$Hikomaro
+“...Huh?”
+The message was just one line.
+There was no sense of urgency.
+It felt more like she was casually asking for help.
+If it were an emergency, she wouldn't email.
+She’d definitely call him directly.
+$Hikomaro
+“...”
+The weather outside is good.
+I’ll take her up on the invitation.
+It’s better than just moping around here.
+I can see Tomoko-chan sooner, too...
+$Hikomaro
+“...”
+The sunlight is strong.
+The sensation of his skin burning is the same as always.
+But today the air is dry.
+There isn't the usual humid feeling.
+$Hikomaro
+“...Is that the scent of autumn?”
+Looking up at the sky.
+Maro muttered to himself.
+The drifting clouds seemed a bit high.
+Even in a place like this, the changing of the seasons.
+Time passes.
+Everything undergoes change.
+Nature itself is like that.
+It’s impossible for anyone to stay the same forever.
+$Hikomaro
+“...It’s a beautiful day.”
+$Sakimi
+“The air is crisp today, too.”
+$Hikomaro
+“It’s been a while since I've been to this park.”
+$Sakimi
+“Maybe since the test of courage?”
+$Hikomaro
+“Maybe.”
+$Tomoko
+“...It's where I first met you guys.”
+$Hikomaro
+“It is, isn't it?”
+$Tomoko
+“...”
+$Hikomaro
+“How was your first date?”
+$Tomoko
+“Of course it was fun.”
+$Hikomaro
+“That’s good.”
+$Tomoko
+“I got to talk a lot with the person I admired, went to an aquarium for the first time in my life, and even ate pescatore.”
+$Hikomaro
+“It sounds like your dream came true.”
+$Tomoko
+“...About half.”
+$Hikomaro
+“Oh my.”
+$Tomoko
+“But for the remaining half, I learned a lot.”
+$Hikomaro
+“...I see.”
+$Tomoko
+“I’m sorry for not achieving my goal even though you prepared the clothes and everything.”
+$Sakimi
+“Managing half for a first date is a great success.”
+$Hikomaro
+“You still have a wish bead left, so you can even try again.”
+$Tomoko
+“I will try again.”
+$Hikomaro
+“That’s the spirit.”
+$Tomoko
+“I also understood the importance of feelings.”
+$Hikomaro
+“Isn't that a harvest in itself?”
+$Tomoko
+“Falling in love is a bit painful.”
+$Hikomaro
+“...It sounds like you had a good experience.”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“But we have to hurry. I heard he’ll be away from his parents' house next month for summer self-study or something.”
+$Tomoko
+“Hmm.”
+$Sakimi
+“...?”
+$Hikomaro
+“I’ll support you until your love is fulfilled.”
+$Tomoko
+“Really?”
+$Hikomaro
+“Of course I will.”
+$Tomoko
+“Those might be the most relieving words I've heard all day.”
+$Hikomaro
+“We are on your side, Tomoko-chan.”
+$Tomoko
+“Then I can try again without worry.”
+$Hikomaro
+“Let's do our best.”
+$Tomoko
+“Ei-ei-oh!”
+$Hikomaro
+“Ei-ei-oh!”
+$Sakimi
+“...”
+$Hikomaro
+“You too, Okusan.”
+$Sakimi
+“A-Ah, yeah, ei-ei-oh.”
+$Tomoko
+“I’m looking forward to tomorrow already.”
+$Hikomaro
+“...”
+$Sakimi
+“Was it just about three hours?”
+$Hikomaro
+“It seems so.”
+$Sakimi
+“Where did the vanished Tomoko-chan go?”
+$Hikomaro
+“Probably around there somewhere...”
+Looking here and there.
+$Hikomaro
+“...I don't see her.”
+$Sakimi
+“I wonder if she went home ahead of us?”
+$Hikomaro
+“She was strangely enthusiastic, maybe she has something to do?”
+$Sakimi
+“...I see.”
+$Hikomaro
+“Okusan.”
+$Sakimi
+“Hmm?”
+$Hikomaro
+“Thank you for everything.”
+$Sakimi
+“It’s not over yet, is it?”
+$Hikomaro
+“I just wanted to thank you for today.”
+$Sakimi
+“I told you not to be formal with your best bud.”
+$Hikomaro
+“Even with my best bud, I can't not say it.”
+$Sakimi
+“Sitting on this memorable bench, relaxing with the Sensei who knows my heart. It’s nothing but good things for me.”
+$Hikomaro
+“It really is a memorable bench.”
+$Sakimi
+“Right?”
+$Hikomaro
+“...Why did you send the email calling me here today?”
+$Sakimi
+“Just the vibe, somehow.”
+$Hikomaro
+“Somehow?”
+$Sakimi
+“She looked like she wanted you to be by her side, Sensei.”
+$Hikomaro
+“...Tomoko-chan?”
+$Sakimi
+“She was sitting here all alone. Swinging her legs while staring at the pond.”
+$Hikomaro
+“...I wonder if something happened.”
+$Sakimi
+“She was already on the bench when I came to pick her up. From the look of it, I bet they only had a date for about two hours.”
+$Hikomaro
+“...Did she say why?”
+$Sakimi
+“I felt like it was better to leave her alone, so I didn't talk to her much.”
+$Hikomaro
+“...I see.”
+$Sakimi
+“But I feel like it was good that she had the date.”
+$Hikomaro
+“Everything is an experience.”
+$Sakimi
+“Her expression had definitely changed, too.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“She felt a bit more mature than before the date.”
+$Hikomaro
+“...Now that you mention it, perhaps.”
+$Sakimi
+“Maybe she’s falling in love for real.”
+$Hikomaro
+“Deeply in love, huh.”
+$Sakimi
+“It’s tough being a popular guy.”
+$Hikomaro
+“Well, he is a handsome med student.”
+$Sakimi
+“You’re going to help her fulfill her love, aren't you?”
+$Hikomaro
+“Otherwise her dream won't be granted.”
+$Sakimi
+“Mister has a lot of work to do, too.”
+$Hikomaro
+“Even you’re calling me 'Mister', Okusan?”
+$Sakimi
+“I successfully collected the clothes, I’ll take you back home in the truck. If you get bored, you can touch my thighs, Mister.”
+$Hikomaro
+“I-I said, please stop with the 'Mister'.”
+$Sakimi
+“We’ve arrived safely.”
+$Hikomaro
+“...It still hurts.”
+$Sakimi
+“Maybe I was a bit too strong?”
+$Hikomaro
+“Pinching my precious cock is not something a married woman should be doing.”
+$Sakimi
+“Because you were trying to touch my thighs.”
+$Hikomaro
+“Y-You said I could!”
+$Sakimi
+“Did you get bored being with me?”
+$Hikomaro
+“Ugh...”
+$Sakimi
+“Truth is it’s totally okay, but. I thought it might be a bit bad, so I changed my mind halfway.”
+$Hikomaro
+“...That’s unfair.”
+$Sakimi
+“I felt like you were going to reach for my tits next.”
+$Hikomaro
+“Hhh, anyone would if they were jiggling so alluringly.”
+$Sakimi
+“My truck's suspension is set to be stiff.”
+$Hikomaro
+“S-So that's why they jiggle like that?”
+$Sakimi
+“If you have a complaint, take it up with gravity and attraction.”
+$Hikomaro
+“...I can't complain to the Earth.”
+$Sakimi
+“Good that you understand.”
+$Hikomaro
+“I'm no match for you, Okusan.”
+$Sakimi
+“But it’s been a while.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“A fun little squabble with Sensei.”
+$Hikomaro
+“...Now that you mention it, true.”
+$Sakimi
+“I can't exactly do stuff like this with Ma-kun.”
+$Hikomaro
+“It might be fun if you tried.”
+$Sakimi
+“I guess I’ll try it next time. The vibe will be different from Sensei, but Ma-kun has his own good points.”
+Saying so, Okusan.
+She looked around.
+She then took a deep breath.
+$Sakimi
+“Tomoko-chan!”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“Please forgive us for being like this!”
+$Hikomaro
+“...She isn't here, though.”
+$Sakimi
+“Is that so?”
+$Hikomaro
+“Maybe she's taking a detour somewhere?”
+$Sakimi
+“A maiden in love has a lot of preparations to make.”
+$Hikomaro
+“I have somewhat complicated feelings.”
+$Sakimi
+“...That’s my line.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“I’m talking to myself, don't worry about it.”
+Okusan feigned ignorance.
+She twirled the truck keys on her fingertip.
+$Sakimi
+“I put the clothes in the drawer.”
+$Hikomaro
+“Thank you very much.”
+$Sakimi
+“I washed the underwear and hung it up to dry.”
+$Hikomaro
+“Thank you for everything.”
+$Sakimi
+“You aren't allowed to touch them, Sensei.”
+$Hikomaro
+“I know that much.”
+$Sakimi
+“Well then, I'm heading home.”
+$Hikomaro
+“Please give my regards to Ma-kun.”
+$Sakimi
+“Will do.”
+$Hikomaro
+“...”
+$Sakimi
+“...”
+$Hikomaro
+“?”
+$Sakimi
+“Since you're dense, Sensei, I’ll give you a warning just in case.”
+$Hikomaro
+“...What is it?”
+$Sakimi
+“Tomoko-chan is an adult now.”
+$Hikomaro
+“Well, she's falling in love and going on dates.”
+$Sakimi
+“You have to treat her like a woman, properly.”
+$Hikomaro
+“...At least enough not to over-spoil her.”
+$Sakimi
+“One more thing, I bet the key player isn't him, it's you, Sensei.”
+*Clatter*
+$Hikomaro
+“...”
+$Hikomaro
+“...This time she left through the window.”
+$Hikomaro
+“...”
+$Hikomaro
+“...I wonder where Tomoko-chan went.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Please don't make me worry so much, phew.”
+$Hikomaro
+“...”
+$Hikomaro
+“...By the way, what does 'key player' mean?”
+And that night.
+He waited restlessly, but.
+Tomoko-chan didn't return to the room.
+Maro couldn't sleep for worry.
+It was after 4:00 AM when he finally drifted off.
+He greeted the morning slumped over the low table...

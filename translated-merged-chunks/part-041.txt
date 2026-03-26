@@ -1,0 +1,899 @@
+--------------------
+stage59
+********************
+...And then the next morning...
+$Hikomaro
+“... .”
+$Hikomaro
+“...It’s 8:00 AM.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...Another beautiful day, isn’t it?”
+$Tomoko
+“Morning.”
+$Hikomaro
+“Good morning.”
+$Tomoko
+“Last night was so hot.”
+$Hikomaro
+“They say it was the hottest tropical night of the year.”
+$Tomoko
+“You didn’t get sleep paralysis or anything?”
+$Hikomaro
+“I managed to endure it somehow.”
+$Tomoko
+“...So, here.”
+$Hikomaro
+“The 'To-Do' list, I see.”
+$Tomoko
+“I'll just give you the memo for now.”
+$Hikomaro
+“...The zoo, the pool, the amusement park?”
+$Tomoko
+“I’m fine with whenever. I’m used to waiting, and I’m good at being patient.”
+$Hikomaro
+“Is that how you spent your life, always holding back?”
+$Tomoko
+“Eh?”
+$Hikomaro
+“It’s nothing, ho-ho.”
+$Tomoko
+“...Strange old man.”
+$Hikomaro
+“I happen to be quite free today.”
+$Tomoko
+“Yeah.”
+$Hikomaro
+“And the weather is wonderful.”
+$Tomoko
+“It’s really sunny.”
+$Hikomaro
+“Don’t you think it’s a perfect day for some leisure?”
+$Tomoko
+“... .”
+$Hikomaro
+“I’m starting to feel quite eager.”
+$Tomoko
+“D-Don't tell me...”
+$Hikomaro
+“Shall we head out right away?”
+$Tomoko
+“I-Is it okay?”
+$Hikomaro
+“It is.”
+$Tomoko
+“Ngh... I don’t have to wait?”
+$Hikomaro
+“The weather is practically pushing us out the door, isn’t it?”
+$Tomoko
+“Are you really taking me somewhere?”
+$Hikomaro
+“That is what you wished for, isn't it?”
+$Tomoko
+“But it costs money and stuff.”
+$Hikomaro
+“Fundamentally, I only have to pay for one person anyway.”
+$Tomoko
+“You’re making time just for me.”
+$Hikomaro
+“As I said, I’m free.”
+$Tomoko
+“I’m so happy, I’m so happy.”
+$Hikomaro
+“...Um.”
+$Tomoko
+“What?”
+$Hikomaro
+“By any chance, Tomoko-chan.”
+$Tomoko
+“Yeah, yeah.”
+$Hikomaro
+“Are you actually full of lingering regrets?”
+$Tomoko
+“Not really.”
+$Hikomaro
+“... .”
+$Tomoko
+“I was poor and had no dreams or hope. I don’t have to do part-time jobs anymore, I could skip the studies I hated... saying goodbye to that side was a relief.”
+$Hikomaro
+“...Are you sure about that?”
+$Tomoko
+“More importantly, let’s go!”
+$Hikomaro
+“Where shall we go?”
+$Tomoko
+“You can choose, Old Man.”
+$Hikomaro
+“Then, if I may be so bold...”
+Zoo
+Pool
+Amusement Park
+Love Hotel
+$Hikomaro
+“How about the zoo?”
+$Hikomaro
+“It’s hot, so how about the pool?”
+$Hikomaro
+“How about the amusement park?”
+$Hikomaro
+“A love hotel.”
+$Tomoko
+“A love hotel?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“What’s that?”
+$Hikomaro
+“It’s a social club for adults.”
+$Tomoko
+“A social club for adults?”
+$Hikomaro
+“Just a little joke, ho-ho.”
+$Tomoko
+“Must be nice, must be nice.”
+$Hikomaro
+“Huh?”
+$Tomoko
+“I don’t know what it is, but it sounds interesting.”
+$Hikomaro
+“... .”
+$Tomoko
+“If you’ll take me, there is fine too.”
+$Hikomaro
+“Let’s go when you’ve grown up.”
+$Tomoko
+“I’m already an adult.”
+$Hikomaro
+“You certainly don’t look like one.”
+$Tomoko
+“I want to go, I want to go.”
+$Hikomaro
+“Maybe another time.”
+$Tomoko
+“When is 'another time'?”
+$Hikomaro
+“If Tomoko-chan is a good girl.”
+$Tomoko
+“It’s a promise.”
+$Hikomaro
+“It’s a promise.”
+$Tomoko
+“Now I have one more thing to look forward to.”
+$Hikomaro
+“That’s good, then, ho-ho.”
+$Tomoko
+“So, where are we going today?”
+$Hikomaro
+“Let’s see...”
+$Tomoko
+“Nice, nice.”
+$Hikomaro
+“Then, let us be off at once.”
+$Tomoko
+“Yay!”
+$Hikomaro
+“If you have a preferred mode of transport, I shall accommodate.”
+$Tomoko
+“Anything is fine.”
+$Hikomaro
+“Anything?”
+$Tomoko
+“Yeah.”
+$Hikomaro
+“Even the train is okay?”
+$Tomoko
+“I’ll just follow behind you, Old Man.”
+$Hikomaro
+“...How convenient.”
+$Tomoko
+“I’m just not good with places that have paper charms posted. Sometimes there are barriers that block my way.”
+$Hikomaro
+“I’ll be careful about that.”
+$Tomoko
+“Let’s go, let’s go.”
+$Hikomaro
+“Then, we depart.”
+...And one hour later...
+$Tomoko
+“Is that so?”
+$Hikomaro
+“So, let’s come back again tomorrow.”
+$Tomoko
+“R-Really?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“But that’s two days in a row!”
+$Hikomaro
+“I’ll be free tomorrow anyway.”
+$Tomoko
+“I can’t believe such happiness exists in this world.”
+$Hikomaro
+“The fun is only just beginning.”
+$Tomoko
+“You’re starting to look like a god to me, Old Man.”
+$Hikomaro
+“There is no such thing as a god in white makeup, ho-ho.”
+$Tomoko
+“Anyway, I can’t wait!”
+$Hikomaro
+“I’m looking forward to it too.”
+$Tomoko
+“Departing at 8:00 again tomorrow?”
+$Hikomaro
+“If the weather is good, at the same time as today.”
+$Tomoko
+“Yay!”
+...And that night...
+$Hikomaro
+“... .”
+$Hikomaro
+“...Ho?”
+$Yukina
+“...A continuation of last night.”
+$Hikomaro
+“A-Again?”
+$Yukina
+“How dare you wake up so conveniently yesterday.”
+$Hikomaro
+“Even if you say that to me...”
+$Yukina
+“Today, we’re going to crush you for real.”
+$Sakimi
+“...With our two pairs of big breasts.”
+$Yukina
+“And our two big asses.”
+$Sakimi
+“...A fitting punishment for a bra thief.”
+$Hikomaro
+“B-Bra thief?!”
+$Sakimi
+“Did you steal them for some solo material?”
+$Hikomaro
+“Ngh, that’s a false accusation!”
+$Sakimi
+“Then why am I not wearing a bra?!”
+$Hikomaro
+“I believe it was because Ma-kun requested it, so you left home without one.”
+$Sakimi
+“Yukina-chan, did you hear that?”
+$Yukina
+“I heard.”
+$Sakimi
+“He says it’s my husband’s fault.”
+$Yukina
+“He’s the lowest of the low.”
+$Sakimi
+“I knew we had to discipline this guy.”
+$Yukina
+“With our two pairs of big breasts.”
+$Sakimi
+“And our two big asses.”
+$Hikomaro
+“P-Please, forgive me already!”
+Patter, patter, patter.
+$Hikomaro
+“Wait, what?”
+It was supposed to be Maro’s house.
+Suddenly, he warped to the Ayase residence?
+$Yokoyama
+“...Hello.”
+$Hikomaro
+“Ngh, if it isn't Yokoyama-san.”
+Ding-dong.
+$Hikomaro
+“... .”
+$Yokoyama
+“It seems someone has arrived.”
+$Hikomaro
+“D-Don’t open it.”
+$Yokoyama
+“Why is that?”
+$Hikomaro
+“I-I’m sure it’s a pursuer...”
+Ding-dong.
+$Yokoyama
+“We can’t just ignore them.”
+$Hikomaro
+“If you open it, you’ll definitely regret it!”
+$Yokoyama
+“You have to give me a proper reason.”
+$Hikomaro
+“The reason is, the reason is...!”
+Tap, tap...
+$Hikomaro
+“Eh?”
+$Sakimi
+“Sensei.”
+$Hikomaro
+“... .”
+$Sakimi
+“O-pen up.”
+$Hikomaro
+“Hiee...”
+$Sakimi
+“O---pen---up---.”
+The voice was like a horror movie.
+It was terrifying beyond belief.
+Slide...
+$Sakimi
+“Heave-ho.”
+$Hikomaro
+“... .”
+$Sakimi
+“Don’t you dare run.”
+$Hikomaro
+“I’m sorry, I’m sorry!”
+$Sakimi
+“I’m going to crush you now.”
+$Yukina
+“With our two pairs of big breasts.”
+$Sakimi
+“And our two big asses.”
+$Yokoyama
+“...And finally, stuffing your nostrils with my balls.”
+$Sakimi
+“I’m gonna pack 'em in tight.”
+$Hikomaro
+“N-No! Not the balls! Anything but that!”
+$Sakimi
+“Yokoyama-san’s balls are huge, you know.”
+$Hikomaro
+“ST---OP I---T---!”
+$Hikomaro
+“Hah...!”
+$Tomoko
+“Kaa, kaa.”
+$Hikomaro
+“...Um.”
+$Tomoko
+“Kaa, kaa, kaa.”
+$Hikomaro
+“...Deep sleep, I see.”
+$Tomoko
+“Kaa, (slurp), kaa, kaa.”
+$Hikomaro
+“...I suppose she got tired from all the excitement.”
+$Tomoko
+“Kaa, kaa, kaa, kaa...”
+$Hikomaro
+“It would be a pity to wake her, so I shall just endure. No matter what happens in a dream, it ends once I wake up...”
+...And then the next morning...
+$Tomoko
+“Morning, Old Man.”
+$Hikomaro
+“Good morning. You’re all smiles this morning.”
+$Tomoko
+“I just can’t help having fun.”
+$Hikomaro
+“That’s a good thing, isn’t it?”
+$Tomoko
+“Do you remember our promise?”
+$Hikomaro
+“There is no way I could forget.”
+$Tomoko
+“I love adults who don’t tell lies.”
+$Hikomaro
+“I live by the motto of honesty, after all.”
+$Tomoko
+“Where are we going today, I wonder?”
+<Hikomaro>:
+Since we went to the zoo yesterday...
+Since we went to the pool yesterday...
+Since we went to the amusement park yesterday...
+Zoo
+Pool
+Amusement Park
+Love Hotel
+$Hikomaro
+“Shall we go to the zoo today?”
+$Hikomaro
+“Shall we go to the pool today?”
+$Hikomaro
+“Shall we go to the amusement park today?”
+$Hikomaro
+“Shall we go to a love hotel today?”
+$Tomoko
+“A love hotel?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“What’s that place?”
+$Hikomaro
+“It’s a social club for adults.”
+$Tomoko
+“A social club for adults?”
+$Hikomaro
+“Just a little joke, ho-ho.”
+$Tomoko
+“Must be nice, must be nice.”
+$Hikomaro
+“Huh?”
+$Tomoko
+“I don’t know what it is, but it sounds interesting.”
+$Hikomaro
+“... .”
+$Tomoko
+“If you’ll take me, there is fine too.”
+$Hikomaro
+“Let’s go when you’ve grown up.”
+$Tomoko
+“I’m already an adult.”
+$Hikomaro
+“You certainly don’t look like one.”
+$Tomoko
+“I want to go, I want to go.”
+$Hikomaro
+“Maybe another time.”
+$Tomoko
+“When is 'another time'?”
+$Hikomaro
+“If Tomoko-chan is a good girl.”
+$Tomoko
+“It’s a promise.”
+$Hikomaro
+“It’s a promise.”
+$Tomoko
+“Now I have one more thing to look forward to!”
+$Hikomaro
+“That’s good, then, ho-ho.”
+$Tomoko
+“So today is somewhere else?”
+$Hikomaro
+“I suppose so...”
+$Tomoko
+“Yay!”
+$Hikomaro
+“Then, let us depart at once.”
+$Tomoko
+“Yay!”
+Tap, tap...
+$Sakimi
+“... .”
+$Sakimi
+“Hey!”
+$Sakimi
+“... .”
+$Sakimi
+“Out at 8:30 AM?”
+$Sakimi
+“... .”
+$Sakimi
+“I thought he’d be here if I came at this time.”
+$Sakimi
+“... .”
+$Sakimi
+“...Did he start a part-time job or something?”
+...And one hour later...
+$Tomoko
+“R-Really?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“But that’s three days in a row.”
+$Hikomaro
+“I think that’s fine once in a while, don't you?”
+$Tomoko
+“Ngh, I feel like I won the lottery!”
+$Hikomaro
+“Might as well play to our heart's content.”
+$Tomoko
+“I’m so glad I relied on you, Old Man.”
+$Hikomaro
+“I’m honored you feel that way.”
+$Tomoko
+“Is it tomorrow yet?”
+$Hikomaro
+“You’re eager, aren't you?”
+$Tomoko
+“I’m already getting excited.”
+$Hikomaro
+“But to play a lot, you have to go to bed early and wake up early.”
+$Tomoko
+“Got it! I’ll sleep as soon as I get back!”
+$Hikomaro
+“Shall we do that?”
+$Tomoko
+“I love sleeping in that room, too. Today, I’m going to sleep soundly on top of you again while listening to your heartbeat.”
+...And that night...
+$Sakimi
+“...Quietly.”
+$Sakimi
+“... .”
+$Sakimi
+“...Found him.”
+Slide...
+$Sakimi
+“Quietly, quietly...”
+$Sakimi
+“...Alright.”
+$Hikomaro
+“Suu-suu, pee-pee.”
+$Sakimi
+“...He’s just sleeping normally in his futon.”
+$Hikomaro
+“Suu-suu, kuu-kuu, pee-pee.”
+$Sakimi
+“Making me worry like that...”
+$Hikomaro
+“Kaa-kaa, suu-suu, guu-guu.”
+$Sakimi
+“Well, at least he’s safe, I guess.”
+$Hikomaro
+“Mmm, munya... haan...”
+$Sakimi
+“C-Crap!”
+Tonight, Sakimi was on a covert mission.
+Thinking Maro might wake up...
+She dropped to the floor with blinding speed.
+$Hikomaro
+“... .”
+$Sakimi
+“... .”
+$Hikomaro
+“Kuu-kuu, kaa-kaa, kuu-kuu.”
+$Sakimi
+“...He’s not waking up?”
+$Hikomaro
+“Suu-suu, guu-guu, suu-suu.”
+$Sakimi
+“Don’t scare me like that, geez.”
+Saying that, Sakimi began to crawl forward.
+Since she was already here, she couldn't help but get closer.
+She peered at Maro’s face from up close.
+$Sakimi
+“...Still got that cute sleeping face, huh.”
+$Hikomaro
+“Supee, supee.”
+$Sakimi
+“Did you really start a new job?”
+$Hikomaro
+“Guu-guu, suu-suu.”
+$Sakimi
+“Is that why you’re so exhausted?”
+$Hikomaro
+“Guu-guu, guu-guu, suu-suu.”
+$Sakimi
+“Even so, you should at least reply to my messages.”
+$Hikomaro
+“Guu-guu, supee, supee.”
+$Sakimi
+“You’re not... doing anything weird, are you?”
+Sakimi fixed the tucked towel-blanket.
+She muttered to herself with a sigh.
+$Sakimi
+“...I guess I am a little worried.”
+The Sensei’s face was illuminated by the moonlight.
+As she gazed at it intently...
+She felt an impulse to wake him up.
+But she endured.
+She had no choice but to head back quietly tonight.
+But she just couldn't stop worrying about Maro...
+...And the next morning...
+$Tomoko
+“Morning, Old Man!”
+$Hikomaro
+“Good morning.”
+$Tomoko
+“The morning I’ve been waiting for is finally here!”
+$Hikomaro
+“The weather is nice, a perfect morning.”
+$Tomoko
+“Are we really heading out today too?”
+$Hikomaro
+“Of course.”
+$Tomoko
+“I’m so happy.”
+$Hikomaro
+“Are you ready to depart?”
+$Tomoko
+“I’m ready whenever!”
+<Hikomaro>:
+Since we went to the zoo yesterday...
+Since we went to the pool yesterday...
+Since we went to the amusement park yesterday...
+$Tomoko
+“What about today? What about today?”
+Zoo
+Pool
+Amusement Park
+Love Hotel
+$Hikomaro
+“Let’s go to the zoo today.”
+$Hikomaro
+“Let’s go to the pool today.”
+$Hikomaro
+“Let’s go to the amusement park today.”
+$Hikomaro
+“Let’s go to a love hotel today.”
+$Tomoko
+“A love hotel?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“What’s that place?”
+$Hikomaro
+“It’s a social club for adults.”
+$Tomoko
+“A social club for adults?”
+$Hikomaro
+“Just a little joke, ho-ho.”
+$Tomoko
+“Must be nice, must be nice.”
+$Hikomaro
+“Huh?”
+$Tomoko
+“I don’t know what it is, but it sounds interesting.”
+$Hikomaro
+“... .”
+$Tomoko
+“If you’ll take me, there is fine too.”
+$Hikomaro
+“Let’s go when you’ve grown up.”
+$Tomoko
+“I’m already an adult.”
+$Hikomaro
+“You certainly don’t look like one.”
+$Tomoko
+“I want to go, I want to go.”
+$Hikomaro
+“Maybe another time.”
+$Tomoko
+“When is 'another time'?”
+$Hikomaro
+“If Tomoko-chan is a good girl.”
+$Tomoko
+“It’s a promise.”
+$Hikomaro
+“It’s a promise.”
+$Tomoko
+“Now I have one more thing to look forward to!”
+$Hikomaro
+“That’s good, then, ho-ho.”
+$Tomoko
+“So today is somewhere else?”
+$Hikomaro
+“I suppose so...”
+$Tomoko
+“Yay!”
+$Hikomaro
+“Then, let us depart at once.”
+$Tomoko
+“Full speed ahead!”
+$Sakimi
+“... .”
+$Sakimi
+“...Is he talking to himself?”
+$Sakimi
+“... .”
+$Sakimi
+“...But that was definitely conversational.”
+$Sakimi
+“... .”
+$Sakimi
+“...Something is extremely fishy here.”
+...And one hour later...
+$Tomoko
+“I’m fine now.”
+$Hikomaro
+“There is no need to hold back.”
+$Tomoko
+“Old Man.”
+$Hikomaro
+“What is it?”
+$Tomoko
+“Thank you for keeping your promise.”
+$Hikomaro
+“It’s only natural for an adult.”
+$Tomoko
+“I’m so glad I met you, Old Man. But I can’t just rely on you forever, so I’m going to try my best on my own from now on.”
+$Hikomaro
+“...Eh?”
+$Tomoko
+“I’ll treasure this ticket.”
+$Hikomaro
+“W-Wait a moment.”
+$Tomoko
+“Goodbye, Old Man... thank you, really.”
+$Hikomaro
+“... .”
+$Hikomaro
+“...So... suddenly...”
+$Sakimi
+“Hey, you.”
+$Hikomaro
+“...Sob.”
+$Sakimi
+“Are you crying?”
+$Hikomaro
+“... .”
+$Sakimi
+“Ngh... a lot happened with that trip and all. It must have been hard on you.”
+$Hikomaro
+“...She left.”
+$Sakimi
+“Me and Ma-kun aren’t going anywhere.”
+$Hikomaro
+“...I’m all alone again.”
+$Sakimi
+“I-I told you, that’s not true.”
+Sakimi rushed over to Maro.
+She supported his body as it seemed ready to collapse.
+$Sakimi
+“You don’t have to worry about a thing, Sensei.”
+$Hikomaro
+“...She vanished all of a sudden.”
+$Sakimi
+“Come live at my place for a while, okay?”
+$Hikomaro
+“...She’s gone.”
+$Sakimi
+“Ngh, I get it, I get it.”
+While stroking his head, she pulled him gently into her arms.
+She wrapped him in her warmth, breasts and all.
+She cherished the sobbing Maro with overflowing affection.
+It didn't matter who saw them.
+She didn't care if people looked with curiosity.
+Sakimi loved the Sensei many times more than any of that.
+She was feeling the depth of her own feelings once again.
+$Sakimi
+“Let’s go home together.”
+$Hikomaro
+“...I shall do that.”
+Maro nodded obediently.
+That sight was too much for Sakimi.
+It made her want to hug him even tighter.
+I’m the one who will take care of this person.
+I’ll make lots of delicious meals.
+I’ll take him to his favorite cat cafe.
+I’m definitely the one who will make Sensei happy...
+$Tomoko
+“There’s still one promise left!”
+$Hikomaro
+“Huh?”
+$Tomoko
+“The love hotel!”
+$Hikomaro
+“...You remembered that?”
+$Tomoko
+“The social club for adults.”
+$Hikomaro
+“Tomoko-chan has been a good girl, after all.”
+$Tomoko
+“I want to go, I want to go.”
+$Hikomaro
+“... .”
+$Tomoko
+“I bet it’s a fun place.”
+$Hikomaro
+“Is there anywhere else you want to go besides a love hotel?”
+$Tomoko
+“All my other wishes have already come true!”
+$Hikomaro
+“How about the ocean or the mountains?”
+$Tomoko
+“I want the love hotel.”
+$Hikomaro
+“The scenery is beautiful at the ocean and mountains, you know.”
+$Tomoko
+“I want the love hotel!”
+$Hikomaro
+“...This is a problem.”
+$Sakimi
+“Hey!”
+$Hikomaro
+“Wait, what?”
+$Sakimi
+“I can’t just stand by and watch this anymore.”
+$Hikomaro
+“Huh?”
+$Sakimi
+“Talking to yourself, laughing, looking troubled, sighing.”
+$Hikomaro
+“...Why is the Ma'am here?”
+$Sakimi
+“I’ve been with you since this morning!”
+$Hikomaro
+“The whole time?”
+$Sakimi
+“I saw everything!”
+$Hikomaro
+“By any chance, were you following me?”
+$Sakimi
+“Ngh... if you put it bluntly, yes.”
+$Hikomaro
+“And if you put it nicely?”
+$Sakimi
+“You were acting strange, so I was really worried.”
+$Hikomaro
+“...I see.”
+$Sakimi
+“Leave the rest to me!”
+$Hikomaro
+“Leave what to you?”
+$Sakimi
+“Starting today, you’re staying at my place. I’ll watch over you until you’ve settled down, and if necessary, we’ll go to counseling together...”
+$Hikomaro
+“Please, calm down for a moment.”
+$Sakimi
+“A lot happened with that trip and all. It was hard on you, wasn’t it?”
+$Hikomaro
+“About as much as it was for everyone else.”
+$Sakimi
+“Why didn’t you talk to me sooner?!”
+$Hikomaro
+“It was all so sudden, I couldn’t find the opportunity to speak.”
+$Sakimi
+“Anyway, don’t try to shoulder it all alone.”
+$Hikomaro
+“But this is something the Ma'am is not good at.”
+$Sakimi
+“Something I’m not good at?”
+$Hikomaro
+“Most likely.”
+$Sakimi
+“I love you, Sensei!”
+$Hikomaro
+“I did not mean it in that sense.”
+$Sakimi
+“There’s no way I’d start being 'not good' at you now! I can’t say it loudly, but even having had sex once...”
+$Hikomaro
+“... .”
+$Sakimi
+“Ngh, don’t just stand there looking gormless, say something!”
+$Hikomaro
+“Um.”
+$Sakimi
+“What?!”
+$Hikomaro
+“Someone who is married should not say such things, apparently.”
+$Sakimi
+“Who says?!”
+$Hikomaro
+“Someone other than myself.”
+$Sakimi
+“... .”
+$Hikomaro
+“I knew you’d make that face.”
+$Sakimi
+“W-Well, of course I would!”
+$Hikomaro
+“By the way, what about work?”
+$Sakimi
+“Ngh... today is a self-imposed day off.”
+$Hikomaro
+“Then that’s perfect. There’s still some time before sunset, so why don’t you come to my place now?”
+$Sakimi
+“What are we going to do there?”
+$Hikomaro
+“I shall explain the situation on the train. You can decide whether to stop by my place after hearing the story when we arrive at the station.”
+$Sakimi
+“Either way, we’re going back to Nakanomachi, right?”
+$Hikomaro
+“We are.”
+$Sakimi
+“That alone is a bit of a relief.”
+$Hikomaro
+“Then, let’s head to the station.”
+Maro took the lead.
+Sakimi started walking a little behind him.
+She lined up on his right side, as was usual.
+$Hikomaro
+“Not that side, please.”
+$Sakimi
+“Eh?”
+$Hikomaro
+“Please take the other side, Ma'am.”
+$Sakimi
+“Wh-What are you talking about?”
+$Hikomaro
+“I shall explain everything, including the reasons for this, on the train.”
+$Sakimi
+“... .”
+She had an incredibly suspicious look on her face.
+Yet, perhaps she was starting to sense something.
+She was beginning to feel a faint sense of dread.
+Whether she believes it or not is up to her.
+Of course, Maro shall explain everything...
+Wwhile trying his best not to frighten her too much...

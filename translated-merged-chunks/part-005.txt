@@ -1,0 +1,526 @@
+--------------------
+sento02yoko
+********************
+Which pig will you attack?
+Pig Man 3
+Pig Man 4
+Select again
+*Thwack!*
+$Pig Man 3
+“Ouch!”
+Yokoyama punched Pig Man 3!
+Dealt 15 damage to Pig Man 3!
+Pig Man 3’s remaining stamina is
+.
+Pig Man 3 has been incapacitated!
+*Thwack!*
+$Pig Man 4
+“Ouch!”
+Yokoyama punched Pig Man 4!
+Dealt 15 damage to Pig Man 4!
+Pig Man 4’s remaining stamina is
+.
+Pig Man 4 has been incapacitated!
+--------------------
+sento02yuki
+********************
+Which pig will you attack?
+Pig Man 3
+Pig Man 4
+Select again
+$Yukina
+“H-Hah!”
+*Slap.*
+$Pig Man 3
+“Huh?”
+Yukina slapped Pig Man 3.
+But she could only deal 5 damage.
+Pig Man 3’s remaining stamina is
+.
+Pig Man 3 has been incapacitated!
+$Yukina
+“H-Hah!”
+*Slap.*
+$Pig Man 4
+“Hehe.”
+Yukina slapped Pig Man 4.
+But she could only deal 5 damage.
+Pig Man 4’s remaining stamina is
+.
+Pig Man 4 has been incapacitated!
+--------------------
+sento03
+********************
+$Yokoyama
+“W-We won...”
+$Sakimi
+“Haah... haah...”
+$Hikomaro
+“A-Are you alright?”
+$Sakimi
+“I’m... hanging in there...”
+$Hikomaro
+“You did well to endure those sexual harassment attacks.”
+$Hikomaro
+“Ugh, everyone is battered and bruised.”
+$Sakimi
+“Damn bastards, touching us however they pleased...”
+$Chinnen
+“...Such wonderful teamwork.”
+$Sakimi
+“U-Uwah...”
+$Chinnen
+“You’re quite capable, aren't you?”
+$Sakimi
+“I-Is this head clerk a bad guy too?”
+$Hikomaro
+“Ngh, let's take him down all at once.”
+$Yokoyama
+“...No.”
+Yokoyama-san extended his arm.
+Stopping Maro, who was about to lunge forward.
+$Yokoyama
+“Please, leave this to me.”
+Having said that, Yokoyama-san...
+Took a step forward.
+And stood tall, directly in front of Chinnen.
+$Yokoyama
+“Greetings.”
+First, he gave a polite nod.
+Chinnen’s eyebrow twitched.
+But he offered no greeting in return.
+Yet Yokoyama-san remained unfazed.
+He stared fixedly at his opponent without hesitation.
+A friendly smile even played on his lips.
+$Yokoyama
+“You seem like a sensible person.”
+$Chinnen
+“...What makes you think that?”
+$Yokoyama
+“There is refinement in your speech.”
+$Chinnen
+“...I do happen to despise vulgarity.”
+$Yokoyama
+“And you’re against violence as well, I presume?”
+$Chinnen
+“Brute force is no match for wisdom and experience.”
+$Yokoyama
+“As expected.”
+$Chinnen
+“Compliments won’t get you anything.”
+$Yokoyama
+“...And you aren't hiding your face with a mask, either.”
+$Chinnen
+“Do not lump me in with those recruited commoners.”
+$Yokoyama
+“In other words, you take responsibility for your own actions.”
+$Chinnen
+“That is only natural.”
+$Yokoyama
+“I take it you’re someone of high standing.”
+$Chinnen
+“...”
+$Yokoyama
+“Could you be the representative for this matter?”
+$Chinnen
+“...Let’s just say I am an executive.”
+$Yokoyama
+“And just what kind of executive would that be?”
+$Chinnen
+“I am not such a fool as to answer simply because I was asked.”
+$Yokoyama
+“Come now, surely you can tell me.”
+$Chinnen
+“Impossible.”
+$Yokoyama
+“Do you need someone's permission?”
+$Chinnen
+“...”
+$Yokoyama
+“Can you not do anything of your own will?”
+$Chinnen
+“Who said such a thing?”
+$Yokoyama
+“Then, please.”
+$Chinnen
+“We manage a club.”
+$Yokoyama
+“What kind of club?”
+$Chinnen
+“Regrettably, that is as far as I go.”
+$Yokoyama
+“I see...”
+$Chinnen
+“...What’s with that smirk?”
+$Yokoyama
+“I was just thinking you’re quite the executive.”
+$Chinnen
+“...”
+$Yokoyama
+“It seems I overestimated you.”
+$Chinnen
+“It’s a secret club specializing in married women.”
+$Yokoyama
+“...Impressive.”
+$Chinnen
+“Did you truly think I couldn’t answer?”
+$Yokoyama
+“I was belittling you, Mr. Executive.”
+$Chinnen
+“I’ll thank you not to underestimate me.”
+$Yokoyama
+“...Since it’s a secret club, it must be membership-based?”
+$Chinnen
+“That goes without saying.”
+$Yokoyama
+“And what kind of benefits do those members receive?”
+$Chinnen
+“What need is there to explain that far?”
+$Yokoyama
+“Aha...”
+$Chinnen
+“...That smirk again?”
+$Yokoyama
+“I’ve seen your limit.”
+$Chinnen
+“My limit?”
+$Yokoyama
+“This is as far as your bluffing goes.”
+$Chinnen
+“Are you by chance making a fool of me?”
+$Yokoyama
+“Hardly.”
+$Chinnen
+“Ngh, then stop that faint smile!”
+$Yokoyama
+“I consider a smile to be a sign of friendship.”
+$Chinnen
+“...That is not that kind of smile.”
+$Yokoyama
+“I believe that is a problem with the receiver.”
+$Chinnen
+“...”
+$Yokoyama
+“Do you happen to have some sort of complex?”
+$Chinnen
+“Ngh, enough of this nonsense. You two men will leave this inn immediately and breathe not a word of anything that has transpired here...”
+$Yokoyama
+“You’re telling us to abandon the two women?”
+$Chinnen
+“Not abandon, but entrust.”
+$Yokoyama
+“And just how much money would we receive for that?”
+$Yukina
+“Eh...”
+$Sakimi
+“Wait...”
+$Hikomaro
+“...”
+This time, Maro extended his arm.
+Restraining Mrs. Ayase as she tried to step forward.
+$Yokoyama
+“I believe such things depend on the amount.”
+$Chinnen
+“That is not something I can decide on my own.”
+$Yokoyama
+“Even though you’re a high-ranking executive?”
+$Chinnen
+“Money matters are different.”
+$Yokoyama
+“Isn't it because of money matters that one is an executive?”
+$Chinnen
+“A difference in perspective, then.”
+$Yokoyama
+“Could it be you aren't actually an executive?”
+$Chinnen
+“H-How rude.”
+$Yokoyama
+“Are you really an executive?”
+$Chinnen
+“I said so, didn't I?!”
+$Yokoyama
+“Heh...”
+$Chinnen
+“Ngh, that smirk is truly insulting!”
+$Yokoyama
+“...So you really were just a hollow shell after all.”
+$Chinnen
+“Wh-what do you mean, ‘after all’?!”
+$Yokoyama
+“An invisible man with the weight of air, without a shred of responsibility for his own actions.”
+$Chinnen
+“Ugh...”
+$Yokoyama
+“In other words, you are...”
+Yokoyama-san took another step forward.
+Bringing his face so close their noses almost touched.
+$Yokoyama
+“A wretched puppet, no different from those masked fools!”
+$Chinnen
+“...”
+$Yokoyama
+“A chicken-hearted coward hiding behind borrowed authority, unable to do a single thing on his own!”
+$Chinnen
+“Guhah!”
+A critical hit to the prideful Chinnen!
+Chinnen took 100 damage.
+The blood drained from Chinnen’s face.
+He collapsed like a withered, rotting tree.
+$Chinnen
+“I-I’m not a chicken-hearted coward.”
+$Yokoyama
+“...We have no intention of leaving the women behind and departing.”
+$Chinnen
+“Dammit all! Y-You’ll remember thiiiis!”
+Chinnen’s mental strength has reached 0!
+Chinnen fled in total disgrace!
+$Yokoyama
+“Heh...”
+$Yukina
+“Th-that was amazing.”
+$Yokoyama
+“I’ve managed to gather a good deal of information.”
+Yokoyama-san did his best!
+Yokoyama-san’s level has increased!
+Yokoyama-san learned “Silver Tongue Attack”!
+$Yokoyama
+“Let us hurry.”
+$Sakimi
+“Y-Yeah.”
+$Yokoyama
+“It’s a bit of a detour, but if we go around this way, we should be able to get back to the room.”
+$Yukina
+“Ngh, understood.”
+$Hikomaro
+“...”
+$Sakimi
+“Let’s go.”
+$Hikomaro
+“Right.”
+$Sakimi
+“...What’s wrong?”
+$Hikomaro
+“I’m feeling a bit jealous.”
+$Sakimi
+“Jealous?”
+$Hikomaro
+“Yokoyama-san is quite capable, isn't he.”
+$Sakimi
+“He’s very reliable as an ally.”
+$Hikomaro
+“Compared to him, I’m...”
+$Sakimi
+“You were working hard too, Sensei.”
+$Hikomaro
+“...Was I, though?”
+$Sakimi
+“I’m watching you properly.”
+$Hikomaro
+“I feel somewhat useless.”
+$Sakimi
+“It’s fine, let’s go.”
+$Hikomaro
+“...”
+$Sakimi
+“The four of us are a team, aren't we?”
+She patted Maro’s shoulder.
+And just like that, she gently pulled him by the hand.
+Mrs. Ayase’s hand was always warm.
+It never failed to cheer Maro up.
+--------------------
+sento04
+********************
+$Yokoyama
+“...”
+$Yukina
+“This place is...”
+$Yokoyama
+“...The kitchen, it seems.”
+Having bypassed the blockade.
+They had continued straight down the hallway.
+At the end was a short staircase of about three steps.
+Going down them led to a deserted kitchen.
+Perhaps because the floor was concrete.
+The air was a little chilly.
+And it carried a somewhat eerie atmosphere.
+$Sakimi
+“...There weren't any other paths.”
+$Yokoyama
+“We have no choice but to go through here.”
+$Hikomaro
+“...I feel like we’re being lured, somehow.”
+$Cook 1
+“...”
+$Yokoyama
+“U-Uwah...”
+Cook 1 appeared!
+Cook 1 blocked the way of the four!
+$Hikomaro
+“You're in the way.”
+$Cook 1
+“...”
+$Yokoyama
+“Ngh, it looks like we’ll have to get him to move.”
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Select again
+Normal Attack
+Silver Tongue Attack
+Select again
+$Yokoyama
+“Shall we have a little chat?”
+$Yokoyama
+“Sh-shall we have a little chat?”
+$Cook 1
+“...”
+Totally ignored.
+Silver Tongue Attack is ineffective against Cook 1.
+Normal Attack
+Select again
+Normal Attack
+Select again
+Cook 1’s counterattack!
+*Smooch!*
+$Yukina
+“!?”
+Cook 1 has finally stolen Yukina’s lips!
+Everyone is horrified by the wretched sight!
+$Yokoyama
+“How... how could this be...”
+Yokoyama’s knees are shaking so much he can't stand!
+Yokoyama has completely lost his will to fight!
+However, Cook 1 is focused on the kiss!
+Cook 1’s lips are stuck on like a leech!
+$Yukina
+“Ngh, it smells like sewage in here...!”
+However, Cook 1 doesn't care!
+Cook 1 is devouring Yukina’s lips!
+$Yukina
+“Nng... kuchu... it stinks... nnh... it’s filthy...!”
+However, Cook 1 doesn't care!
+Cook 1 has started licking Yukina’s lips all over!
+$Yukina
+“Blegh... nngh... I-I’m going to throw up.”
+$Cook 1
+“I’ve decided.”
+Cook 1 licked his lips!
+And muttered to himself in a low voice!
+$Cook 1
+“You’re the one I’m going to kiss.”
+$Yukina
+“Noooooo!”
+Cook 1’s counterattack!
+Cook 1 is trying to steal Yukina’s lips!
+$Yukina
+“No, stop!”
+$Yokoyama
+“Ngh, get away from her!”
+But Cook 1 won't let go!
+Yukina, having been courted, has been incapacitated!
+But Cook 1 won't flinch!
+Cook 1 is trying to forcibly steal Yukina’s lips!
+$Yukina
+“N-Nooo!”
+But Cook 1 won't flinch!
+Cook 1’s lips are drawing closer and closer to Yukina’s!
+$Yukina
+“No, stop!”
+$Cook 1
+“...”
+Cook 1 offers no counterattack.
+He is staring fixedly at Yukina.
+$Yukina
+“M-Me...?”
+$Cook 1
+“...”
+Cook 1 offers no counterattack.
+He is staring fixedly at Yukina.
+$Cook 1
+“...”
+Cook 1 offers no counterattack.
+He is staring fixedly at Yukina.
+$Sakimi
+“W-What’s with this guy?”
+$Cook 1
+“...”
+Cook 1 smiled happily.
+He is staring fixedly at Yukina.
+$Cook 1
+“...”
+Cook 1 smiled happily.
+He is staring fixedly at Yukina.
+$Sakimi
+“W-What’s with this guy?”
+Who will attack?
+--------------------
+sento04maro
+********************
+Cook 1
+Select again
+$Hikomaro
+“What do you think you’re doing?!”
+$Hikomaro
+“It’s disgusting even from a man’s perspective!”
+$Hikomaro
+“I won't forgive you!”
+$Hikomaro
+“C-Come on, get away from her!”
+*Crack!*
+Maro unleashed a Courtier Punch on Cook 1!
+Dealt 25 damage to Cook 1!
+Cook 1’s remaining stamina is
+.
+Cook 1 has been incapacitated!
+--------------------
+sento04saki
+********************
+Cook 1
+Select again
+$Sakimi
+“Y-You perverted bastard!”
+$Sakimi
+“I told you to get away from her!”
+$Sakimi
+“Those lips don't belong to you!”
+$Sakimi
+“Y-You’d better stop this...!”
+*Crack!*
+Sakimi punched Cook 1!
+Dealt 25 damage to Cook 1!
+Cook 1’s remaining stamina is
+.
+Cook 1 has been incapacitated!
+--------------------
+sento04yoko
+********************
+Cook 1
+Select again
+$Yokoyama
+“I-I won't forgive you!”
+$Yokoyama
+“You’ll regret it if you don't let go!”
+*Wham!*
+Yokoyama punched Cook 1!
+Dealt 20 damage to Cook 1!
+Cook 1’s remaining stamina is
+.
+Cook 1 has been incapacitated!
+--------------------
+sento04yuki
+********************
+Cook 1
+Select again
+$Yukina
+“H-Hah!”
+*Slap.*
+$Cook 1
+“...Hehe.”
+Yukina slapped Cook 1.
+But she could only deal 5 damage.
+Cook 1’s remaining stamina is
+.
+Cook 1 has been incapacitated!

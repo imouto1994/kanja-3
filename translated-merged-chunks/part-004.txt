@@ -1,0 +1,889 @@
+--------------------
+end26
+********************
+Thump, thump...
+$Sakimi
+“Hey there.”
+$Sakimi
+“...”
+$Sakimi
+“I brought you a lunch box!”
+$Sakimi
+“...”
+$Sakimi
+“...Are they in the restroom?”
+Rattle, rattle.
+$Sakimi
+“Heave... ho.”
+$Sakimi
+“...Hm?”
+$Sakimi
+“...”
+$Sakimi
+“...What is this?”
+$Sakimi
+“...”
+$Sakimi
+“...What’s the meaning of this?”
+$Mother
+“Tomoko~!”
+$Tomoko
+“Eh?”
+$Mother
+“How long do you plan on sleeping?!”
+$Tomoko
+“Ngh... Mother?”
+$Mother
+“I don't remember raising such a lazy person!”
+$Tomoko
+“Is this... my home?”
+$Mother
+“What are you talking about? You’re making no sense.”
+$Tomoko
+“...”
+$Mother
+“Hurry up and fold your futon!”
+$Tomoko
+“M-Mother~!”
+*Hugging.*
+$Mother
+“W-What’s with you... hugging me all of a sudden?!”
+$Tomoko
+“Mother, Mother, Mother!”
+$Mother
+“Ngh, you aren't at an age to be acting like a baby anymore, are you?”
+$Tomoko
+“Y-Yeah... but... but...”
+$Mother
+“...You’re helpless, aren't you?”
+$Tomoko
+“Ngh, I'm sorry for being so selfish until now.”
+$Mother
+“I get it already, so go eat your breakfast.”
+Pat, pat, pat.
+$Tomoko
+“Ngh, I’ll be a good daughter and take care of you.”
+$Mother
+“Taking care of your parents is something you only need to do when you have free time.”
+$Tomoko
+“W-Why?”
+$Mother
+“Whether we’re blood-related or not, Tomoko’s life belongs to Tomoko.”
+$Tomoko
+“...”
+$Mother
+“You only need to look forward and live your life. When you decide you want to become something, I’ll be there to support you.”
+Thump, thump...
+$Sakimi
+“Hey there.”
+$Sakimi
+“...”
+Rattle, rattle.
+$Sakimi
+“Heave... ho.”
+$Sakimi
+“...”
+$Sakimi
+“...Good grief.”
+$Sakimi
+“...It’s already been a week.”
+$Sakimi
+“...Sensei, where did you goooo?”
+...
+Even if they are no longer by your side.
+There are people who remain in your heart forever.
+Without that person, things feel somewhat incomplete.
+You can’t feel like everything has truly ended.
+However, no matter where you look, there is no replacement.
+In the end, you find yourself completely at a loss.
+Nevertheless, as the months and days pass.
+Somehow, you get used to their absence.
+Even if you happen to suddenly remember them.
+You can live your life normally without losing your smile.
+Being aware of how you have aged.
+You feel nostalgic for the past at unexpected moments.
+And it is as if that person from your memories.
+Exists only within that nostalgia.
+But no one forgets.
+Back when they were young.
+The things they were so obsessed with that they forgot everything else.
+And because they continue to live earnestly afterward.
+While continuing to take pride in the fact they met.
+A time will come when they can meet once again...
+Thump, thump...
+$Sakimi
+“Hey there.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“It’s been a while!”
+Rattle, rattle.
+$Sakimi
+“Heave... ho.”
+$Hikomaro
+“It truly has been a long time.”
+$Sakimi
+“You haven't changed at all, Sensei.”
+$Hikomaro
+“And you are just as you were before, Mrs. Ayase.”
+$Sakimi
+“Anyway, I've worked hard.”
+$Hikomaro
+“Thank you for your hard work over such a long time.”
+$Sakimi
+“Umm...”
+$Hikomaro
+“?”
+*Stick.*
+$Sakimi
+“We have to start from here, right?”
+$Hikomaro
+“Did you go out of your way to bring that?”
+$Sakimi
+“It’s not your room without this, Sensei.”
+$Hikomaro
+“Everything is so nostalgic.”
+$Sakimi
+“...Well, you were the one who suddenly disappeared.”
+$Hikomaro
+“I am truly sorry about that time.”
+$Sakimi
+“A lot has happened since then, you know.”
+$Hikomaro
+“I was cheering for you from the shadows.”
+$Sakimi
+“Were you watching over me?”
+$Hikomaro
+“Whenever you remembered me.”
+$Sakimi
+“...I see.”
+$Hikomaro
+“Is it already time for your husband’s place?”
+$Sakimi
+“He came here before I did.”
+$Hikomaro
+“Oh my.”
+$Sakimi
+“But from now on, we’ll be together forever, right?”
+$Hikomaro
+“We will be, won’t we.”
+$Sakimi
+“Will you be called upon again?”
+$Hikomaro
+“Since there’s an order to it, it probably won’t happen for a while.”
+$Sakimi
+“Then, today we’ll celebrate our reunion.”
+$Hikomaro
+“Shall we have a celebratory drink somewhere?”
+$Sakimi
+“First a kiss, and then a blowjob.”
+$Hikomaro
+“...Did you come here carrying all those worldly desires?”
+$Sakimi
+“I told you, I’m joking.”
+$Hikomaro
+“You had quite a serious look in your eyes.”
+$Sakimi
+“I just got happy seeing a youthful body after so long.”
+$Hikomaro
+“It seems everyone starts off that way.”
+$Sakimi
+“But today I’ll be well-behaved and stick to just the banquet.”
+$Hikomaro
+“In that case, shall we invite Yokoyama-san as well?”
+$Sakimi
+“Then let's all gather at the Ayase house! We’ll have a noisy time just like in the old days and indulge in all the nostalgia we want!”
+--------------------
+gameover
+********************
+...GAME OVER...
+--------------------
+marohp
+********************
+Maro’s remaining stamina is
+.
+--------------------
+sakihp
+********************
+Sakimi’s remaining stamina is
+.
+--------------------
+sento01
+********************
+Pig Man 1 appeared!
+Pig Man 2 appeared!
+Pig Man 1 lunges at Maro!
+*Thwack.*
+$Hikomaro
+“Dowaah?!”
+A critical hit on the careless Maro!
+Maro took 100 damage!
+Maro has been incapacitated!
+Who will attack?
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Call Sakimi and Yukina
+Select again
+$Yokoyama
+“Ngh, Mrs. Ayase! Yukina-san!”
+$Sakimi
+“...I knew I heard something, didn't I?”
+$Yukina
+“I-It sounds like someone is shouting loudly...”
+$Sakimi
+“Shall we go take a look?”
+$Yukina
+“I’ll go with you.”
+$Pig Man 1
+“Asking women for help...”
+$Pig Man 2
+“Talk about digging your own grave.”
+$Yokoyama
+“Ngh, you're dead wrong if you think they’re just frail women.”
+It was then.
+The frosted glass sliding door opened.
+The two of them, wearing only bath towels, entered the changing room.
+$Yukina
+“Kyaa?!”
+$Sakimi
+“W-What are you doing?!”
+$Yokoyama
+“Ngh, Sensei has been taken down!”
+$Sakimi
+“Eh...”
+Maro was collapsed on the floor.
+Seeing that sight, the blood drained from Sakimi’s face.
+She took on a terrifying expression that would make even a demon flee.
+$Sakimi
+“Y-You bastards!”
+Sakimi joins the battle.
+Cracking her knuckles.
+She intimidates the Pig Men.
+$Yukina
+“Ngh, Sensei...”
+Yukina wasn't just standing there frozen either.
+Even though she was someone who had never been in a fight.
+She tightly clenched her lily-white fingers.
+$Yukina
+“I-I’ll help too!”
+Who will attack?
+Normal Attack
+Select again
+Normal Attack
+Select again
+$Pig Man 1
+“Y-You...!”
+*Wham!*
+$Yokoyama
+“Ugh...”
+Pig Man 1 punched Yokoyama!
+Yokoyama took 20 damage!
+Yokoyama has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 2
+“Die!”
+*Thud!*
+$Yokoyama
+“Ugh...”
+Pig Man 2 kicked Yokoyama!
+Yokoyama took 25 damage!
+Yokoyama has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 1
+“Ngh...”
+*Grope, grope.*
+$Sakimi
+“Wawaah!”
+Pig Man 1 touched Sakimi’s breasts!
+Sakimi took 20 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 2
+“Hehe...”
+*Grope, grope.*
+$Sakimi
+“H-How dare you do something so perverted!”
+Pig Man 1 stroked Sakimi’s butt!
+Sakimi took 20 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 1
+“Excuse me.”
+*Grope, grope.*
+$Yukina
+“Kyaa!”
+Pig Man 1 touched Yukina’s breasts!
+Yukina took 25 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 2
+“Hehe...”
+*Grope, grope.*
+$Yukina
+“S-Stop it!”
+Pig Man 1 stroked Yukina’s butt!
+Yukina took 25 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 1
+“...Now it’s just the two women.”
+The Pig Man’s voice became menacing.
+Urging Sakimi and Yukina to wave the white flag.
+$Sakimi
+“Ngh, the two of us are more than enough for the likes of you.”
+Sakimi thrust out her tightly clenched fist.
+Aiming it right at the Pig Man’s nose.
+$Pig Man 2
+“...Now it’s just the two women, isn't it.”
+The Pig Man was drooling.
+Looking at Sakimi and Yukina as if licking their bodies with his eyes.
+$Sakimi
+“Ngh, the two of us are more than enough for the likes of you.”
+Sakimi thrust out her fist.
+Aiming it right at the Pig Man’s nose.
+$Yokoyama
+“Uguu...”
+$Yukina
+“A-Are you alright?”
+Yukina rushed to Yokoyama-san’s side.
+And hugged him tightly from behind.
+$Yukina
+“Ngh, don’t give up.”
+$Yokoyama
+“O-Of course not.”
+Healed by Yukina.
+Yokoyama’s stamina was restored by 30.
+Yokoyama’s remaining stamina is
+.
+$Yokoyama
+“Uguu...”
+$Yukina
+“P-Please leave it to me.”
+Yukina tries to rush to Yokoyama-san’s side again.
+However, a Pig Man blocks her path.
+She cannot heal Yokoyama-san.
+$Sakimi
+“M-My heart is about to break.”
+$Yukina
+“Ngh... are you okay?”
+Yukina rushed to Sakimi’s side.
+And tightly gripped her hands to encourage her.
+$Yukina
+“Ngh, we have to protect Sensei.”
+$Sakimi
+“I-I know that.”
+Encouraged by Yukina.
+Sakimi’s stamina was restored by 30.
+Sakimi’s remaining stamina is
+.
+$Sakimi
+“Ugh...”
+$Yukina
+“M-Mrs. Ayase?!”
+Yukina tries to rush to Sakimi’s side again.
+However, a Pig Man blocks her path.
+She cannot encourage Sakimi.
+Who will attack?
+--------------------
+sento01saki
+********************
+Which Pig will you attack?
+Pig Man 1
+Pig Man 2
+Select again
+*Crack!*
+$Pig Man 1
+“Guhah!”
+Sakimi punched Pig Man 1!
+Dealt 25 damage to Pig Man 1!
+Pig Man 1’s remaining stamina is
+.
+Pig Man 1 has been incapacitated!
+*Crack!*
+$Pig Man 2
+“Guhah!”
+Sakimi punched Pig Man 2!
+Dealt 25 damage to Pig Man 2!
+Pig Man 2’s remaining stamina is
+.
+Pig Man 2 has been incapacitated!
+--------------------
+sento01yoko
+********************
+Which Pig will you attack?
+Pig Man 1
+Pig Man 2
+Select again
+*Thud!*
+$Pig Man 1
+“Ouch!”
+Yokoyama punched Pig Man 1!
+Dealt 15 damage to Pig Man 1!
+Pig Man 1’s remaining stamina is
+.
+Pig Man 1 has been incapacitated!
+*Thud!*
+$Pig Man 2
+“Ouch!”
+Yokoyama punched Pig Man 2!
+Dealt 15 damage to Pig Man 2!
+Pig Man 2’s remaining stamina is
+.
+Pig Man 2 has been incapacitated!
+--------------------
+sento01yuki
+********************
+Which Pig will you attack?
+Pig Man 1
+Pig Man 2
+Select again
+$Yukina
+“H-Hah!”
+*Slap.*
+$Pig Man 1
+“Huh?”
+Sakimi slapped Pig Man 1.
+But only dealt 5 damage.
+Pig Man 1’s remaining stamina is
+.
+Pig Man 1 has been incapacitated!
+$Yukina
+“H-Hah!”
+*Slap.*
+$Pig Man 2
+“Hehe.”
+Sakimi slapped Pig Man 2.
+However, it was a reward for Pig Man 2.
+Pig Man 2’s stamina was restored by 5!
+Pig Man 2’s remaining stamina is
+.
+Pig Man 2 has been incapacitated!
+--------------------
+sento02
+********************
+$Sakimi
+“...Is this the end of it?”
+$Yukina
+“Ngh, Yokoyama-san is...”
+$Yokoyama
+“I-I’m somehow still alive.”
+$Sakimi
+“Sensei!”
+$Hikomaro
+“Uugh...”
+Sakimi sat down on the floor.
+Checking his head while giving him a knee pillow.
+$Sakimi
+“A-Are you okay?”
+$Hikomaro
+“...I’m so ashamed.”
+$Sakimi
+“Are you hurt? Are you bleeding?”
+$Hikomaro
+“I think it’s probably a mild concussion.”
+$Sakimi
+“Is that really all?”
+$Hikomaro
+“I’ll be back to normal after a little rest.”
+$Sakimi
+“Oh, thank goodness.”
+Sakimi let out a sigh of relief.
+In exchange, anger surged within her.
+She glared at the two Pig Men rolled over on the floor.
+$Sakimi
+“W-What on earth is going on?”
+$Yokoyama
+“It’s only natural for you to think that.”
+$Sakimi
+“Ngh... just who are these guys?”
+$Yokoyama
+“...”
+$Sakimi
+“Are they drunk customers?”
+$Yukina
+“But there aren't any other customers besides us...”
+$Hikomaro
+“There shouldn't be, should there.”
+$Yokoyama
+“...Shall we try removing their masks?”
+$Sakimi
+“No thanks, it’s gross.”
+Sakimi answered immediately.
+Yukina-chan also grimaced.
+Nodding in agreement.
+$Yokoyama
+“Their objective is Mrs. Ayase and Ishihara-san.”
+$Sakimi
+“H-Huh?”
+$Yokoyama
+“There’s almost no doubt about it.”
+$Sakimi
+“Objective? What kind of objective?!”
+$Yokoyama
+“They are clearly plotting something wicked.”
+$Sakimi
+“Who is?!”
+$Yokoyama
+“Everyone besides us who exists in this inn.”
+$Sakimi
+“...”
+Sakimi was speechless.
+Her mouth hung open.
+She stared at Yokoyama-san without even blinking.
+$Sakimi
+“I-I don’t understand any of this.”
+$Yokoyama
+“...That’s only natural.”
+$Sakimi
+“I was just relaxing in the hot springs, and then all of a sudden this happens.”
+$Yokoyama
+“That’s exactly why you were targeted.”
+$Sakimi
+“W-What do you mean by that?”
+$Yokoyama
+“At the timing when you were most defenseless.”
+$Hikomaro
+“Are they going to kidnap and confine them?”
+$Yukina
+“Eh?!”
+$Yokoyama
+“I’d rather not think about it, but it’s probably something close to that.”
+$Sakimi
+“Y-You’re joking, right?”
+$Yokoyama
+“It’s not just a guess. These two Pig Men broke into the open-air bath and tried to get at the naked Mrs. Ayase and Ishihara-san...”
+$Yukina
+“N-No...”
+$Sakimi
+“Ngh, why are you and Sensei here, Yokoyama-san?”
+$Yokoyama
+“Shall we leave the detailed explanation for later?”
+$Sakimi
+“B-But...”
+$Yokoyama
+“If you're concerned about your own safety and Ishihara-san’s, you shouldn't stay in this inn.”
+$Sakimi
+“...You mean we should run away?”
+$Yokoyama
+“You left your phones and belongings in your room, right?”
+$Yukina
+“Y-Yes.”
+$Yokoyama
+“In any case, at least put on your yukatas.”
+$Sakimi
+“Ah...”
+They were wearing nothing but a single bath towel.
+Having remembered that fact only now.
+The two of them scurried over to the laundry baskets.
+$Sakimi
+“Ngh, look the other way!”
+$Hikomaro
+“Roger that.”
+The men and women faced away from each other.
+Maro and Yokoyama-san faced the entrance.
+Straining their ears for any new intruders.
+From behind them came the erotic sound of rustling clothes.
+Normally, he would be struck by the urge to turn around.
+But right now, he didn't feel like doing anything playful.
+$Yukina
+“...I’ve changed.”
+$Sakimi
+“Ngh, I'm okay too.”
+$Yukina
+“What are we going to do now?”
+$Yokoyama
+“First off...”
+He took his smartphone out of his pocket.
+Staring at the display for a moment.
+$Yokoyama
+“...There isn't a single bar of signal.”
+$Sakimi
+“Because we’re deep in the mountains?”
+$Yokoyama
+“It’s a very convenient place to plot something evil.”
+$Sakimi
+“...”
+$Yokoyama
+“Let’s head back to your room for now. I don’t know what’s happened to your belongings, but we can't just leave them without checking.”
+$Sakimi
+“...I’ll do as Yokoyama-san says.”
+He opened the sliding door quietly.
+Yokoyama-san checked the hallway.
+$Yokoyama
+“...Now!”
+Yukina-chan was in front.
+Followed by Mrs. Ayase.
+Of course, Yokoyama-san was in the lead.
+And Maro guarded everyone from behind.
+They walked softly down the illuminated hallway.
+After turning a few corners.
+They were stunned by an impossible situation.
+For a moment, the four of them stood with their mouths agape.
+$Sakimi
+“What is this?”
+$Yokoyama
+“...If we go straight here, we should reach the room.”
+$Hikomaro
+“It seems like they’re having fun with this.”
+$Yukina
+“T-This isn't normal.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Someone is approaching.”
+The footsteps came from behind.
+Maro prepared for a surprise attack.
+This time, he braced himself without letting his guard down.
+$Hikomaro
+“They’re coming!”
+Pig Man 3 appeared!
+Pig Man 4 appeared!
+$Pig Man 3
+“...”
+Pig Man 3 was staring fixedly at Sakimi.
+$Pig Man 4
+“...”
+Pig Man 4 was also staring fixedly at Sakimi.
+$Sakimi
+“W-What?”
+Who will attack?
+Maro
+Yokoyama
+Sakimi
+Yukina
+Normal Attack
+Select again
+Normal Attack
+Select again
+Normal Attack
+Select again
+Normal Attack
+Select again
+Pig Man 3 fell in love with Sakimi at first sight!
+$Sakimi
+“U-Uwaah...”
+Pig Man 3’s special attack!
+Pig Man 3 chased Sakimi around!
+Sakimi fled desperately.
+But Pig Man 3 would not give up.
+Seeing that, Pig Man 4 also fell in love with Sakimi at first sight!
+$Sakimi
+“!?”
+Pig Man 4 joins the fray.
+Blocking Sakimi’s path!
+Sakimi has nowhere to run!
+*Grab.*
+$Sakimi
+“Wawaah!”
+Pig Man 3 pulled open Sakimi’s front!
+A critical humiliation play!
+Sakimi took 40 damage!
+Pig Man 3 is captivated by Sakimi’s large breasts.
+Pig Man 4 is also captivated by Sakimi’s large breasts.
+$Sakimi
+“Y-You bastards!”
+Sakimi shook off their arms with all her might!
+$Sakimi
+“Haah, haah...”
+$Hikomaro
+“A-Are you alright?”
+$Sakimi
+“Ngh, I’m not alright at all!”
+$Yokoyama
+“It seems like these guys are after Mrs. Ayase.”
+$Hikomaro
+“...I’ll teach them that they’re a hundred years too early.”
+Pig Man 3 is feeling lustful!
+*Grope, grope.*
+$Sakimi
+“H-How dare you touch me so casually!”
+$Sakimi
+“Ngh, you’re disgusting!”
+Pig Man 1 touched Sakimi’s breasts!
+Sakimi took 20 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+Pig Man 4 is feeling lustful!
+*Grope, grope.*
+$Sakimi
+“W-Why is it always me?!”
+$Sakimi
+“Ngh, don’t touch me!”
+Pig Man 4 stroked Sakimi’s butt!
+Sakimi took 20 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+Pig Man 3 has his eye on Yukina!
+*Grope, grope.*
+$Yukina
+“Kyaa!”
+Pig Man 3 touched Yukina’s breasts!
+Yukina took 25 damage!
+Yukina has been incapacitated.
+Maro’s party has been wiped out!
+Pig Man 4 has an erection in his crotch!
+*Grope, grope.*
+$Yukina
+“D-Don't touch me!”
+Pig Man 4 stroked Yukina’s butt!
+Yukina took 25 damage!
+Sakimi has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 3
+“...Die.”
+*Thud!*
+$Hikomaro
+“Hin!”
+Pig Man 3 kicked Maro!
+Maro took 25 damage!
+Maro has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 4
+“...Men, disappear.”
+*Wham!*
+$Hikomaro
+“Guhah!”
+Pig Man 4 kicked Maro!
+Maro took 25 damage!
+Maro has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 3
+“...Die.”
+*Thud!*
+$Yokoyama
+“Ugh...”
+Pig Man 3 kicked Yokoyama!
+Yokoyama took 25 damage!
+Yokoyama has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 4
+“...Men, disappear.”
+*Wham!*
+$Yokoyama
+“Ugh...”
+Pig Man 4 kicked Yokoyama!
+Yokoyama took 25 damage!
+Yokoyama has been incapacitated.
+Maro’s party has been wiped out!
+$Pig Man 3
+“...Extermination of the males complete.”
+The Pig Man licked his lips.
+Violating Sakimi’s breasts with his eyes.
+Violating Yukina’s breasts with his eyes.
+$Pig Man 4
+“...Extermination of the males complete.”
+The Pig Man licked his lips.
+Violating Sakimi’s breasts with his eyes.
+Violating Yukina’s breasts with his eyes.
+$Yokoyama
+“Uguu...”
+$Yukina
+“A-Are you alright?”
+Yukina rushed to Yokoyama-san’s side.
+And hugged him tightly from behind.
+$Yukina
+“Ngh, don’t give up.”
+$Yokoyama
+“O-Of course not.”
+Healed by Yukina.
+Yokoyama’s stamina was restored by 30.
+Yokoyama’s remaining stamina is
+.
+$Yokoyama
+“Uguu...”
+$Yukina
+“P-Please leave it to me.”
+Yukina tries to rush to Yokoyama-san’s side again.
+However, a Pig Man blocks her path.
+She cannot heal Yokoyama-san.
+$Sakimi
+“M-My heart is about to break.”
+$Yukina
+“Ngh, pull yourself together.”
+Yukina rushed to Sakimi’s side.
+And tightly gripped her hands to encourage her.
+$Yukina
+“Mrs. Ayase is not someone who would lose to these pigs.”
+$Sakimi
+“Ngh...”
+Encouraged by Yukina.
+Sakimi’s stamina was restored by 30.
+Sakimi’s remaining stamina is
+.
+$Sakimi
+“Oh n-no...”
+$Yukina
+“M-Mrs. Ayase?!”
+Yukina tries to rush to Sakimi’s side again.
+However, a Pig Man blocks her path.
+She cannot encourage Sakimi.
+$Hikomaro
+“Th-this is tough.”
+$Yukina
+“Ngh, Sensei.”
+Yukina rushed to Maro’s side.
+And hugged him tightly from behind.
+$Yukina
+“Please cheer up.”
+$Hikomaro
+“I-I’ve received breast power!”
+Encouraged by Yukina.
+Maro’s stamina was restored by 30.
+Maro’s remaining stamina is
+.
+$Masashi
+“Guhah...!”
+$Yukina
+“S-Sensei!”
+Yukina tries to rush to Maro’s side again.
+However, a Pig Man blocks her path.
+She cannot encourage Maro.
+Who will attack?
+--------------------
+sento02maro
+********************
+Which Pig will you attack?
+Pig Man 3
+Pig Man 4
+Select again
+*Crack!*
+$Pig Man 3
+“Guhah!”
+Maro unleashed a Courtier Punch on Pig Man 3!
+Dealt 25 damage to Pig Man 3!
+Pig Man 3’s remaining stamina is
+.
+Pig Man 3 has been incapacitated!
+*Crack!*
+$Pig Man 4
+“Guhah!”
+Maro delivered a Kemari Kick to Pig Man 4!
+Dealt 30 damage to Pig Man 4!
+Pig Man 4’s remaining stamina is
+.
+Pig Man 4 has been incapacitated!
+--------------------
+sento02saki
+********************
+Which Pig will you attack?
+Pig Man 3
+Pig Man 4
+Select again
+*Crack!*
+$Pig Man 3
+“Guhah!”
+Sakimi punched Pig Man 3!
+Dealt 25 damage to Pig Man 3!
+Pig Man 3’s remaining stamina is
+.
+Pig Man 3 has been incapacitated!
+*Crack!*
+$Pig Man 4
+“Guhah!”
+Sakimi punched Pig Man 4!
+Dealt 25 damage to Pig Man 4!
+Pig Man 4’s remaining stamina is
+.
+Pig Man 4 has been incapacitated!

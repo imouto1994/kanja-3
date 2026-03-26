@@ -1,0 +1,1060 @@
+--------------------
+stage61
+********************
+$Tomoko
+“...Phew.”
+$Hikomaro
+“We’re back.”
+$Tomoko
+“...Yeah.”
+$Hikomaro
+“How was the love hotel?”
+$Tomoko
+“It was so much fun.”
+$Hikomaro
+“You say that, but you don't seem very energetic.”
+$Tomoko
+“Because... I’m lonely.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“Everything we promised to do is all over now.”
+$Hikomaro
+“Then we can just add more promises.”
+$Tomoko
+“...No.”
+$Tomoko
+“Mister.”
+$Hikomaro
+“Yes.”
+$Tomoko
+“Thank you for everything up until now.”
+$Hikomaro
+“Why so formal all of a sudden?”
+$Tomoko
+“I’m really glad I met you. But I can't keep depending on you forever, so I’m going to try my best on my own from now on.”
+$Hikomaro
+“What are you going to try your best at?”
+$Tomoko
+“Not being a girl who's stuck in between anymore.”
+$Hikomaro
+“I see.”
+$Tomoko
+“I’ll make those tickets my treasure.”
+$Hikomaro
+“I hope they serve as a good memento.”
+$Tomoko
+“They’re both a memory and a memento.”
+$Hikomaro
+“As for the wish beads I’m holding for you...”
+$Tomoko
+“Those belong to you now, Mister.”
+$Hikomaro
+“I haven't a clue how I should use them, though.”
+$Tomoko
+“I think you should just wish for whatever you want.”
+$Hikomaro
+“I haven't done anything worthy of having a wish granted.”
+$Tomoko
+“That’s not true.”
+$Hikomaro
+“If possible, would you let me go the extra mile for you one more time?”
+$Tomoko
+“Eh?”
+$Hikomaro
+“So that I can feel satisfied enough to use those beads.”
+$Tomoko
+“...”
+$Hikomaro
+“Tell me about that college student you liked.”
+$Tomoko
+“W-What’s this all of a sudden?”
+$Hikomaro
+“I won't let it turn out badly for you, I promise.”
+$Tomoko
+“Hhh, what are you gonna do with that info?!”
+$Hikomaro
+“I’ll arrange things so you can go on a date with him.”
+$Tomoko
+“M-Me, with that college student?!”
+$Hikomaro
+“Yes.”
+$Tomoko
+“I told you, it’s impossible.”
+$Hikomaro
+“Nothing is impossible when you have wish beads.”
+$Tomoko
+“Hhh, you shouldn't use them for something like that.”
+$Hikomaro
+“And why is that?”
+$Tomoko
+“He’s a handsome guy, so he definitely has a girlfriend. If I use a wish bead to become his girlfriend, I’d be hurting his real one.”
+$Hikomaro
+“If he has a girlfriend, you can just give up. Isn't getting rejected a part of the experience of knowing what love is?”
+$Tomoko
+“...You’re gonna look into him just so I can get rejected?”
+$Hikomaro
+“It isn't confirmed that he has a girlfriend yet.”
+$Tomoko
+“But I don't even know his name.”
+$Hikomaro
+“What time did you usually see him?”
+$Tomoko
+“...Always around 9:00 in the morning.”
+$Hikomaro
+“How tall was he?”
+$Tomoko
+“About the same as you, I think.”
+$Hikomaro
+“Was he thin, or heavy?”
+$Tomoko
+“Thin, if I had to say.”
+$Hikomaro
+“What about his hairstyle?”
+$Tomoko
+“A little bit long.”
+$Hikomaro
+“Any distinguishing features about his belongings...?”
+$Tomoko
+“His clothes were different every time I saw him, but he always had a dark brown shoulder bag slung across his chest.”
+$Hikomaro
+“That’s more than enough to go on. I’ll ask my best bud's wife to look into this college student for us.”
+It felt like he was pushing her along a bit forcefully.
+It wasn't that she gave her full-throated consent.
+But Tomoko-chan didn't shake her head no.
+What's important is finding the courage.
+Being rejected is better than doing nothing at all.
+She probably understood that too.
+$Hikomaro
+“...I suppose I’ll put a little extra effort into this.”
+And Maro.
+Between the trip and now this.
+He felt something that couldn't be dismissed as mere coincidence.
+It was as if a light was being shone on the path he should take.
+He naturally felt that he couldn't stay in the same place...
+$Hikomaro
+“So that's the situation.”
+$Sakimi
+“Got it.”
+$Hikomaro
+“I’m sorry to bother you when you're busy.”
+$Sakimi
+“Don't be so formal with your best bud.”
+$Hikomaro
+“Thank you very much.”
+$Sakimi
+“I think I can get results in a few days. The area around the park is a designated development zone, so there are lots of construction sites and colleagues around there.”
+$Hikomaro
+“The construction industry information network, huh?”
+$Sakimi
+“By the way, who is this guy?”
+$Hikomaro
+“I believe he’s a student at the affiliated university.”
+$Sakimi
+“Which means, a med student?”
+$Hikomaro
+“The possibility is quite high.”
+$Sakimi
+“So he’s someone who’ll be in the same profession as you in the future, Sensei.”
+$Hikomaro
+“Strictly speaking, it's a bit different.”
+$Sakimi
+“Is that so?”
+$Hikomaro
+“Slightly.”
+$Sakimi
+“Hmm.”
+$Hikomaro
+“Hoho.”
+$Sakimi
+“Anyway, just leave it to me.”
+$Hikomaro
+“The time he was seen was around 9:00 in the morning.”
+$Sakimi
+“I know.”
+$Hikomaro
+“His height is about the same as mine...”
+$Sakimi
+“Thin, slightly long hair, and a cross-body shoulder bag, right?”
+$Hikomaro
+“Yes.”
+$Sakimi
+“I’ll use my lunch break to scout the area. I can't stop by here today, so eat your lunch with Tomoko-chan.”
+*Clatter*
+$Hikomaro
+“...”
+$Hikomaro
+“It looks like things will work out, so that's good.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Tomoko-chan?”
+$Hikomaro
+“...”
+$Hikomaro
+“I haven't seen her since this morning, I wonder where she went.”
+...And shortly after noon...
+$Hikomaro
+“...”
+$Hikomaro
+“Tomoko-chan still isn't here.”
+$Hikomaro
+“...”
+$Hikomaro
+“What shall I do for lunch today? Shall I make do with the soba shop in front of the station, or stop by a convenience store and buy something...?”
+*Ding-dong*
+$Hikomaro
+“...?”
+Who on earth could it be?
+If it were Okusan, she’d come through the window.
+There was no way Tomoko-chan would ring it.
+While thinking that, he couldn't just ignore it.
+Maro trudged over to the intercom.
+$Hikomaro
+“Who is it?”
+$Hikomaro
+“...”
+$Hikomaro
+“I’ll open up right away, so please wait a moment.”
+An unexpected visitor.
+Maro tilted his head as he went down the stairs.
+He invited the familiar person up to the second floor.
+$Yokoyama
+“...It’s been a while.”
+$Hikomaro
+“It certainly has.”
+$Yokoyama
+“I’m sorry for being so neglectful.”
+$Hikomaro
+“Has your health returned to normal?”
+$Yokoyama
+“Somehow, thanks to you.”
+$Hikomaro
+“A lot happened during that trip, didn't it?”
+$Yokoyama
+“It was a once-in-a-lifetime incident. I’d never want to go through it again, but in a sense, it was an incredibly precious experience.”
+$Hikomaro
+“Anyway, the main thing is that everyone is safe.”
+$Yokoyama
+“And have there been any changes for you since then, Doctor?”
+$Hikomaro
+“Still living my usual semi-retired life.”
+$Yokoyama
+“Living as you please is the greatest happiness. I’m still living my usual salaryman life, but I’ve made up my mind to have my own company someday.”
+$Hikomaro
+“That’s wonderful.”
+$Yokoyama
+“Because I’ve found someone I want to protect.”
+$Hikomaro
+“...I see.”
+His tone and expression changed.
+Maro vaguely understood that he had gotten to the main point.
+$Hikomaro
+“Please, have a seat.”
+$Yokoyama
+“If it’s alright, I’ll stay like this.”
+Yokoyama-san politely declined.
+Conversely, he wished to speak while standing.
+He straightened his back.
+The look in his eyes as he watched Maro was as direct as his feelings.
+$Yokoyama
+“The one I want to protect is Ishihara-san.”
+$Hikomaro
+“You two did seem to get along well during the trip.”
+$Yokoyama
+“Hhh, will you give us your blessing?”
+$Hikomaro
+“Blessing or not, I...”
+$Yokoyama
+“To her, you are a special existence, Doctor. Should I say she respects you, or perhaps that she adores you?”
+$Hikomaro
+“...I’m just a rare type of person to her.”
+$Yokoyama
+“I did confess to her properly. But I haven't received a favorable answer yet.”
+$Yokoyama
+“If I have your blessing, Doctor, I’ll have the courage. It seems like there’s a lot going on with her husband, so I want to be the one to protect her when something happens.”
+$Hikomaro
+“...From now on, you should make yourself that special existence.”
+$Yokoyama
+“Eh?”
+$Hikomaro
+“Why not just work hard so you can become that? If you truly love her, the ability to take action should naturally follow.”
+$Yokoyama
+“...”
+$Hikomaro
+“I feel like you’ve already achieved about half of it, though. Since you’ve come all the way here to do this, hoho.”
+$Yokoyama
+“Th-Thank you very much.”
+$Hikomaro
+“I wish you both happiness.”
+$Yokoyama
+“D-Doctor...”
+$Hikomaro
+“Please give my regards to Ishihara-san as well.”
+$Yokoyama
+“Hhh, I’m really glad I met you, Doctor. I’ll be sure to tell her. I’m sorry for interrupting your lunch hour.”
+Yokoyama-san bowed deeply.
+With a refreshed expression, he went down the stairs.
+He bowed once more in front of the front door.
+His back as he left looked high-spirited.
+The "I'm gonna do this" vibe was off the charts.
+Somehow, even his back felt a size larger.
+Love changes people.
+People grow through love.
+I’m sure there will be plenty of struggles ahead.
+But happiness will shine all the more for the hardships endured.
+While thinking such things.
+Maro returned to the low table alone.
+Even if his expression remained the same as always.
+An autumn wind was whistling through his heart.
+$Hikomaro
+“...So now Yukina-chan is.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Yokoyama-san's lover, I suppose.”
+$Hikomaro
+“...”
+$Hikomaro
+“...I feel a bit lonely.”
+$Tomoko
+“...Did you get your heart broken?”
+$Hikomaro
+“Ah...”
+$Tomoko
+“You have a lot of your own troubles too, Mister.”
+$Hikomaro
+“When did you get back?”
+$Tomoko
+“A little while ago.”
+$Hikomaro
+“I worry when you suddenly disappear.”
+$Tomoko
+“You were the one who said it.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“That I’d return to a physical body during the date. Otherwise we couldn't talk, and we couldn't go out for a meal together.”
+$Hikomaro
+“I did say that, but...”
+$Tomoko
+“So I went to ask the old man with the white beard. He’s someone with a lot of appointments, so just waiting for my turn was a lot of work.”
+$Hikomaro
+“...I see.”
+$Tomoko
+“But he found me and gestured for me to come over.”
+$Hikomaro
+“He’s looking out for you, isn't he?”
+$Tomoko
+“I gave him a status report and explained the situation, and asked if I could use a bead for the date, and if it was okay to return to a physical body.”
+$Hikomaro
+“...And what was the old man's answer?”
+$Tomoko
+“He said he’d allow it as a special exception.”
+$Hikomaro
+“W-Well, isn't that good news?”
+$Tomoko
+“But only for three hours.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“He told me any more than that was impossible.”
+$Hikomaro
+“...It’s a bit like Cinderella.”
+$Tomoko
+“Maybe we’re similar in being poor.”
+$Hikomaro
+“Now if only the prince doesn't have a girlfriend...”
+$Tomoko
+“Something like a dream will come true.”
+$Hikomaro
+“It certainly will.”
+$Tomoko
+“I think I’ll be incredibly nervous, though.”
+$Hikomaro
+“It is your first date, after all.”
+$Tomoko
+“Yeah.”
+$Hikomaro
+“But it’s a waste if you aren't nervous.”
+$Tomoko
+“Why?”
+$Hikomaro
+“The first time for anything only happens once. Your heart is fluttering that much, so let's enjoy the nervousness along with everything else.”
+$Tomoko
+“...You’re amazing, Mister.”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“Even right after things happened to you, you’re giving me advice.”
+$Hikomaro
+“I’ve become much more resilient than I used to be.”
+$Tomoko
+“Thanks to you, I have plenty of courage now. Everyone is doing something for me, so I’m going to do my best to make my dream come true... phew.”
+...And two days later, at noon...
+Tap, tap...
+$Sakimi
+“Sensei.”
+$Hikomaro
+“...She’s here.”
+$Sakimi
+“I’m coming in.”
+*Clatter*
+$Sakimi
+“Alright then.”
+$Hikomaro
+“I’ve been waiting for you.”
+$Sakimi
+“W-Why are you sitting in seiza?”
+$Hikomaro
+“Not just me, Tomoko-chan is too.”
+$Sakimi
+“Hhh, I see.”
+$Hikomaro
+“Both of our hearts are pounding.”
+$Sakimi
+“...Well then, I’ll announce the results immediately.”
+$Hikomaro
+“Please do.”
+$Sakimi
+“His name is 'Shingo Sasayama'.”
+$Hikomaro
+“Hhh, what a cool name.”
+$Sakimi
+“He’s 22 years old.”
+$Hikomaro
+“A young man full of youth.”
+$Sakimi
+“As I thought, he was a student at the medical university.”
+$Hikomaro
+“Just as expected.”
+$Sakimi
+“Tomoko-chan has a good eye.”
+$Hikomaro
+“...A good eye, you say?”
+$Sakimi
+“He’s a boy with a very good reputation.”
+$Hikomaro
+“Hhh, that’s wonderful.”
+$Sakimi
+“His family seems quite wealthy. But he doesn't live extravagantly; he studies hard at university and is aiming to become a doctor.”
+$Hikomaro
+“He’s even more of an overachiever than I thought.”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“In that case, naturally a lover would also... haa.”
+$Sakimi
+“He doesn't have a girlfriend.”
+$Hikomaro
+“...”
+$Sakimi
+“He used to have one, but now he’s focused entirely on his studies.”
+$Hikomaro
+“Is that true?”
+$Sakimi
+“Yeah.”
+$Hikomaro
+“Is it really, really true?”
+$Sakimi
+“I wouldn't lie about something like this.”
+$Hikomaro
+“...Sniff.”
+$Sakimi
+“H-Hey.”
+$Hikomaro
+“Thank you very much. Thanks to you, Okusan, Tomoko-chan is... Tomoko-chan is... slurp.”
+Maro remained in seiza.
+He was as happy as if it were his own success.
+He couldn't hold back his tears of joy.
+Bravo, Okusan!
+Happy, Okusan!
+$Hikomaro
+“W-With this, her wish will come true.”
+$Sakimi
+“If you're that happy, it was worth looking into it.”
+$Hikomaro
+“As expected, Maro is nothing without Okusan.”
+$Sakimi
+“R-Really?”
+$Hikomaro
+“And Tomoko-chan is nothing without Okusan.”
+$Sakimi
+“Isn't that a bit of an exaggeration?”
+$Hikomaro
+“I cannot express my gratitude enough, hhh.”
+$Sakimi
+“Th-Then I’ll tell you this first.”
+$Hikomaro
+“Tell me what?”
+$Sakimi
+“I’ve already arranged the follow-up.”
+$Hikomaro
+“...Follow-up?”
+$Sakimi
+“The date is set for this Sunday. A wholesome first date starting in the afternoon.”
+$Hikomaro
+“Y-You’ve decided that much already?”
+$Sakimi
+“Hhh, was I overstepping my bounds?”
+$Hikomaro
+“...I’m simply surprised.”
+$Sakimi
+“It seemed like if we missed this chance, it wouldn't be convenient. He said he’d be away from his parents' house next month for summer self-study or something.”
+$Hikomaro
+“...Is that right?”
+$Sakimi
+“Being a fourth-year med student seems like a lot of trouble.”
+$Hikomaro
+“...But Sunday is for Tomoko-chan?”
+$Sakimi
+“I told him there was a girl who liked him and asked if he could make it happen. After thinking for a bit, he smiled brightly and said he’d like to meet her too.”
+$Hikomaro
+“What a kind boy.”
+$Sakimi
+“In the heat of the moment, I just went ahead and set it up...”
+$Hikomaro
+“To think a date was established without even using a bead; we’ve managed to save one.”
+$Sakimi
+“What's a bead?”
+$Hikomaro
+“I’ll explain that later.”
+$Sakimi
+“I-I’m just glad I didn't get scolded.”
+$Hikomaro
+“It looks like it will be a good date.”
+$Sakimi
+“...I hope it goes well.”
+$Hikomaro
+“Yes.”
+$Sakimi
+“Is Tomoko-chan happy too?”
+$Hikomaro
+“Oh, she certainly is...”
+$Sakimi
+“...”
+$Hikomaro
+“...Wait?”
+$Sakimi
+“W-What’s wrong?”
+$Hikomaro
+“I wonder why she’s suddenly down.”
+$Sakimi
+“Hhh, was I too hasty after all?”
+$Hikomaro
+“...”
+$Hikomaro
+“...On the day?”
+$Hikomaro
+“...”
+$Hikomaro
+“...Yes.”
+$Hikomaro
+“...”
+$Hikomaro
+“...That is certainly true.”
+$Sakimi
+“W-What is it?”
+$Hikomaro
+“She says she doesn't have any clothes to wear for the date.”
+$Sakimi
+“Is that it?”
+$Hikomaro
+“She only has the clothes she's wearing.”
+$Sakimi
+“Can she actually change clothes?”
+$Hikomaro
+“If she becomes physical, most certainly.”
+$Sakimi
+“Then, since I’m also responsible for deciding things on my own, I’ll manage that much for her.”
+$Hikomaro
+“R-Really?!”
+$Sakimi
+“At times like this, you should rely on me.”
+$Hikomaro
+“O-Okusaaaaan!”
+$Sakimi
+“G-Guh.”
+$Hikomaro
+“I’m gonna rely on you so much!”
+$Sakimi
+“I get it, I get it...!”
+$Hikomaro
+“Nngh, squelch, lick, mufu.”
+$Sakimi
+“I-I said I get it already!”
+$Sakimi
+“...Haa.”
+$Hikomaro
+“Hhh, I’m sorry for losing my composure.”
+$Sakimi
+“...I almost let out a weird sound.”
+$Hikomaro
+“I just got excited myself.”
+$Sakimi
+“Anyway, leave the procurement to your Big Sister.”
+$Hikomaro
+“Tomoko-chan is overjoyed.”
+$Hikomaro
+“...”
+$Hikomaro
+“Uh-huh.”
+$Sakimi
+“...Eh?”
+$Hikomaro
+“I see.”
+$Sakimi
+“Hhh, what now?”
+$Hikomaro
+“She’s saying it very hesitantly, but.”
+$Sakimi
+“I told you, she doesn't have to be hesitant.”
+$Hikomaro
+“She says if possible, she’d like to wear something frilly.”
+$Sakimi
+“F-Frilly?”
+$Hikomaro
+“The kind that looks feminine at a glance, I suppose.”
+$Sakimi
+“Hhh, that’s probably the type of clothing furthest from my world.”
+$Hikomaro
+“Tomoko-chan is apologizing.”
+$Sakimi
+“Why?”
+$Hikomaro
+“She says she’s sorry for being selfish.”
+$Sakimi
+“I told you not to worry about that.”
+$Hikomaro
+“Since her usual clothes are all patched up and tattered, she says anything other than this would be fine.”
+$Sakimi
+“Does she always wear something like that?”
+$Hikomaro
+“There are various circumstances.”
+$Sakimi
+“...She’s at the age where she wants to be fashionable, right?”
+$Hikomaro
+“She’s a girl who's used to holding back.”
+$Sakimi
+“...”
+$Sakimi
+“...Alright!”
+Sakimi slapped her chest.
+She stared at the empty space to Maro's right.
+$Sakimi
+“Big Sister will take care of it right now.”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“We’re going to the boutique in front of the station.”
+$Hikomaro
+“A-Are you serious?”
+$Sakimi
+“I can't let my best bud's best bud be embarrassed. I’m going to make sure she wears the cutest clothes possible.”
+She slapped her chest again.
+This time she stared at Maro's face.
+$Sakimi
+“How long are you going to stay in seiza?”
+$Hikomaro
+“Pardon?”
+$Sakimi
+“I said we’re heading out, didn't I?”
+$Hikomaro
+“Me too?”
+$Sakimi
+“If you don't come, Sensei, I won't even be able to talk to her.”
+$Hikomaro
+“Y-You’re right.”
+Things moved fast after that.
+With Sakimi's decisiveness and ability to take action.
+Before he knew it, they were outside.
+Before he knew it, they were standing in front of the station.
+The summer breeze stroking his cheek felt pleasant.
+The hustle and bustle of the crowd didn't feel noisy now.
+$Sakimi
+“Is Tomoko-chan here?”
+$Hikomaro
+“Of course she is.”
+$Sakimi
+“How is she?”
+$Hikomaro
+“She’s incredibly excited.”
+$Sakimi
+“I see.”
+$Hikomaro
+“She’s being a bit hesitant, though.”
+$Sakimi
+“It'll be fine if she leaves it to Big Sister.”
+$Hikomaro
+“She smiled brightly and nodded.”
+$Sakimi
+“I don't have any shops I frequent or anything. Let’s just head into the arcade and try that boutique over there.”
+...And five minutes later...
+$Female Clerk
+“Is it for your niece's birthday?”
+$Sakimi
+“Well, something like that.”
+$Female Clerk
+“How about something like this?”
+$Sakimi
+“Don't you have anything more frilly?”
+$Female Clerk
+“Frilly, you say...?”
+$Hikomaro
+“Um...”
+$Sakimi
+“Hmm?”
+$Hikomaro
+“Please show me that skirt over there.”
+He pointed to a beige pleated skirt.
+The length was about five centimeters above the knee.
+Only the hem was trimmed with white lace.
+$Sakimi
+“Is this the one you like?”
+$Hikomaro
+“It seems so.”
+$Sakimi
+“Tomoko-chan is thin, right?”
+$Hikomaro
+“If I had to say.”
+$Sakimi
+“Then it might look really good on her.”
+Sakimi nodded as if satisfied.
+Even though she’d never seen Tomoko-chan's face.
+It seemed she had a vague image in her mind.
+$Sakimi
+“This skirt, and maybe this...?”
+$Female Clerk
+“Yes.”
+From there, things went smoothly.
+Perhaps Sakimi had found what she was looking for.
+She matched items one after another.
+The first thing she chose was a white blouse.
+Followed by a bright red cardigan.
+The white blouse was very simple.
+But the tie at the neck was adorable.
+Next were beige crew socks.
+And then chocolate brown lace-up shoes.
+Everyone was chatting and having a great time.
+Confirming each item with Tomoko-chan.
+Enjoying the "this one or that one" process.
+$Female Clerk
+“Thank you very much.”
+$Sakimi
+“Thank you too.”
+*Pshhh*
+Sakimi left the shop.
+She held paper bags in both hands.
+She looked as happy as if it were for herself.
+$Sakimi
+“We managed to do it.”
+$Hikomaro
+“We did.”
+$Sakimi
+“Now, on to the next shop.”
+$Hikomaro
+“...Shopping at multiple boutiques?”
+$Sakimi
+“It’s a big day for Tomoko-chan, after all.”
+$Hikomaro
+“...”
+$Sakimi
+“It’s only natural to get the set, right?”
+$Hikomaro
+“...I didn't realize.”
+$Female Clerk
+“Thank you for your patronage.”
+The female shop assistant from before.
+She seemed to remember Sakimi's face well.
+She gave an unnecessarily polite bow.
+$Female Clerk
+“Are you the master?”
+She said so while glancing at Maro.
+$Sakimi
+“This person is a doctor I know.”
+$Female Clerk
+“...”
+The shop assistant was speechless.
+Acting as if her question had never happened.
+She immediately switched back to manual-style service.
+$Female Clerk
+“What product would you like today...?”
+$Sakimi
+“Give me some super cute underwear.”
+$Female Clerk
+“Understood.”
+The shop assistant glanced at Sakimi in her construction gear.
+The cleavage peeking from her tank top was alluring.
+Even from a woman's perspective, Sakimi looked attractive.
+$Female Clerk
+“Would you like a matching set?”
+$Sakimi
+“Yeah.”
+$Female Clerk
+“Then I will select several types for you.”
+$Sakimi
+“Thanks.”
+$Female Clerk
+“Will the size be the same as last time?”
+$Sakimi
+“Hmm.”
+$Hikomaro
+“...The same size would be way too big.”
+$Sakimi
+“What's the cup size?”
+$Female Clerk
+“...?”
+$Hikomaro
+“She says she's never worn one, so she doesn't know.”
+$Sakimi
+“I see.”
+$Hikomaro
+“This is a problem.”
+$Sakimi
+“I wonder what she usually did.”
+$Hikomaro
+“She made do with band-aids.”
+$Sakimi
+“R-Really?!”
+$Female Clerk
+“Is she injured somewhere?”
+$Sakimi
+“No, sorry... we're just talking to ourselves.”
+Sakimi walked over to Maro.
+She had a private consultation while occasionally smiling at the shop assistant.
+$Sakimi
+“If we have a tape measure, can we manage?”
+$Hikomaro
+“I think measuring her would be impossible.”
+$Sakimi
+“Why?”
+$Hikomaro
+“Since she doesn't have a physical form, she's all squishy.”
+$Sakimi
+“Then, show me how big the swelling is with your hands.”
+$Hikomaro
+“...It looks something like this, I suppose.”
+$Sakimi
+“There's no doubt she’s an A-cup then.”
+$Hikomaro
+“I agree with that.”
+$Sakimi
+“And since she's thin...”
+$Female Clerk
+“Is it a gift for today?”
+$Sakimi
+“Y-Yeah... well...”
+There was no point in overthinking it.
+Sakimi returned to where she was.
+She gave crisp instructions to the shop assistant.
+$Sakimi
+“For now, an A-70.”
+$Female Clerk
+“Understood.”
+$Sakimi
+“Three of each: plain, lace, and patterned.”
+$Female Clerk
+“Three of each, then.”
+$Sakimi
+“A cute type and a slightly more mature type.”
+$Female Clerk
+“That makes a total of 12 items. I will prepare them immediately, so please wait a moment.”
+$Sakimi
+“With this many, we should be able to manage.”
+$Hikomaro
+“What efficient planning.”
+$Sakimi
+“Eh?”
+$Hikomaro
+“Tomoko-chan was staring in admiration.”
+$Sakimi
+“R-Really?”
+$Hikomaro
+“Okusan, you're so capable at everything.”
+$Sakimi
+“I’m really bad when it comes to myself, though.”
+She scratched her head as if a bit embarrassed.
+Maro loved that kind of gesture too.
+He was truly grateful to the dependable her.
+$Female Clerk
+“How about these products?”
+Bras and panties were lined up.
+Tomoko-chan's eyes sparkled when she saw them.
+Even her nostrils flared a little.
+$Sakimi
+“They look good.”
+Sakimi nodded with satisfaction.
+She was carefully examining each one.
+Fitting was impossible.
+But with Okusan's eye for quality, things should work out.
+$Sakimi
+“...How about this one?”
+$Hikomaro
+“Tomoko-chan is nodding vigorously.”
+$Sakimi
+“And this?”
+$Hikomaro
+“She’s nodding just as vigorously.”
+$Sakimi
+“D-Do you like both?”
+$Hikomaro
+“If anything, this lace one here...”
+$Sakimi
+“This one?”
+$Hikomaro
+“It seems to be her favorite.”
+$Sakimi
+“Will it show through a white blouse?”
+$Hikomaro
+“It would be bad if it showed through.”
+$Sakimi
+“...It’ll be fine if she wears an inner layer.”
+$Hikomaro
+“I wonder if we can manage.”
+Tomoko-chan was practically glued to the spot.
+She rested her chin on the table where the underwear was displayed.
+She poked her favorite bra with her finger.
+$Hikomaro
+“She really seems to like this one.”
+$Sakimi
+“Got it.”
+The choice of underwear was successfully completed.
+In the end, it was down to Tomoko-chan's preference.
+The lace pattern she liked best was the one decided on.
+A little bit frilly.
+And yet somehow mature.
+Of course, the panties were a set with the bra.
+Everyone was smiling at the satisfactory result.
+$Sakimi
+“Good job.”
+$Hikomaro
+“Good job to you too, Okusan.”
+$Sakimi
+“Well, I’m heading back to the site.”
+$Hikomaro
+“Thank you for everything.”
+$Sakimi
+“Sunday at 10:00 AM, then.”
+$Hikomaro
+“I’ll be waiting in my room.”
+$Sakimi
+“...There's a time limit, right?”
+$Hikomaro
+“Since it's a special exception, there are various circumstances.”
+$Sakimi
+“Right before the date starts would be best, but she can't exactly change in the park restroom.”
+$Hikomaro
+“...True enough.”
+$Sakimi
+“She can change in your room, Sensei, and I’ll take her to the park in my light truck.”
+$Hikomaro
+“Roger that.”
+$Sakimi
+“Well then, see ya.”
+$Hikomaro
+“...”
+She had been so bad with ghosts and such.
+Yet since she’d decided to lend a hand.
+Okusan cooperated without a single doubt.
+$Hikomaro
+“...I thought so again, but.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Her chivalry is off the charts.”
+...And that night...
+$Hikomaro
+“...”
+$Tomoko
+“Hum~ hum~”
+$Hikomaro
+“...”
+$Tomoko
+“Hehe~ hehehe~ hum~”
+$Hikomaro
+“Um.”
+$Tomoko
+“What?”
+$Hikomaro
+“Aren't you going to sleep yet?”
+$Tomoko
+“A little longer.”
+$Hikomaro
+“I can't lay out the futon like this.”
+$Tomoko
+“Just five more minutes.”
+$Hikomaro
+“...I suppose I have no choice.”
+Since returning, Tomoko-chan.
+She spread out the clothes that had been bought for her on the floor.
+Still as excited as when she’d chosen them, she stared at them without getting bored.
+The blouse and cardigan on top of the skirt.
+And the socks and shoes below the skirt.
+She walked around in circles with a full smile.
+Stopping to let her eyes sparkle.
+$Tomoko
+“I want to wear them soon.”
+$Hikomaro
+“You have to hold out until the day after tomorrow.”
+$Tomoko
+“Everything is a first for me.”
+$Hikomaro
+“It really is good, isn't it?”
+$Tomoko
+“Mister, has anything like this happened to you?”
+$Hikomaro
+“Pardon?”
+$Tomoko
+“Something this happy.”
+$Hikomaro
+“...I wonder.”
+$Tomoko
+“I’m so excited.”
+$Hikomaro
+“I remembered one thing.”
+$Tomoko
+“Something just as happy?”
+$Hikomaro
+“Yes.”
+$Tomoko
+“What, what?”
+$Hikomaro
+“We did karaoke at the love hotel, didn't we?”
+$Tomoko
+“We sang a lot!”
+$Hikomaro
+“When you got 95 points, Tomoko-chan, I was truly happy then.”
+$Tomoko
+“...So it’s not about yourself.”
+$Hikomaro
+“No, it's not.”
+$Tomoko
+“That’s weird.”
+$Hikomaro
+“I get told that a lot.”
+$Tomoko
+“...Mister.”
+$Hikomaro
+“What is it?”
+$Tomoko
+“...Thank you, truly.”
+Even if the warmth didn't transmit.
+He could tell she had hugged him from the front.
+$Tomoko
+“Even though I’m a total stranger to you.”
+$Hikomaro
+“If you're going to thank someone, thank Okusan.”
+$Tomoko
+“I’m thankful to both of you.”
+$Hikomaro
+“It must be some kind of fate that things turned out this way.”
+$Tomoko
+“...”
+Tomoko-chan didn't reply.
+Instead, she rubbed her cheek against him.
+Clinging to Maro like that.
+She didn't let go for a while.
+If her wish is granted, there’s no meaning in staying.
+She won't be stuck in between anymore.
+Because she knows that.
+She clings and can't let go...

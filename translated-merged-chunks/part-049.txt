@@ -1,0 +1,562 @@
+--------------------
+stage65
+********************
+$Sakimi
+“...Phew.”
+$Hikomaro
+“O-O-Great job today, Ma’am.”
+$Sakimi
+“I’ve said everything I needed to say.”
+$Hikomaro
+“Y-Yes, of course.”
+$Sakimi
+“...Where’s Tomoko-chan?”
+$Hikomaro
+“She’s fidgeting right behind you, Ma’am.”
+$Sakimi
+“So she listened until the very end.”
+$Hikomaro
+“She’s a good girl, after all.”
+$Sakimi
+“Then I’ll leave the rest to the two of you. I’ll be downstairs making some tea.”
+$Hikomaro
+“...”
+$Hikomaro
+“...Come over here, please.”
+$Tomoko
+“...!”
+$Hikomaro
+“It’s been a while since we’ve talked like this.”
+$Tomoko
+“...I’m sorry.”
+$Hikomaro
+“It’s okay now.”
+$Tomoko
+“I... I’m so sorry for doing those things.”
+Tomoko-chan lunged forward and hugged me.
+Since she doesn’t have a physical body, she felt soft and airy.
+Yet, the weight of her apology seeped deep into my soul.
+$Hikomaro
+“Let’s just forget about it all.”
+$Tomoko
+“...”
+$Hikomaro
+“From now on, let’s go back to how things were.”
+$Tomoko
+“Is it really okay for me to stay with you a little longer?”
+$Hikomaro
+“As long as you still have regrets holding you back.”
+$Tomoko
+“T-Thank goodness.”
+$Hikomaro
+“I’m glad too.”
+As if to fill the distance of the past few days.
+For a moment, we held each other’s existence within our arms.
+$Hikomaro
+“I want you to have this, Tomoko-chan.”
+$Tomoko
+“Eh?”
+$Hikomaro
+“It’s the final Wish Orb.”
+$Tomoko
+“B-But...”
+$Hikomaro
+“You won’t use it the wrong way again, will you?”
+$Tomoko
+“...”
+Tomoko-chan gave a small, firm nod.
+Understanding that it was given to her as a testament of trust.
+She accepted it politely with both hands.
+But she didn't tuck it away in her pocket.
+Instead, she placed the Wish Orb right on top of the dresser.
+Perhaps as a silent vow to not use it lightly.
+It seemed she intended that to be its permanent place.
+$Sakimi
+“Heeey.”
+$Hikomaro
+“Y-Yes!”
+The wife’s voice drifted up from downstairs.
+It sounded a bit hesitant.
+Her consideration for the two of us was palpable.
+$Sakimi
+“Is it okay if I come up to the second floor?”
+$Hikomaro
+“Of course it is.”
+$Sakimi
+“Okay, I’m coming up.”
+$Sakimi
+“Here, tea.”
+$Hikomaro
+“Thank you very much.”
+$Sakimi
+“...Did you two make up?”
+$Hikomaro
+“Thanks to you.”
+$Sakimi
+“Good.”
+$Hikomaro
+“You were a real help.”
+$Sakimi
+“Was I actually useful for once?”
+$Hikomaro
+“She’s saying thank you as well.”
+$Sakimi
+“As long as it turned out okay, don’t worry about it.”
+$Hikomaro
+“It’s been a long time since I’ve seen her smile like this.”
+$Sakimi
+“...I see.”
+$Hikomaro
+“You really are a savior, Ma’am.”
+$Sakimi
+“That’s not me, that’s you, Sensei, right?”
+$Hikomaro
+“Regardless, you’re the best, Ma’am.”
+$Sakimi
+“Hey, stop it, you’re making me blush.”
+$Hikomaro
+“It makes me envious of your husband all over again.”
+$Sakimi
+“...You’re quite the smooth talker for an old man.”
+$Hikomaro
+“Ho-ho.”
+Her gaze drifted to the space beside Maro.
+Though she couldn’t see her or speak with her.
+The two of them had truly become friends.
+And the same was true for Maro and Tomoko-chan.
+The two were closer than ever before.
+She diligently helped with the housework.
+She went shopping together with Maro.
+When he took a bath, she would wash his back.
+She watched television together with Maro.
+And they slept peacefully together in a single futon.
+Sometimes they played doctor.
+They had their little squabbles.
+And with Tomoko-chan still lingering in between worlds.
+A peaceful month passed by.
+I wish things could stay like this forever.
+Anyone would think so.
+But Maro knew.
+That this was no different from wandering.
+That in truth, nothing had been resolved.
+So no matter how lonely it might be.
+The time to make a decision would eventually come.
+As a true noble of the Ojaru-style.
+That was the only way to show true sincerity toward Tomoko-chan.
+...And so, on a certain night of a certain month...
+$Tomoko
+“Today was so much fun too!”
+$Hikomaro
+“It certainly was.”
+$Tomoko
+“I hope tomorrow comes quickly!”
+$Hikomaro
+“Well, there’s no harm in taking it slow tonight, is there?”
+$Tomoko
+“Why?”
+$Hikomaro
+“Because today is your birthday, Tomoko-chan.”
+$Tomoko
+“H-How did you know?”
+$Hikomaro
+“I have a lot of free time, so I looked into things.”
+$Tomoko
+“...?”
+$Hikomaro
+“Shall we step outside for a bit?”
+$Tomoko
+“Right now?”
+$Hikomaro
+“It’s a nighttime stroll.”
+$Tomoko
+“I don’t mind, but...”
+$Tomoko
+“This is my first time taking a walk at night.”
+$Hikomaro
+“I suppose it is.”
+$Tomoko
+“Is it because it’s my birthday and it's a special day?”
+$Hikomaro
+“To put it simply, yes.”
+$Tomoko
+“Are we going somewhere to play?”
+$Hikomaro
+“Does this area look familiar to you?”
+$Tomoko
+“...”
+$Hikomaro
+“Are you pretending not to know?”
+$Tomoko
+“N-No.”
+$Hikomaro
+“This should be a path you’ve been familiar with since you were little.”
+$Tomoko
+“...!”
+$Hikomaro
+“Whether you were going out to play, going to school, or even going to your part-time job, you must have passed through this alleyway.”
+$Tomoko
+“I-I’m not going, okay?”
+$Hikomaro
+“Whatever do you mean?”
+$Tomoko
+“I’m... I’m not going to my house.”
+$Hikomaro
+“Do you really hate it that much?”
+$Tomoko
+“I don’t want to see it anymore, and I don’t want to meet them.”
+$Hikomaro
+“So there are only painful memories?”
+$Tomoko
+“That’s right.”
+$Hikomaro
+“We won’t go inside the house.”
+$Tomoko
+“But just being near it is... I told you I hate it!”
+$Hikomaro
+“We’re just going to take a quick peek from the outside.”
+It must have been built over forty years ago.
+A rare single-story wooden house.
+The dark brown wooden siding felt purely like the Showa era.
+The windows weren't aluminum but still had their original wooden frames.
+The light from a lightbulb could be seen through the curtains.
+$Tomoko
+“...”
+Standing between the aged gateposts.
+As if a line had been drawn right there.
+Tomoko-chan stood frozen with her feet together.
+$Hikomaro
+“Don’t stop now, please.”
+$Tomoko
+“O-Old man, you go first.”
+$Hikomaro
+“But it’s your own home.”
+$Tomoko
+“T-That’s exactly why I hate it.”
+$Hikomaro
+“...Your mother is inside.”
+$Tomoko
+“You’re the only one who needs to see.”
+$Hikomaro
+“Nothing will ever change if you stay afraid.”
+$Tomoko
+“I... I don't want anything to change anyway.”
+$Hikomaro
+“Then there’s no meaning in you staying with me either.”
+$Tomoko
+“I... I don't want that!”
+Maro’s face was dead serious.
+Seeing that expression.
+Tomoko-chan reluctantly crossed the threshold.
+With every step closer to the window, her face grew stiffer.
+The strides of her approach became narrower and narrower.
+$Tomoko
+“Ugh...”
+$Hikomaro
+“That’s your mother, isn’t it?”
+$Tomoko
+“Y-Yeah.”
+$Hikomaro
+“It must have been a while.”
+$Tomoko
+“I... I haven't seen her once since I fell.”
+$Hikomaro
+“Is she preparing dinner?”
+$Tomoko
+“She’s always late getting home from work, so probably.”
+$Hikomaro
+“I wonder what she’s making.”
+$Tomoko
+“It’s probably just whatever she had lying around.”
+$Hikomaro
+“I imagine eating alone must be quite lonely.”
+$Tomoko
+“I... I wouldn’t know anything about that.”
+$Hikomaro
+“Is it something you don’t care about?”
+$Tomoko
+“...I don’t care.”
+$Hikomaro
+“Then why do you have such a sad look on your face?”
+$Tomoko
+“I... I don’t.”
+$Hikomaro
+“Do you hate your mother?”
+$Tomoko
+“I mean, she’s just way too strict!”
+$Hikomaro
+“Because she made you work part-time jobs all the time?”
+$Tomoko
+“Even when everyone else was out playing, I was the only one working.”
+$Hikomaro
+“And you weren't even allowed to use the money you earned freely.”
+$Tomoko
+“She... She took almost all of it from me.”
+$Hikomaro
+“And she hardly ever bought you anything you wanted.”
+$Tomoko
+“I really had to endure so much.”
+$Hikomaro
+“I wonder if she was using it for living expenses.”
+$Tomoko
+“Of course she was!”
+$Hikomaro
+“No, she wasn’t.”
+$Tomoko
+“Eh?”
+$Hikomaro
+“She was saving it up for you, Tomoko-chan.”
+$Tomoko
+“...”
+$Hikomaro
+“Your mother hasn't touched a single yen of it.”
+$Tomoko
+“Y-You’re lying.”
+$Hikomaro
+“There are two bankbooks inside her drawer. One is for when you go to college, and the other is for when you get married.”
+$Tomoko
+“...”
+$Hikomaro
+“See? You were truly loved.”
+$Tomoko
+“She... She was probably relieved when I was gone.”
+$Hikomaro
+“The house has a six-mat room and a three-mat room, doesn't it?”
+$Tomoko
+“What about it?”
+$Hikomaro
+“It’s a very cramped little house.”
+$Tomoko
+“I... I know that. I hated it so much when my friends found out.”
+$Hikomaro
+“I believe it was when you started middle school. Didn't you beg your mother for your own room, even though it was a lot to ask?”
+$Tomoko
+“...I did.”
+$Hikomaro
+“That room is still exactly as you left it.”
+$Tomoko
+“Eh?”
+$Hikomaro
+“Your mother wasn't relieved at all when you disappeared. Believing that you would eventually come back, she has continued to live her life in that single six-mat room.”
+$Tomoko
+“...”
+$Hikomaro
+“Your greatest regret, Tomoko-chan...”
+While keeping his gaze fixed on the mother.
+Maro whispered as if talking to himself.
+$Hikomaro
+“Isn’t it actually about your mother?”
+$Tomoko
+“T-That’s absolutely not true! She just got divorced on her own, became poor on her own, and I was the one who suffered for it!”
+$Hikomaro
+“...”
+$Tomoko
+“C-Can we go home now?”
+$Hikomaro
+“Because looking at it is too painful for you?”
+$Tomoko
+“Why... Why did you bring me to a place like this?!”
+$Hikomaro
+“Because I felt it was necessary.”
+$Tomoko
+“I’m happy just being with you, old man. That’s enough for me.”
+$Hikomaro
+“...Is that so?”
+$Tomoko
+“Why do you have to try and change things? Why can’t everything just stay the same? There were so many things I was better off not knowing, even until now!”
+$Hikomaro
+“...”
+$Hikomaro
+“...If you truly didn't care, you wouldn't be crying like this.”
+After that night, Tomoko-chan...
+She would sit by the window.
+Staring blankly up at the sky.
+I thought it was just a passing phase.
+But it continued day and night, without end.
+And as she slowly began to face herself.
+She was no longer caught between worlds.
+$Tomoko
+“...”
+Her conversations with Maro grew drastically fewer.
+She no longer went out with him.
+It wasn't that she was avoiding him.
+It was just that doing so had become difficult.
+With each passing day, her body became more transparent.
+And her voice became harder and harder to hear.
+For the past few days, Maro would do all the talking.
+And she would respond with only a simple nod.
+There was a loneliness beyond words.
+But if this was the end of the story we had reached...
+It couldn't be helped.
+For her, her regret wasn't that she had forgotten to do something.
+It was her feelings toward her mother.
+And realizing the love her mother had for her.
+And then, one night.
+Tomoko-chan came to say her goodbyes.
+Though they could no longer exchange words.
+The feelings she wanted to convey were painfully clear.
+$Tomoko
+“...”
+She stared intently at Maro.
+Then, she quietly knelt down at his feet.
+Her transparent body was completely naked.
+Only the band-aids on her chest had yet to be peeled off.
+Without using the single remaining Wish Orb.
+And of course, without casting any binding spells.
+She wanted Maro to see her exactly as she was.
+Her final selfish wish.
+But it was an act she had thought through carefully.
+“Thank you for everything.”
+It felt as if her lips had moved to say those words.
+With that mouth, she kissed Maro’s penis.
+And with both hands, she lovingly cupped his scrotum.
+But the sensation was thin like a dragonfly’s wing.
+Faintly proving that she still existed.
+It likely felt the same for her...
+As it did for Maro.
+But she caressed him with all her heart.
+And Maro tried his best to respond.
+Tonight was the final farewell of this life.
+Because they both knew it had to be.
+$Tomoko
+“...”
+Once upon a time.
+There was a beautiful lady dressed in black.
+She had a single piece of paper with my name on it, and a single withered flower.
+“Since you’re still young, this is all I can give you,” she said.
+Then we walked down a path covered in white pebbles.
+And she took me to a house where an old man with a white beard lived.
+Then he told me, “You have too many regrets left behind.”
+The old man wouldn't give me his stamp of approval.
+Instead, he gave me five orbs and told me to go fulfill my wishes.
+And if I ever didn't know what to do.
+He told me to follow the person with wings on their back.
+That’s why I called out to you.
+The person with wings on their back.
+There were two of you in front of the shrine.
+Old man, and the lady.
+Thank you for everything.
+I couldn't give anything back to you.
+I’m really sorry.
+$Hikomaro
+“...”
+It’s quite all right, my dear.
+There is no need to apologize.
+Being able to stay with you, Tomoko-chan.
+Maro truly had a wonderful time.
+The thing called a family that I never had.
+I was able to catch a small glimpse of it.
+I received a happiness that I never got to experience.
+$Tomoko
+“...”
+The feelings of the two intertwined.
+And along with a sense of sorrow, they gently floated upward.
+It sparkled in the air like stardust.
+And fluttered down into the depths of their hearts.
+As she gazed at Maro, she spread her legs.
+Exposing her far too young private parts without reservation.
+This is me.
+With a straight gaze, she made her plea.
+And she even peeled back the hood of her cute little clitoris herself.
+The faint patch of hair at the base.
+It softly covered her mons pubis.
+Its thinness could not hide the seam where the vertical lines met.
+Only a tiny bit of her petals peeked out from the slit.
+The pale coloration showed her innocence.
+$Tomoko
+“...”
+But she wasn't a child.
+And so Tomoko-chan pulled the penis toward her.
+And gently pressed it against her own slit.
+Maro’s flesh sank into her semi-transparent body.
+And the warmth of it caused a sob to escape her lips.
+$Tomoko
+“O-Old... man...”
+She wasn't crying.
+Her expression was an angelic smile.
+Brimming with a sense of happiness that matched the weight of her feelings.
+God was telling her that the caterpillar had become a butterfly.
+Maro’s penis also became hard enough to pierce the heavens.
+And from its tip, a teardrop-like bead of dew trickled down.
+Supplementing the thinness of sensation with their mutual feelings.
+Just as they had when they held hands.
+They confirmed the part where they were joined over and over again.
+This created a faint friction.
+Which slightly disarrayed the neat vertical line.
+Naturally, her wings spread open.
+And her vaginal opening widened as if to accept everything.
+The vivid cherry-blossom flesh peeking out from inside.
+Just like the clitoris that had been exposed.
+Every part that was colored was fresh and heart-wrenching.
+For Tomoko-chan, this act had nothing to do with pleasure.
+It was an act to erase her final regret.
+There was no desire to try and act grown-up.
+There was only the feeling of cherishing the penis.
+Good girl, good girl.
+He stroked the glans of the penis buried inside her.
+And let the part of the swelling meat-umbrella touch her bud.
+By doing so, she felt at peace.
+And her body trembled with the feelings that were being sublimated.
+$Hikomaro
+“Ngh...!”
+Splash!
+The vibration of her heart was transmitted to his penis.
+And Maro came while still wrapped in her warmth.
+Splash, splash, splash, splash, splash!
+Gently embraced by Tomoko-chan’s affection.
+He sent his semen spurting from the tip over and over again.
+And as if satisfied by witnessing it.
+She slowly began to fade away.
+Without leaving behind a single drop of the semen she had received.
+She vanished like a thinning mist.
+$Hikomaro
+“...”
+It wasn't a dream.
+And of course, it wasn't an illusion.
+Maro’s flesh was slick and wet.
+It was proof that he had been with her.
+And the warmth inside his body still faintly remained.
+Maro was unable to move for a while.
+He stared up at the ceiling in a daze.
+The impermanence of all things.
+It was exactly as they said.
+But this wasn't the end.
+Maro still had things left to do...
+And the next morning.
+As if that noisy daily life had been a lie.
+Maro was alone once again.
+There was no sign of Tomoko-chan by the window.
+Only the sound of birds chirping could be heard.
+His gaze naturally drifted toward the dresser.
+And Maro stared intently at the Wish Orb that had been left behind.
+$Hikomaro
+“...I suppose it’s time.”
+He muttered to himself.
+Every beginning has an end.
+The meaninglessness of living only for oneself.
+Maro had known that for a long, long time.
+$Hikomaro
+“I wonder if just one is enough.”
+He muttered to the heavens once more.
+Then, he picked up the Wish Orb.
+And peered into its glittering contents.
+For some reason, the wife’s face flickered in his mind.
+And Maro gave a somewhat lonely smile.
+$Hikomaro
+“If there’s a Wish Orb left inside me as well, then I suppose I’ll try to negotiate, even if it’s a lot to ask... with that fickle old man with the white beard.”
+Maro made his decision once again.
+His face was bright.
+And there was no longer any shadow of doubt or hesitation.
+Even if he would never see tomorrow’s sunrise again.
+He was sure someone would see it in his stead.
+It was painful to leave without saying anything.
+But he was sure the wife would eventually understand...
+--------------------
+yokohp
+********************
+Yokoyama's remaining stamina is
+.
+--------------------
+yukihp
+********************
+Yukina's remaining stamina is
+.
