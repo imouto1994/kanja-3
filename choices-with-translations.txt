@@ -1,0 +1,480 @@
+--------------------
+sento01
+********************
+Group 1
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+咲美と雪菜を呼ぶ → Call Sakimi and Yukina
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+選び直す → Select again
+--------------------
+sento01saki
+********************
+Group 1
+ブタ男１ → Pig Man 1
+ブタ男２ → Pig Man 2
+選び直す → Select again
+--------------------
+sento01yoko
+********************
+Group 1
+ブタ男１ → Pig Man 1
+ブタ男２ → Pig Man 2
+選び直す → Select again
+--------------------
+sento01yuki
+********************
+Group 1
+ブタ男１ → Pig Man 1
+ブタ男２ → Pig Man 2
+選び直す → Select again
+--------------------
+sento02
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 5
+通常攻撃 → Normal Attack
+選び直す → Select again
+--------------------
+sento02maro
+********************
+Group 1
+ブタ男３ → Pig Man 3
+ブタ男４ → Pig Man 4
+選び直す → Select again
+--------------------
+sento02saki
+********************
+Group 1
+ブタ男３ → Pig Man 3
+ブタ男４ → Pig Man 4
+選び直す → Select again
+--------------------
+sento02yoko
+********************
+Group 1
+ブタ男３ → Pig Man 3
+ブタ男４ → Pig Man 4
+選び直す → Select again
+--------------------
+sento02yuki
+********************
+Group 1
+ブタ男３ → Pig Man 3
+ブタ男４ → Pig Man 4
+選び直す → Select again
+--------------------
+sento04
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Silver Tongue Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 5
+通常攻撃 → Normal Attack
+選び直す → Select again
+--------------------
+sento04maro
+********************
+Group 1
+コック１ → Cook 1
+選び直す → Select again
+--------------------
+sento04saki
+********************
+Group 1
+コック１ → Cook 1
+選び直す → Select again
+--------------------
+sento04yoko
+********************
+Group 1
+コック１ → Cook 1
+選び直す → Select again
+--------------------
+sento04yuki
+********************
+Group 1
+コック１ → Cook 1
+選び直す → Select again
+--------------------
+sento05
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Silver Tongue Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 5
+通常攻撃 → Normal Attack
+割り切る気持ち → Resilience
+選び直す → Select again
+--------------------
+sento05maro
+********************
+Group 1
+ブタ男５ → Pig Man 5
+ブタ男６ → Pig Man 6
+選び直す → Select again
+--------------------
+sento05saki
+********************
+Group 1
+ブタ男５ → Pig Man 5
+ブタ男６ → Pig Man 6
+選び直す → Select again
+--------------------
+sento05yoko
+********************
+Group 1
+ブタ男５ → Pig Man 5
+ブタ男６ → Pig Man 6
+選び直す → Select again
+--------------------
+sento06
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Silver Tongue Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+火事場の馬鹿力 → Adrenaline Surge
+選び直す → Select again
+
+Group 5
+通常攻撃 → Normal Attack
+割り切る気持ち → Resilience
+選び直す → Select again
+--------------------
+sento06maro
+********************
+Group 1
+コック２ → Cook 2
+コック３ → Cook 3
+選び直す → Select again
+--------------------
+sento06saki
+********************
+Group 1
+コック２ → Cook 2
+コック３ → Cook 3
+選び直す → Select again
+--------------------
+sento06yoko
+********************
+Group 1
+コック２ → Cook 2
+コック３ → Cook 3
+選び直す → Select again
+--------------------
+sento06yuki
+********************
+Group 1
+コック２ → Cook 2
+コック３ → Cook 3
+選び直す → Select again
+--------------------
+sento07
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Select again
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Silver Tongue Attack
+選び直す → Select again
+
+Group 4
+通常攻撃 → Normal Attack
+火事場の馬鹿力 → Adrenaline Surge
+選び直す → Select again
+
+Group 5
+通常攻撃 → Normal Attack
+割り切る気持ち → Resilience
+選び直す → Select again
+--------------------
+sento07maro
+********************
+Group 1
+ウマ男１ → Horse Man 1
+ウマ男２ → Horse Man 2
+選び直す → Select again
+--------------------
+sento07saki
+********************
+Group 1
+ウマ男１ → Horse Man 1
+ウマ男２ → Horse Man 2
+選び直す → Select again
+--------------------
+sento08
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+選び直す → Reselect
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Persuasion Attack
+選び直す → Reselect
+
+Group 4
+通常攻撃 → Normal Attack
+火事場の馬鹿力 → Adrenaline Strength
+選び直す → Reselect
+
+Group 5
+通常攻撃 → Normal Attack
+割り切る気持ち → Numb the Heart
+選び直す → Reselect
+--------------------
+sento08maro
+********************
+Group 1
+ウマ男３ → Horse-Man 3
+ウマ男４ → Horse-Man 4
+選び直す → Reselect
+--------------------
+sento08saki
+********************
+Group 1
+ウマ男３ → Horse-Man 3
+ウマ男４ → Horse-Man 4
+選び直す → Reselect
+--------------------
+sento08yoko
+********************
+Group 1
+ウマ男３ → Horse-Man 3
+ウマ男４ → Horse-Man 4
+選び直す → Reselect
+--------------------
+sento08yuki
+********************
+Group 1
+ウマ男３ → Horse-Man 3
+ウマ男４ → Horse-Man 4
+選び直す → Reselect
+--------------------
+sento09
+********************
+Group 1
+麻呂 → Maro
+横山 → Yokoyama
+咲美 → Sakimi
+雪菜 → Yukina
+
+Group 2
+通常攻撃 → Normal Attack
+秘密の注射 → Secret Injection
+選び直す → Reselect
+
+Group 3
+通常攻撃 → Normal Attack
+口先攻撃 → Persuasion Attack
+選び直す → Reselect
+
+Group 4
+通常攻撃 → Normal Attack
+火事場の馬鹿力 → Adrenaline Strength
+選び直す → Reselect
+--------------------
+sento09maro
+********************
+Group 1
+布施 → Fuse
+ウマ男５ → Horse-Man 5
+ウマ男６ → Horse-Man 6
+選び直す → Reselect
+--------------------
+sento09saki
+********************
+Group 1
+布施 → Fuse
+ウマ男５ → Horse-Man 5
+ウマ男６ → Horse-Man 6
+選び直す → Reselect
+--------------------
+sento09yoko
+********************
+Group 1
+布施 → Fuse
+ウマ男５ → Horse-Man 5
+ウマ男６ → Horse-Man 6
+選び直す → Reselect
+--------------------
+stage38
+********************
+Group 1
+絶対に覗いちゃう → I’m definitely peeking.
+完全に覗いちゃう → I’m completely peeking.
+速攻で覗いちゃう → I’m peeking right this second.
+堂々と覗いちゃう → I’m peeking with pride.
+
+Group 2
+いと犯しぃ → How very alluring.
+ここは我慢でおじゃる → I must endure here.
+--------------------
+stage41
+********************
+Group 1
+公家パンチを喰らわす → Deliver a court noble punch
+蹴鞠キックを喰らわす → Deliver a kemari kick
+大声で奥さんを呼ぶ → Call out to the wife loudly
+
+Group 2
+話し合いで解決 → Resolve it through discussion
+警察を呼ぶと脅す → Threaten to call the police
+強引に割り込む → Forcefully push through
+
+Group 3
+飛ぶ → Fly
+潜る → Dive
+--------------------
+stage41a
+********************
+Group 1
+いと犯しぃ → How enticing.
+肩を貸してあげる → Lend a shoulder.
+--------------------
+stage42
+********************
+Group 1
+雪菜ちゃんを診察 → Perform a medical examination on Yukina-chan
+雪菜ちゃんを診察 → Perform a medical examination on Yukina-chan
+雪菜ちゃんを診察 → Perform a medical examination on Yukina-chan
+雪菜ちゃんを診察 → Perform a medical examination on Yukina-chan
+--------------------
+stage44
+********************
+Group 1
+いいですぅ → It’s fine
+ダメですぅ → It’s no good
+--------------------
+stage46
+********************
+Group 1
+調べてみる → Investigate
+このまま寝ちゃう → Stay asleep
+--------------------
+stage49
+********************
+Group 1
+引き出しを開ける → Open the drawer.
+さすがにそれはダメだろ → Surely that’s not allowed.
+--------------------
+stage52
+********************
+Group 1
+何も言わない → Saying nothing
+旦那さんに電話してみましたか？ → Did you try calling the Master?
+--------------------
+stage53
+********************
+Group 1
+忙しいから手短に責めてやる → I'm busy, so I'll attack you briefly.
+時間はたっぷりあるわけだし → We've got plenty of time, after all.
+--------------------
+stage59
+********************
+Group 1
+動物園 → Zoo
+プール → Pool
+遊園地 → Amusement Park
+ラブホ → Love Hotel
+
+Group 2
+動物園 → Zoo
+プール → Pool
+遊園地 → Amusement Park
+ラブホ → Love Hotel
+
+Group 3
+動物園 → Zoo
+プール → Pool
+遊園地 → Amusement Park
+ラブホ → Love Hotel

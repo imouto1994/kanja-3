@@ -5,7 +5,7 @@
  * matching sections, and builds a JSON mapping of every unique original line
  * to its translated counterpart.
  *
- * Speech source lines (＃ in original, # in translated) and their following
+ * Speech source lines (＃ in original, $ in translated) and their following
  * content lines are merged into a single entry:
  *
  *   Original:  ＃咲美            →  key:   "〈咲美〉：こんちわ。"
@@ -159,16 +159,6 @@ function stripBracketsJP(line) {
   return line;
 }
 
-/**
- * Strip the \u201C\u201D quotes from an English speech content line.
- */
-function stripBracketsEN(line) {
-  if (line.startsWith("\u201C") && line.endsWith("\u201D")) {
-    return line.slice(1, -1);
-  }
-  return line;
-}
-
 async function main() {
   // Step 1: Read and concatenate all chunks from both directories.
   const originalText = await readChunks(ORIGINAL_CHUNKS_DIR);
@@ -201,7 +191,7 @@ async function main() {
       }
 
       // Step 3b: Handle speech lines (＃ source + content on next line).
-      // Original uses full-width ＃, translated uses half-width #.
+      // Original uses full-width ＃, translated uses $.
       if (origLine.startsWith("＃")) {
         const speakerJP = origLine.slice(1);
         const speakerEN = SPEAKER_MAP.get(speakerJP);
@@ -217,8 +207,7 @@ async function main() {
 
           // Key uses 〈name〉：content format, stripping 「」 from original.
           const key = `〈${speakerJP}〉：${stripBracketsJP(contentOrig)}`;
-          // Value uses EN name: \u201Ccontent\u201D, stripping translated quotes.
-          const value = `${speakerEN || speakerJP}: \u201C${stripBracketsEN(contentTrans)}\u201D`;
+          const value = `${speakerEN || speakerJP}: ${contentTrans}`;
 
           if (!map.has(key)) {
             map.set(key, value);
